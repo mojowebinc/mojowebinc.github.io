@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_01Land1600.jpg
+  image_fullwidth: 01home1600.jpg
 widget1:
   title: "Change Management"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -35,7 +35,7 @@ widget3:
 callforaction:
   url: https://tinyletter.com/feeling-responsive
   text: Visit the Future State Resource Center ›
-  style: 
+  style: secondary
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
