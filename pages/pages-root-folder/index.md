@@ -35,7 +35,7 @@ widget3:
 callforaction:
   url: https://tinyletter.com/feeling-responsive
   text: Visit the Future State Resource Center ›
-  style: secondary-color
+  style: secondary
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
