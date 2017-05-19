@@ -4,11 +4,19 @@
   side: left
 
 # Navigation for Mojo-Web Services: Change Managment, Communication, Instructional Design
-# Layout order: blog --> default --> compressed
+# Located in /pages/
+# Layout order: /Layout/page-fullwidth --> default --> compress
+- title: Change Management
+  url: "/02ocm/"
+  side: left
+
 - title: Communication
   url: "/03com/"
   side: left
 
+- title: Instructional Design
+  url: "/04insd/"
+  side: left
 
 # - title: Getting Started
 #  url: "/getting-started/"

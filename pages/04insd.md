@@ -1,13 +1,13 @@
 ---
 layout: page-fullwidth
-title:  "Communication"
-subheadline:  "Can you hear me now?"
+title:  "Instructional Design"
+subheadline:  "'What I hear, I forget. What I see, I remember. What I do, I understand.' Xunzi"
 teaser: "The full-width page format gives you all the space you need to show your content using the grid."
 categories:
     - design
 header:
-   image_fullwidth: 03com1600.jpg
-permalink: "/03com/"
+   image_fullwidth: 04insd1600.jpeg
+permalink: "/04insd/"
 ---
 
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
