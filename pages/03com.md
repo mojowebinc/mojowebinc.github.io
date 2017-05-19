@@ -18,16 +18,17 @@ permalink: "/03com/"
 
 <div class="row">
 	<div class="medium-8 columns t30">
+
+  ## Front Matter Code
+  ~~~
+  header:
+      title: header with text
+      image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+      caption: This is a caption for the header image with link
+      caption_url: https://unsplash.com/
+  ~~~
+
 		{% include _pagination.html %}
-    
-    ## Front Matter Code
-    ~~~
-    header:
-        title: header with text
-        image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-        caption: This is a caption for the header image with link
-        caption_url: https://unsplash.com/
-    ~~~
 
 	</div><!-- /.medium-7.columns -->
 
