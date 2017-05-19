@@ -6,7 +6,7 @@
 # Navigation for Mojo-Web Services: Change Managment, Communication, Instructional Design
 # Layout order: blog --> default --> compressed
 - title: Communication
-  url: "/design/"
+  url: "/03com/"
   side: left
 
 

@@ -16,7 +16,7 @@ header:
     image_fullwidth: u03com1600.jpg
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
-
+permalink: "/03com/"
 ---
 <!--more-->
 
