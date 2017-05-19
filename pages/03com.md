@@ -2,15 +2,6 @@
 layout: page
 format: blog-index
 noindex: true
-title: "Communication"
-subheadline: "Communication"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This header is with text."
-categories:
-    - design
-tags:
-    - design
-    - background color
-    - header
 header:
     title: Communication
     background-color: "#EFC94C;"
