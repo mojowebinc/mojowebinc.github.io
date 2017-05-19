@@ -1,6 +1,14 @@
+# Navigation links for the Start Page
 - title: Start
   url: "/"
   side: left
+
+# Navigation for Mojo-Web Services: Change Managment, Communication, Instructional Design
+# Layout order: blog --> default --> compressed
+- title: Communication
+  url: "/03com/"
+  side: left
+
 
 # - title: Getting Started
 #  url: "/getting-started/"
