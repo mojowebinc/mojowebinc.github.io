@@ -19,9 +19,9 @@ permalink: "/03com/"
 <div class="row">
 	<div class="medium-8 columns t30">
 
-<b> This is a test</b>
-this is a tests
-<i> this is a test</i>
+<p><b> This is a test</b></p>
+<p>this is a tests</p>
+<p><i> this is a test</i></p>
 
 		{% include _pagination.html %}
 
