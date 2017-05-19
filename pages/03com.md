@@ -15,20 +15,26 @@ permalink: "/03com/"
 <!--more-->
 
 
-
 <div class="row">
-	<div class="medium-8 columns t30">
+  <div class="columns">
 
-<p><b> This is a test</b></p>
-<p>this is a tests</p>
-<p><i> this is a test</i></p>
+    <b>This is a test</b>
 
-		{% include _pagination.html %}
+    <div class="row">
+    	<div class="medium-8 columns t30">
 
-	</div><!-- /.medium-7.columns -->
+        <p><b> This is a test</b></p>
+        <p>this is a tests</p>
+        <p><i> this is a test</i></p>
+
+    		{% include _pagination.html %}
+
+    	</div><!-- /.medium-7.columns -->
 
 
-	<div class="medium-4 columns t30">
-		{% include _sidebar.html %}
-	</div><!-- /.medium-5.columns -->
-</div><!-- /.row -->
+    	<div class="medium-4 columns t30">
+    		{% include _sidebar.html %}
+    	</div><!-- /.medium-5.columns -->
+    </div><!-- /.row -->
+    </div>
+</div>
