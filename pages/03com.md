@@ -1,37 +1,45 @@
 ---
-layout: page
+layout: page-fullwidth
 title:  "Communication"
-subheadline:  "Headers With Style"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header with a <em>full-width-image</em>."
+subheadline:  "Can you hear me now?"
+teaser: "The full-width page format gives you all the space you need to show your content using the grid."
 categories:
     - design
-tags:
-    - design
-    - background color
-    - header
-image:
-   thumb: "03com1600.jpg"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+   image_fullwidth: 03com1600.jpg
 permalink: "/03com/"
 ---
-It's so easy to do. Just define in front matter your image.
+*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 <!--more-->
 
-## Front Matter Code
+<div class="row">
+    <div class="medium-4 columns t30">
+    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
 
-~~~
-header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-~~~
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
+
+<div class="row">
+    <div class="medium-8 columns t30">
+    <img src="{{ site.urlimg }}gallery-example-7.jpg" alt="">
+    </div><!-- /.medium-8.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
+      <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
 
 
 
-### All Header-Styles
-{: .t60 }
-
-{% include list-posts tag='header' %}
+ [1]: http://foundation.zurb.com/docs/components/grid.html
