@@ -22,15 +22,15 @@ permalink: "/03com/"
 
 ## Front Matter Code
 
-~~~
-header:
-    title: Communication
-    image_fullwidth: u03com1600.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-~~~
+## ~~~
+## header:
+##    title: Communication
+##    image_fullwidth: u03com1600.jpg
+##    caption: This is a caption for the header image with link
+##    caption_url: https://unsplash.com/
+##~~~
 
 ### All Header-Styles
-{: .t60 }
+## {: .t60 }
 
-{% include list-posts tag='header' %}
+## {% include list-posts tag='header' %}
