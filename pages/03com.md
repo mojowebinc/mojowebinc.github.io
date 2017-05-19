@@ -19,14 +19,9 @@ permalink: "/03com/"
 <div class="row">
 	<div class="medium-8 columns t30">
 
-  ## Front Matter Code
-  ~~~
-  header:
-      title: header with text
-      image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-      caption: This is a caption for the header image with link
-      caption_url: https://unsplash.com/
-  ~~~
+<b> This is a test</b>
+this is a tests
+<i> this is a test</i>
 
 		{% include _pagination.html %}
 
