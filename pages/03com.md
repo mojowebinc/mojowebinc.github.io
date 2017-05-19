@@ -1,5 +1,7 @@
 ---
 layout: page
+format: blog-index
+noindex: true
 title: "Communication"
 subheadline: "Communication"
 teaser: "Feeling Responsive allows you to use all kinds of headers. This header is with text."
@@ -17,20 +19,17 @@ header:
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 permalink: "/03com/"
+
 ---
 <!--more-->
 
-## Front Matter Code
+<div class="row">
+	<div class="medium-8 columns t30">
+		{% include _pagination.html %}
+	</div><!-- /.medium-7.columns -->
 
-## ~~~
-## header:
-##    title: Communication
-##    image_fullwidth: u03com1600.jpg
-##    caption: This is a caption for the header image with link
-##    caption_url: https://unsplash.com/
-##~~~
 
-### All Header-Styles
-## {: .t60 }
-
-## {% include list-posts tag='header' %}
+	<div class="medium-4 columns t30">
+		{% include _sidebar.html %}
+	</div><!-- /.medium-5.columns -->
+</div><!-- /.row -->
