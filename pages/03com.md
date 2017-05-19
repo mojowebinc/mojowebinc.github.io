@@ -1,11 +1,11 @@
 --
 layout: page-fullwidth
-title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
+title: "Communication"
+subheadline: "Communication"
 teaser: "The documentation is a work in progress..."
-permalink: "/documentation/"
+permalink: "/03com/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "03com1600.jpg"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
