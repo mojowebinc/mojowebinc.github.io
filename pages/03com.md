@@ -6,7 +6,7 @@ teaser: "The full-width page format gives you all the space you need to show you
 categories:
     - design
 header:
-   image_fullwidth: 03com1600.jpg
+   image_fullwidth: 03com2000.jpg
 permalink: "/03com/"
 ---
 
