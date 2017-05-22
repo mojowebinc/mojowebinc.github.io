@@ -6,7 +6,7 @@ teaser: "Get in touch with me? Use the contact form."
 categories:
     - design
 header:
-   image_fullwidth: 03com2000.jpg
+   image_fullwidth: 06contact2000.jpg
 permalink: "/contact/"
 ---
 
