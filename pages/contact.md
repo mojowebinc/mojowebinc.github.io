@@ -1,9 +1,10 @@
 ---
 layout: page-fullwidth
 title: "Contact"
-meta_title: "Contact and use our contact form"
 subheadline: "Wufoo-powered contact forms"
 teaser: "Get in touch with me? Use the contact form."
+categories:
+    - design
 header:
    image_fullwidth: 06contact2000.jpeg
 permalink: "/contact/"
