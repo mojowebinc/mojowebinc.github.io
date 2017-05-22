@@ -9,17 +9,17 @@ header:
   image_fullwidth: 01home2000.jpg
 widget1:
   title: "Change Management"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: '/02ocm/'
   image: 02ocm302x182.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "Communication"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: '/03com/'
   image: 03com302x182.jpg
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 widget3:
   title: "Instructional Design"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/04insd/'
   image: 04insd302x182.jpeg
   text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
 #
