@@ -10,7 +10,7 @@ tags:
     - OCM Approach
     - OCM Theory
 header:
-    title: Blog: Change Management
+    title: "Blog: Change Management"
     background-color: "#EFC94C;"
 #    pattern: pattern_concrete.jpg
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
