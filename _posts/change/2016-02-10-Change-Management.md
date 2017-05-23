@@ -2,7 +2,7 @@
 layout: page
 title: "Change Management"
 subheadline: "Change Management Overview"
-teaser: "Change Management for the New millennium."
+teaser: "Adapt or Die” is an article by John S. MacCallum that views the struggle of companies in the new millennium through the prism of Darwin’s theory of adaption, those that are able to adapt survive."
 breadcrumb: true
 categories:
     - Blog
@@ -10,12 +10,11 @@ tags:
     - OCM Approach
     - OCM Theory
 header:
-    title: Change Management Blog
+    title: The Change Blog
     background-color: "#EFC94C;"
-#    pattern: pattern_concrete.jpg
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    image_fullwidth: 02ocm2000.jpg
+    caption: Photo by George Pachantouris.
+    caption_url: https://www.flickr.com/photos/gpahas//
 
 image:
 #   title: cmb_160210_title.jpg
@@ -27,7 +26,7 @@ image:
 <!--more-->
 
 ## Adapting at the Speed of Change
-“Adapt or Die” is an article by John S. MacCallum that views the struggle of companies in the new millennium through the prism of Darwin’s theory of adaption, those that are able to adapt survive. However, instead of coping with the natural environment, organizations today face a rapidly changing business environment where those that adapt most quickly to changing trends and drivers (e.g., globalization, technology) will have a competitive advantage. The key to organizations surviving this dynamic environment is to be both proactive and relentless in managing change.
+However, instead of coping with the natural environment, organizations today face a rapidly changing business environment where those that adapt most quickly to changing trends and drivers (e.g., globalization, technology) will have a competitive advantage. The key to organizations surviving this dynamic environment is to be both proactive and relentless in managing change.
 
 When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail. While technical issues might seem the obvious issue, results showed that ignoring the “people” side of change was at the core of failure. In particular, efforts that did not succeed noted resistance or lack of “buy-in” on the part of leaders and employees, along with unrealistic expectations, poor communication and a lack of adequate training. All of which could be effectively managed through well structured Organization Change Management program.
 
