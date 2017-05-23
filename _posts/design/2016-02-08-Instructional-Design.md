@@ -17,11 +17,11 @@ header:
     caption_url: https://unsplash.com/@antoinebeauvillain
 
 image:
-#   title: cmb_160210_title.jpg
-    thumb: cmb_160210_thumb.jpg
-    homepage: cmb_160210_home.jpg
-    caption: Photo by Nick Youngson - The Blue Diamond Gallory.
-    caption_url: http://www.thebluediamondgallery.com/tablet/c/change.html
+#   title: b04in_160208_title.jpg
+    thumb: b04in_160208_thumb.jpg
+    homepage: b04in_160208_home.jpg
+    caption: Photo by @lumvox - Unsplash.
+    caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
 

@@ -7,8 +7,8 @@ breadcrumb: true
 categories:
     - Blog
 tags:
-    - Instructional Design Approach
-    - Instructional Design Theory
+    - Communication Approach
+    - Communication Theory
 header:
     title: The Communication Blog
     background-color: "#EFC94C;"
@@ -17,11 +17,11 @@ header:
     caption_url: http://startupstockphotos.com/
 
 image:
-#   title: cmb_160210_title.jpg
-    thumb: cmb_160210_thumb.jpg
-    homepage: cmb_160210_home.jpg
-    caption: Photo by Nick Youngson - The Blue Diamond Gallory.
-    caption_url: http://www.thebluediamondgallery.com/tablet/c/change.html
+#   title: b02cm_160210_title.jpg
+    thumb: b02cm_160210_thumb.jpg
+    homepage: b02cm_160210_home.jpg
+    caption: Photo by @ptrikutam - Unsplash.
+    caption_url: https://unsplash.com/@ptrikutam
 ---
 <!--more-->
 
