@@ -20,8 +20,8 @@ image:
     title: b02cm_160210_title.jpg
     thumb: b02cm_160210_thumb.jpg
     homepage: b02cm_160210_home.jpg
-    caption: Photo by Nick Youngson - The Blue Diamond Gallery.
-    caption_url: http://www.thebluediamondgallery.com/tablet/c/change.html
+    caption: Photo by @anniespratt - Unsplash.
+    caption_url: https://unsplash.com/@anniespratt
 ---
 <!--more-->
 
