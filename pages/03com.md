@@ -7,6 +7,9 @@ categories:
     - design
 header:
    image_fullwidth: 03com2000.jpg
+   caption: Photo by Startup Stock Photos - @estrattonbailey & @wearesculpt.
+   caption_url: http://startupstockphotos.com/
+
 permalink: "/03com/"
 ---
 

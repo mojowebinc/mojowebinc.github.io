@@ -7,6 +7,9 @@ categories:
     - design
 header:
    image_fullwidth: 02ocm2000.jpg
+   caption: Photo by George Pachantouris.
+   caption_url: https://www.flickr.com/photos/gpahas/
+
 permalink: "/02ocm/"
 ---
 
