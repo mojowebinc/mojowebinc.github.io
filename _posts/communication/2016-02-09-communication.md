@@ -17,11 +17,11 @@ header:
     caption_url: http://startupstockphotos.com/
 
 image:
-#   title: b02cm_160210_title.jpg
-    thumb: b02cm_160210_thumb.jpg
-    homepage: b02cm_160210_home.jpg
-    caption: Photo by @ptrikutam - Unsplash.
-    caption_url: https://unsplash.com/@ptrikutam
+#   title: b03co_1660_title.jpg
+    thumb: b03co_1660_thumb.jpg
+    homepage: b03co_1660_home.jpg
+    caption: Photo by @lumvox - Unsplash.
+    caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
 

@@ -13,13 +13,13 @@ header:
     title: The Design Blog
     background-color: "#EFC94C;"
     image_fullwidth: 04insd2000.jpg
-    caption: Photo by Unsplash – Antoine Beauvillain.
-    caption_url: https://unsplash.com/@antoinebeauvillain
+    caption: Photo by @ptrikutam - Unsplash.
+    caption_url: https://unsplash.com/@ptrikutam
 
 image:
-#   title: b03co_1660_title.jpg
-    thumb: b03co_1660_thumb.jpg
-    homepage: b03co_1660_home.jpg
+#   title: b04in_160208_title.jpg
+    thumb: b04in_160208_thumb.jpg
+    homepage: b04in_160208_home.jpg
     caption: Photo by @lumvox - Unsplash.
     caption_url: https://unsplash.com/@lumvox
 ---
