@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: 01home2000.jpg
-  caption: Photo by Unsplash – Charles Forerunner.
+  caption: Photo by @charles_forerunner - Unsplash.
   caption_url: https://unsplash.com/@charles_forerunner
 
 widget1:
