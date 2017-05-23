@@ -7,6 +7,7 @@ breadcrumb: true
 categories:
     - Blog
 tags:
+    - Instructional Design
     - Instructional Design Approach
     - Instructional Design Theory
 header:
@@ -35,7 +36,7 @@ Samples: CBT, ILT – Presentation, exercise, work instructions / procedures, ma
 
 
 
-### All Header-Styles
+### More Instructional Design Posts
 {: .t60 }
 
-{% include list-posts tag='header' %}
+{% include list-posts tag='Instructional Design' %}

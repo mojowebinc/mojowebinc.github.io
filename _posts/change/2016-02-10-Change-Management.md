@@ -7,6 +7,7 @@ breadcrumb: true
 categories:
     - Blog
 tags:
+    - Change Management
     - OCM Approach
     - OCM Theory
 header:
@@ -36,7 +37,7 @@ MacCallum, John S. (2001). “Adapt or Die”. Ivey Business Journal. Ivey Publi
 
 
 
-### All Header-Styles
+### More Change Management Posts
 {: .t60 }
 
-{% include list-posts tag='header' %}
+{% include list-posts tag='Change Management' %}

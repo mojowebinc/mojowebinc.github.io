@@ -7,6 +7,7 @@ breadcrumb: true
 categories:
     - Blog
 tags:
+    - Communication
     - Communication Approach
     - Communication Theory
 header:
@@ -35,7 +36,7 @@ Samples: CBT, ILT – Presentation, exercise, work instructions / procedures, ma
 
 
 
-### All Header-Styles
+### More Communication Posts
 {: .t60 }
 
-{% include list-posts tag='header' %}
+{% include list-posts tag='Communication' %}
