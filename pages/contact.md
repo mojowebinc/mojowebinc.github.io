@@ -1,20 +1,17 @@
 ---
 layout: page-fullwidth
 title: "Contact"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+subheadline: "The Contact Page is Currently Under Construction"
+teaser: "The Content Page Form is Currently in Progress."
 categories:
     - design
 header:
    image_fullwidth: 06contact2000.jpg
    caption: Photo by Unsplash – Maliha Mannan.
    caption_url: https://unsplash.com/@maliha
-   
+
 permalink: "/contact/"
 ---
 
 
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
-
-
- [1]: http://www.wufoo.com/
+The contact page is currently under construction. If you have question or comment, feel free to contact Jim Farrell at jnfphd@aol.com.
