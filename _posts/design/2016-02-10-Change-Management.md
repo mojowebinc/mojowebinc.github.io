@@ -10,7 +10,7 @@ tags:
     - OCM Approach
     - OCM Theory
 header:
-    title: header with text
+    title: Transforming at the Speed of Change
     background-color: "#EFC94C;"
 #    pattern: pattern_concrete.jpg
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
@@ -18,7 +18,7 @@ header:
     caption_url: https://unsplash.com/
 
 image:
-    title: mediaplayer_js-title.jpg
+#    title: mediaplayer_js-title.jpg
     thumb: mediaplayer_js-thumb.jpg
     homepage: mediaplayer_js-home.jpg
     caption: Photo by Corey Blaz
