@@ -18,11 +18,11 @@ header:
     caption_url: https://unsplash.com/
 
 image:
-#    title: mediaplayer_js-title.jpg
-    thumb: mediaplayer_js-thumb.jpg
-    homepage: mediaplayer_js-home.jpg
-    caption: Photo by Corey Blaz
-    caption_url: https://blaz.photography/
+#   title: cmb_160210_title.jpg
+    thumb: cmb_160210_thumb.jpg
+    homepage: cmb_160210_home.jpg
+    caption: Photo by Nick Youngson - The Blue Diamond Gallory.
+    caption_url: http://www.thebluediamondgallery.com/tablet/c/change.html
 ---
 <!--more-->
 
