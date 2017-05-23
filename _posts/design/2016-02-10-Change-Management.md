@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Change Management"
-subheadline: "Change Management: Overview"
+subheadline: "Overview"
 teaser: "Change Management for the New millennium."
 breadcrumb: true
 categories:
@@ -17,12 +17,12 @@ header:
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 
-    image:
-        title: mediaplayer_js-title.jpg
-        thumb: mediaplayer_js-thumb.jpg
-        homepage: mediaplayer_js-home.jpg
-        caption: Photo by Corey Blaz
-        caption_url: https://blaz.photography/
+image:
+    title: mediaplayer_js-title.jpg
+    thumb: mediaplayer_js-thumb.jpg
+    homepage: mediaplayer_js-home.jpg
+    caption: Photo by Corey Blaz
+    caption_url: https://blaz.photography/
 ---
 <!--more-->
 
@@ -36,13 +36,6 @@ The case for change management – it works
 MacCallum, John S. (2001). “Adapt or Die”. Ivey Business Journal. Ivey Publishing.
 
 
-~~~
-header:
-    title: header with text
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-~~~
 
 ### All Header-Styles
 {: .t60 }
