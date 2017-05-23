@@ -2,7 +2,7 @@
 layout: page
 title: "Communication"
 subheadline: "Communication Overview"
-teaser: "Effective communication involves and understanding of the sender, the message and the receiver."
+teaser: "Effective communication involves an understanding of the sender, the message and the receiver."
 breadcrumb: true
 categories:
     - Blog
