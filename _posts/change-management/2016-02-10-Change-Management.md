@@ -5,7 +5,7 @@ subheadline: "Overview"
 teaser: "Change Management for the New millennium."
 breadcrumb: true
 categories:
-    - Design
+    - Change Management
 tags:
     - OCM Approach
     - OCM Theory
