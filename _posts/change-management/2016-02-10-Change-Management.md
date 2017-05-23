@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Change Management"
-subheadline: "Overview"
+subheadline: "Change Management Overview"
 teaser: "Change Management for the New millennium."
 breadcrumb: true
 categories:
@@ -10,7 +10,7 @@ tags:
     - OCM Approach
     - OCM Theory
 header:
-    title: Transforming at the Speed of Change
+    title: Blog: Change Management
     background-color: "#EFC94C;"
 #    pattern: pattern_concrete.jpg
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
