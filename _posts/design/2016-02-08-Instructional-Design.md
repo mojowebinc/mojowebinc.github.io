@@ -17,7 +17,7 @@ header:
     caption_url: https://unsplash.com/@ptrikutam
 
 image:
-#   title: b04in_160208_title.jpg
+    title: b04in_160208_title.jpg
     thumb: b04in_160208_thumb.jpg
     homepage: b04in_160208_home.jpg
     caption: Photo by @lumvox - Unsplash.

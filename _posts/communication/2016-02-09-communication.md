@@ -17,7 +17,7 @@ header:
     caption_url: http://startupstockphotos.com/
 
 image:
-#   title: b03co_1660_title.jpg
+    title: b03co_1660_title.jpg
     thumb: b03co_1660_thumb.jpg
     homepage: b03co_1660_home.jpg
     caption: Photo by @lumvox - Unsplash.

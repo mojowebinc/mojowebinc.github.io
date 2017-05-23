@@ -17,7 +17,7 @@ header:
     caption_url: https://www.flickr.com/photos/gpahas//
 
 image:
-#   title: b02cm_160210_title.jpg
+    title: b02cm_160210_title.jpg
     thumb: b02cm_160210_thumb.jpg
     homepage: b02cm_160210_home.jpg
     caption: Photo by Nick Youngson - The Blue Diamond Gallery.
