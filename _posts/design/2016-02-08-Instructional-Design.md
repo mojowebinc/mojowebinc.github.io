@@ -17,9 +17,9 @@ header:
     caption_url: https://unsplash.com/@antoinebeauvillain
 
 image:
-#   title: b04in_160208_title.jpg
-    thumb: b04in_160208_thumb.jpg
-    homepage: b04in_160208_home.jpg
+#   title: b03co_1660_title.jpg
+    thumb: b03co_1660_thumb.jpg
+    homepage: b03co_1660_home.jpg
     caption: Photo by @lumvox - Unsplash.
     caption_url: https://unsplash.com/@lumvox
 ---
