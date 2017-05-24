@@ -3,6 +3,7 @@ layout: page-fullwidth
 title:  "Change Management"
 subheadline:  "The only constant is change."
 teaser: "The full-width page format gives you all the space you need to show your content using the grid."
+breadcrumb: true
 categories:
     - design
 header:

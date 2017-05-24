@@ -3,6 +3,7 @@ layout: page-fullwidth
 title:  "Instructional Design"
 subheadline:  "'What I hear, I forget. What I see, I remember. What I do, I understand.' Xunzi"
 teaser: "The full-width page format gives you all the space you need to show your content using the grid."
+breadcrumb: true
 categories:
     - design
 header:
