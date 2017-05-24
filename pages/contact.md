@@ -3,6 +3,7 @@ layout: page-fullwidth
 title: "Contact"
 subheadline: "The Contact Page is Currently Under Construction"
 teaser: "The Content Page Form is Currently in Progress."
+breadcrumb: true
 categories:
     - design
 header:
