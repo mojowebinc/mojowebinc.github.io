@@ -1,17 +1,29 @@
 - menu_name: "Services"
 
+- name: "Change Management"
+  url: "/02ocm/"
+  title: "Find Out More About Change Management"
+
+- name: "Contact"
+  url: "/03com/"
+  title: "Find Out More About Communication"
+
+- name: "Contact"
+  url: "/04insd/"
+  title: "Find Out More About Instructional Design"
+
 - name: "Contact"
   url: "/contact/"
-  title: "Contact"
+  title: "Contact Mojo-Web"
 
-- name: "RSS"
-  url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+#- name: "RSS"
+#  url: "/feed.xml"
+#  title: "Subscribe to RSS Feed"
 
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
+#- name: "Atom"
+#  url: "/atom.xml"
+#  title: "Subscribe to Atom Feed"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+#- name: "sitemap.xml"
+#  url: "/sitemap.xml"
+#  title: "Sitemap for Google Webmaster Tools"
