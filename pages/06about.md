@@ -7,6 +7,8 @@ breadcrumb: true
 permalink: "/about/"
 header:
     image_fullwidth: "06about2000.jpg"
+    caption: Graphic by Jim Farrell - Mojo-Web.
+#    caption_url: https://unsplash.com/@glennoble
 ---
 ...and learn at the same time.
 
