@@ -18,12 +18,12 @@ header:
 
 <div class="row">
     <div class="medium-4 columns t30">
-      <img src="/images/06_log01_atom.jpg" alt="">
+      <img src="{{ site.urlimg }}06_log01_atom.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-8 columns t30">
-      This is some text.
-    </div><!-- /.medium-4.columns -->
+      <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
+    </div><!-- /.medium-8.columns -->
 
 </div><!-- /.row -->
 
