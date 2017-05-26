@@ -19,8 +19,8 @@ header:
 <!--test three Section-->
 <div class="row">
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}06_log01_atom.jpg" alt="">
-      <p>Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.</p>
+      <p><img src="{{ site.urlimg }}06_log01_atom.jpg" alt=""></p>
+      <p><b>Atom</b> is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
