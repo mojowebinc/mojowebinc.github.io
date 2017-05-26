@@ -18,7 +18,7 @@ header:
 
 <div class="row">
     <div class="medium-4 columns t30">
-      <img src="06_log01_atom.jpg" alt="">
+      <img src="/images/06_log01_atom.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-8 columns t30">
