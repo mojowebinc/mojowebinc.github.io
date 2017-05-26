@@ -71,6 +71,17 @@ header:
     </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 
+<!--Gimp-->
+<div class="row">
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}06_log06_Gimp" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-8 columns t30">
+      GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.
+    </div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
+
 ## List
 
 * Item
