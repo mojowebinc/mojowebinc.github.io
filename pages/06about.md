@@ -28,12 +28,12 @@ This website was completely built using open-source applications and royalty fre
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <p><img src="{{ site.urlimg }}06_log02_phlow.jpg" alt="">
+      <p><img src="{{ site.urlimg }}06_log02_phlow.jpg" alt=""></p>
       <p><b>Feeling Responsive</b> is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <p><img src="{{ site.urlimg }}06_log03_found.jpg" alt="">
+      <p><img src="{{ site.urlimg }}06_log03_found.jpg" alt=""></p>
       <p><b>Foundation</b> is a family of responsive front-end frameworks that make it easy to design beautiful responsive websites, apps and emails that look amazing on any device. Foundation is semantic, readable, flexible, and completely customizable.</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
@@ -41,17 +41,17 @@ This website was completely built using open-source applications and royalty fre
 <!--three in a row 2-->
 <div class="row">
     <div class="medium-4 columns t30">
-      <p><img src="{{ site.urlimg }}06_log04_jekyll.jpg" alt="">
+      <p><img src="{{ site.urlimg }}06_log04_jekyll.jpg" alt=""></p>
       <p><b>Jekyll</b> is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <p><img src="{{ site.urlimg }}06_log05_Git.jpg" alt="">
+      <p><img src="{{ site.urlimg }}06_log05_Git.jpg" alt=""></p>
       <p><b>GitHub</b> is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside millions of other developers.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <p><img src="{{ site.urlimg }}06_log06_Gimp.jpg" alt="">
+      <p><img src="{{ site.urlimg }}06_log06_Gimp.jpg" alt=""></p>
       <p><b>GIMP</b> is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
