@@ -16,6 +16,26 @@ header:
 
 <!--About this website-->
 
+<!--test three Section-->
+<div class="row">
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}06_log01_atom.jpg" alt="">
+      Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}06_log02_phlow.jpg" alt="">
+      Feeling Responsive is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}06_log03_found.jpg" alt="">
+      A Framework for any device, medium, and accessibility. Foundation is a family of responsive front-end frameworks that make it easy to design beautiful responsive websites, apps and emails that look amazing on any device. Foundation is semantic, readable, flexible, and completely customizable. We’re constantly adding new resources and code snippets, including these handy HTML templates to help get you started!
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+
+
 <!--Atom Section-->
 <div class="row">
     <div class="medium-4 columns t30">
