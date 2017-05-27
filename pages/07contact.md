@@ -15,10 +15,10 @@ permalink: "/contact/"
 ---
 
 <div class="row">
-    <div id="contactForm" class="small-12 small-offset-0 medium-8 medium-offset-2 large-8 large-offset-2 columns">
+    <div id="contactForm" class="small-12 small-offset-0 medium-8 large-8">
       <form id="myForm" method="post" data-abide="">  
 
-          <h2>Contact Us</h2>
+          <h2>Contact Mojo-Web</h2>
           <label>Name</label>
           <small class="error">Your full name is required.</small>
           <input type="text" placeholder="Your Name" required="">
@@ -36,6 +36,3 @@ permalink: "/contact/"
         <input type="submit" class="nice blue radius button" value="Send Message">
         </form>
     </div><!--end 8 columns--></div>
-  </div>
-
-The contact page is currently under construction. If you have question or comment, feel free to send them to contact@mojo-web.com.
