@@ -14,19 +14,19 @@ widget1:
   title: "Change Management"
   url: '/02ocm/'
   image: 02ocm302x182.jpg
-  text: '<b><i>Achieving sustained competitive advantage</b></i> requires contending with an evolving business terrain that offers both rewards and risks. Building change capability prepares your organization for avoiding threats and seizing opportunities along the path to realizing your strategic vision.'
+  text: '<b><i>Achieving sustained competitive advantage</b></i> requires contending with an evolving business terrain that offers both rewards and risks. <i>Building change capability</i> prepares your organization for avoiding threats and seizing opportunities along the path to realizing your strategic vision.'
 
 widget2:
   title: "Communication"
   url: '/03com/'
   image: 03com302x182.jpg
-  text: '<b><i>Embracing change</b></i> without disrupting day-to-day  operations involves overcoming uncertainty and information overload. Facilitating 2-way communication ensures essential feedback reaches decision makers and that employees have a clear sense of direction on how to participate.'
+  text: '<b><i>Embracing change</b></i> without disrupting day-to-day  operations involves overcoming uncertainty and information overload. <i>Facilitating 2-way communication</i> ensures essential feedback reaches decision makers and that employees have a clear sense of direction on how to participate.'
 
 widget3:
   title: "Instructional Design"
   url: '/04insd/'
   image: 04insd302x182.jpg
-  text: '<b><i>Realizing new capabilities</b></i> depends upon acquiring skills in a workplace filled with time constraints and job demands. Designing a responsive learning solution will provide employees with a personalized learning experience, whether through a scheduled classroom course or a just-in-time mini lesson.'
+  text: '<b><i>Realizing new capabilities</b></i> depends upon acquiring skills in a workplace filled with time constraints and job demands. <i>Designing a responsive learning solution</i> will provide employees with a personalized experience, whether through the classroom or a just-in-time mini lesson. '
 
 #
 # Use the call for action to show a button on the frontpage
