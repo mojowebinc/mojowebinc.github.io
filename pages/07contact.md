@@ -15,4 +15,4 @@ permalink: "/contact/"
 ---
 
 
-The contact page is currently under construction. If you have question or comment, feel free to contact Jim Farrell at jnfphd@aol.com.
+The contact page is currently under construction. If you have question or comment, feel free to send them to contact@mojo-web.com.
