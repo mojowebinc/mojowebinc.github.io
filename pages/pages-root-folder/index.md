@@ -14,19 +14,19 @@ widget1:
   title: "Change Management"
   url: '/02ocm/'
   image: 02ocm302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: '<b><i>Achieving sustained competitive advantage</b></i> requires contending with an evolving business terrain that offers both rewards and risks. Building change capability prepares your organization for avoiding threats and seizing opportunities along the path to realizing your strategic vision.'
 
 widget2:
   title: "Communication"
   url: '/03com/'
   image: 03com302x182.jpg
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  text: '<b><i>Embracing change</b></i> without disrupting day-to-day  operations involves overcoming uncertainty and information overload. Facilitating 2-way communication ensures essential feedback reaches decision makers and that employees have a clear sense of direction on how to participate.'
 
 widget3:
   title: "Instructional Design"
   url: '/04insd/'
   image: 04insd302x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: '<b><i>Realizing new capabilities</b></i> depends upon acquiring skills in a workplace filled with time constraints and job demands. Designing a responsive learning solution will provide employees with a personalized learning experience, whether through a scheduled classroom course or a just-in-time mini lesson.'
 
 #
 # Use the call for action to show a button on the frontpage
