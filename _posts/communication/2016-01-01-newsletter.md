@@ -24,7 +24,7 @@ image:
     caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
-#<link rel="stylesheet" href="/sass/_12_newsletter.scss">
+<link rel="stylesheet" href="/sass/_12_newsletter.scss">
 
 ## Creating a Responsive eNewsletter
 Explain philosophy and content, source of template etc...
