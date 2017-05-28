@@ -1,6 +1,5 @@
 ---
 layout: page
-#<link rel="stylesheet" href="/sass/_functions.scss">
 title: "A Responsive eNewsletter"
 subheadline: "One eNewsletter, Many Devices"
 teaser: "Employees have access to many devices. A responsive decision will allow them to view eNewsletter content however they choose."
@@ -18,13 +17,14 @@ header:
     caption_url: http://startupstockphotos.com/
 
 image:
-    title: b03co_1660_title.jpg
+    #title: b03co_1660_title.jpg
     thumb: b03co_1660_thumb.jpg
     homepage: b03co_1660_home.jpg
     caption: Photo by @lumvox - Unsplash.
     caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
+#<link rel="stylesheet" href="/sass/_12_newsletter.scss">
 
 ## Creating a Responsive eNewsletter
 Explain philosophy and content, source of template etc...
