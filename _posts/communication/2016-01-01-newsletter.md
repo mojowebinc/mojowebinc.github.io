@@ -32,6 +32,7 @@ Explain philosophy and content, source of template etc...
 <div class="row">
     <div class="medium-8 columns t30">
     <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+    {% include list-posts tag='Communication Deliverable' %}
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
