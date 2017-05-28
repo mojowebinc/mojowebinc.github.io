@@ -28,10 +28,19 @@ image:
 ## Creating a Responsive eNewsletter
 Explain philosophy and content, source of template etc...
 
+
 ### eNewsletter Responsive Design 01
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+      <div class="responsive-blog-post">
+        <div class="individual-post">
+          <h4>Title of Blog</h4>
+          <p class="date">Date</p>
+          <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+          <p> First few sentences of blog post show here and then eventually cuts out. First few sentences of blog post show here and then eventually cuts out. First few sentences of blog post show here and then eventually cuts out...</p>
+          <a class="button" href="#">Read On</a>
+        </div>
+      </div>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
