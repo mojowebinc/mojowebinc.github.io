@@ -30,18 +30,18 @@ Explain philosophy and content, source of template etc...
 
 ### eNewsletter Responsive Design 01
 <div class="row">
+    <div class="medium-8 columns t30">
+    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
     </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
 
-<div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
     </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
 
-<div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
     </div><!-- /.medium-4.columns -->
