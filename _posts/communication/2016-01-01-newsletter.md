@@ -32,7 +32,7 @@ Explain philosophy and content, source of template etc...
 <!--Newsletter Header-->
 <div class="row">
     <div class="medium-12 columns t30">
-    <h2>The Project eNewsletter</h2>
+    <h3>Project eNewsletter</h3>
     </div><!-- /.medium-12.columns -->  
 </div><!-- /.row -->
 
