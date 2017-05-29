@@ -29,7 +29,7 @@ This website was completely built using open-source applications and royalty fre
 
     <div class="medium-4 columns t30">
       <p><img src="{{ site.urlimg }}06_log02_phlow.jpg" alt=""></p>
-      <p><b>is a responsive theme for Jekyll created by Phlow. The theme is based on the Zurb Foundation framework and includes beautiful typography and a bright color palette. </p>
+      <p><b>Feeling Responsive</b>is a responsive theme for Jekyll created by Phlow. The theme is based on the Zurb Foundation framework and includes beautiful typography and a bright color palette.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
