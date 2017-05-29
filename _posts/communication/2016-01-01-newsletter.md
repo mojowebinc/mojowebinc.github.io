@@ -33,8 +33,8 @@ Explain philosophy and content, source of template etc...
 <!--Newsletter Header-->
 <div class="row">
     <div class="medium-12 columns t30">
-    <h2>The Project cNewsletter</h2>
-    </div><!-- /.medium-12.columns -->
+    <h2>The Project eNewsletter</h2>
+    </div><!-- /.medium-12.columns -->  
 </div><!-- /.row -->
 
 <!--Newsletter Body-->
@@ -42,7 +42,7 @@ Explain philosophy and content, source of template etc...
 
     <div class="medium-6 columns t30">
       <img src="{{ site.urlimg }}b02cm_160210_title.jpg" alt="">
-      Title of this Article by First Last
+      Title of this Article | by First Last
       When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.
     </div><!-- /.medium-6.columns -->
 
