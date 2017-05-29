@@ -14,7 +14,7 @@ header:
 
 Independent Consultant.
 
-## About this Webiste
+## About this website
 
 This website was completely built using open-source applications and royalty free graphics. The applications used are listed below.
 
