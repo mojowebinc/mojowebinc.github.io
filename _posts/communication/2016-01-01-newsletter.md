@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "A Responsive eNewsletter"
 subheadline: "One eNewsletter, Many Devices"
-teaser: "Employees have access to many devices. A responsive decision will allow them to view eNewsletter content however they choose."
+teaser: "Employees have access to many devices. A responsive design will allow them to view eNewsletter content however they choose."
 breadcrumb: true
 categories:
     - Blog
