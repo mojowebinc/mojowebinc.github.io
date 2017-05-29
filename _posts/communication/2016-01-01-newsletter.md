@@ -46,14 +46,14 @@ Explain philosophy and content, source of template etc...
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-6 columns t30">
-    <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" alt="">
+    <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" width="90" height="90" alt="">
     <h4>Title of this Article</h4>
     <p><h5>by First Last</h5></p>
     <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</P>.
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-6 columns t30">
-    <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" alt="">
+    <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" width="90" height="90" alt="">
     <h4>Title of this Article</h4>
     <p><h5>by First Last</h5></p>
     <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</P>
