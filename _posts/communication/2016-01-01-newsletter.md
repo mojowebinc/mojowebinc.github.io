@@ -40,7 +40,7 @@ Explain philosophy and content, source of template etc...
     <div class="medium-6 columns t30">
       <div class="row">
         <div class="medium-2 columns">
-          <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" width="90" height="90" alt="" align="left">
+          <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" alt="" align="left">
         </div>
 
         <div class="medium-10 columns">
