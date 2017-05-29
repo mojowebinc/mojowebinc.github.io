@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "Mojo-Web Consulting Services"
+teaser: "Change Management, Organization Communication, Instructional Design"
 breadcrumb: true
 permalink: "/about/"
 header:
@@ -10,7 +10,7 @@ header:
     caption: Graphic by Jim Farrell - Mojo-Web.
 #    caption_url: https://unsplash.com/@glennoble
 ---
-## About Mojo-Web
+### About Mojo-Web
 
 Hi, I'm Jim Farrell, an independent consultant and creator of this website. I specialize in helping companies successfully implement strategic initiatives by strengthening change capability, enhancing communication and designing personalized learning experiences.
 
@@ -19,7 +19,7 @@ It’s been my good fortune to have enabled some really talented teams as they t
 Whether in education as an organizational psychologist or in practice as a consultant, I’ve maintained a passion for achieving a deeper understanding of social systems and strategic management. I share an equal passion for great music, independent film and the Cuyahoga Valley National Park.
 
 
-## About this website
+### About this website
 
 This website was completely built using open-source applications and royalty free graphics. The applications used are listed below.
 
