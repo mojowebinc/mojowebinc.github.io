@@ -42,11 +42,11 @@ Explain philosophy and content, source of template etc...
       <div class="row">
         <div class="medium-12 columns">
           <b>Organizational Change Management<b>
-          <p><i>by First Last</i></P>
-          <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
+          <p style="margin:0;"><i>by First Last</i></P>
+          <p style="margin:0;">When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
           </div>
       </div>
-      
+
         <div class="row">
           <div class="medium-12 columns">
             <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" width="90" height="90" alt="" align="left">
