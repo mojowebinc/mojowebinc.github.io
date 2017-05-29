@@ -62,7 +62,7 @@ Finally, all the development tools used to create this site were free and/or ope
       <p><a href="https://www.gimp.org/"><img src="{{ site.urlimg }}06_log06_Gimp.jpg" alt=""></a></p>
       <p><a href="https://www.gimp.org/">GIMP</a> is an image editor available for GNU/Linux, OS X, Windows and other operating systems. It is both free and open source, allowing you to change and distribute its source code.</p>
     </div><!-- /.medium-4.columns -->
-
+Test
 </div><!-- /.row -->
 <!--Links that can be access with [link text][#] Can't be used inside containers-->
 Testing hover over effects
