@@ -12,7 +12,12 @@ header:
 ---
 ## About Mojo-Web
 
-Independent Consultant.
+Hi, I'm Jim Farrell, an independent consultant and creator of this website. I specialize in helping companies successfully implement strategic initiatives by strengthening change capability, enhancing communication and designing personalized learning experiences.
+
+It’s been my good fortune to have enabled some really talented teams as they transformed their companies in pursuit of a strategic vision. Our most successful efforts occurred when best practice met the practical, resulting in an exceptional solutions.
+
+Whether in education as an organizational psychologist or in practice as a consultant, I’ve maintained a passion for achieving a deeper understanding of social systems and strategic management. I share an equal passion for great music, independent film and the Cuyahoga Valley National Park.
+
 
 ## About this website
 
@@ -56,24 +61,7 @@ This website was completely built using open-source applications and royalty fre
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
-  
-<!--formatting syntax-->[Michael Rose][1] this is another example of text with a link.
-<!--formatting syntax-->More text. *italic with kramdown* more text <a href="http://phlow.de/">another way of creating a link</a>.
 
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
 
  [1]: https://atom.io/  
  [2]: http://phlow.de/  
@@ -81,5 +69,3 @@ This website was completely built using open-source applications and royalty fre
  [4]: http://jekyllrb.com/  
  [5]: https://github.com/  
  [6]: https://www.gimp.org/  
- [7]: #
- [8]: #
