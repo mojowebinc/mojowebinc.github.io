@@ -60,6 +60,7 @@ Explain philosophy and content, source of template etc...
         <div class="medium-12 columns">
           Title of this Article by First Last
           <p style="margin:0;">When it comes to managing large scale organizational change,</p>
+          <p style="margin:0;"><a href="/2016-02-10-Change-Management/">Read More ></a></p>
         </div>
       </div>
 
@@ -67,6 +68,7 @@ Explain philosophy and content, source of template etc...
         <div class="medium-12 columns">
           Title of this Article by First Last
           <p style="margin:0;">When it comes to managing large scale organizational change,</p>
+          <p style="margin:0;"><a href="/2016-02-10-Change-Management/">Read More ></a></p>
         </div>
       </div>
 
