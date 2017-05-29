@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Connect with Mojo-Web"
 subheadline:
 teaser: "If you would like connect with Mojo-Web, please send an email to contact.mojo-web.com."
