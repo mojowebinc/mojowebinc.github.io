@@ -37,12 +37,12 @@ Explain philosophy and content, source of template etc...
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-    <img src="/images/b02cm_160210_thumb.jpg" alt="">
+    <img src="b02cm_160210_thumb.jpg" alt="">
     When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-    <img src="/images/b02cm_160210_thumb.jpg" alt="">
+    <img src="../images/b02cm_160210_thumb.jpg" alt="">
     When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.
     </div><!-- /.medium-4.columns -->
 
