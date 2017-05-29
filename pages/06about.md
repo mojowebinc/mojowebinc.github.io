@@ -20,16 +20,16 @@ This website was completely built using open-source applications and royalty fre
 
 <!--About this website-->
 
-<!--test three Section-->
+<!--Top Row of Application Icons and Text-->
 <div class="row">
     <div class="medium-4 columns t30">
       <p><img src="{{ site.urlimg }}06_log01_atom.jpg" alt=""></p>
-      <p><b><a href="https://atom.io/">Atom</a></b> is a text editor that's approachable, yet hackable to the core. While designed to be used productively without touching a config file, you can also customize Atom to suit your needs.</p>
+      <p><b><a href="https://atom.io/">Atom</a></b> is a text editor <a href="https://atom.io/">Atom</a> that's approachable, yet hackable to the core. While designed to be used productively without touching a config file, you can also customize Atom to suit your needs.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
       <p><img src="{{ site.urlimg }}06_log02_phlow.jpg" alt=""></p>
-      <p><b><a href="http://phlow.de/">Feeling Responsive</a></b>is a responsive theme for Jekyll created by Phlow. The theme is based on the Zurb Foundation framework and includes beautiful typography and a bright color palette.</p>
+      <p><b><a href="http://phlow.de/">Feeling Responsive</a></b> is a responsive theme for Jekyll created by Phlow. The theme is based on the Zurb Foundation framework and includes beautiful typography and a bright color palette.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
@@ -38,7 +38,7 @@ This website was completely built using open-source applications and royalty fre
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
-<!--three in a row 2-->
+<!--Bottom Row of Application Icons and Text-->
 <div class="row">
     <div class="medium-4 columns t30">
       <p><img src="{{ site.urlimg }}06_log04_jekyll.jpg" alt=""></p>
