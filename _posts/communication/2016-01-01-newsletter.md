@@ -43,21 +43,21 @@ Explain philosophy and content, source of template etc...
       <div class="row">
         <div class="medium-12 columns">
           Organizational Change Management by First Last
-          <p style="margin:0;">When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
+          <p style="margin:0;">Training is underway</p>
         </div>
       </div>
 
       <div class="row">
         <div class="medium-12 columns">
           Title of this Article by First Last
-          <p style="margin:0;">When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
+          <p style="margin:0;">When it comes to managing large scale organizational change,</p>
         </div>
       </div>
 
       <div class="row">
         <div class="medium-12 columns">
           Title of this Article by First Last
-          <p style="margin:0;">When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
+          <p style="margin:0;">When it comes to managing large scale organizational change,</p>
         </div>
       </div>
 
