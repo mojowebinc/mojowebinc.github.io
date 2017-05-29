@@ -52,6 +52,12 @@ Explain philosophy and content, source of template etc...
 
       <div class="row">
         <div class="medium-12 columns">
+          <h4>In This Edition</h4>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="medium-12 columns">
           Article 02 Title by First Last
           <p style="margin:0;">Training is underway</p>
           <p style="margin:0;"><a href="#Article_02"><strong>Read More&nbsp;›</strong></a></p>
