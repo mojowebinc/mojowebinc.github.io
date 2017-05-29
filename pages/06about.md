@@ -28,12 +28,12 @@ This website was completely built using open-source applications and royalty fre
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <p><img src="{{ site.urlimg }}06_log02_phlow.jpg" alt=""></p>
+      <p><a href="http://phlow.de/"><img src="{{ site.urlimg }}06_log02_phlow.jpg" alt=""></a></p>
       <p><a href="http://phlow.de/">Feeling Responsive</a> is a responsive theme for Jekyll created by Phlow. The theme is based on the Zurb Foundation framework and includes beautiful typography and a bright color palette.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <p><img src="{{ site.urlimg }}06_log03_found.jpg" alt=""></p>
+      <p><a href="http://foundation.zurb.com/"><img src="{{ site.urlimg }}06_log03_found.jpg" alt=""></a></p>
       <p><a href="http://foundation.zurb.com/">Foundation</a> is a family of responsive front-end frameworks created by Zurb to make it easier to design beautiful responsive websites, apps and emails that look amazing on any device.</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
@@ -41,17 +41,17 @@ This website was completely built using open-source applications and royalty fre
 <!--Bottom Row of Application Icons and Text-->
 <div class="row">
     <div class="medium-4 columns t30">
-      <p><img src="{{ site.urlimg }}06_log04_jekyll.jpg" alt=""></p>
+      <p><a href="http://jekyllrb.com/"><img src="{{ site.urlimg }}06_log04_jekyll.jpg" alt=""></a></p>
       <p><a href="http://jekyllrb.com/">Jekyll</a> is a blog-aware static site generator. It takes a template directory containing raw text files and generates a complete, ready-to-publish static website for your favorite server.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <p><img src="{{ site.urlimg }}06_log05_Git.jpg" alt=""></p>
+      <p><a href="https://github.com/"><img src="{{ site.urlimg }}06_log05_Git.jpg" alt=""></a></p>
       <p><a href="https://github.com/">GitHub</a> is a development platform for both open source and business projects.  You can host and review code, manage projects, and build software alongside millions of other developers.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <p><img src="{{ site.urlimg }}06_log06_Gimp.jpg" alt=""></p>
+      <p><a href="https://www.gimp.org/"><img src="{{ site.urlimg }}06_log06_Gimp.jpg" alt=""></a></p>
       <p><a href="https://www.gimp.org/">GIMP</a> is an image editor available for GNU/Linux, OS X, Windows and other operating systems. It is both free and open source, allowing you to change and distribute its source code.</p>
     </div><!-- /.medium-4.columns -->
 
