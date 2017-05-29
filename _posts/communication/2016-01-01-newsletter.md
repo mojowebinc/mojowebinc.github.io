@@ -31,24 +31,32 @@ Explain philosophy and content, source of template etc...
 
 ### eNewsletter Responsive Design 01
 <div class="row">
-    <div class="medium-8 columns t30">
-      <p><img src="{{ site.urlimg }}b02cm_160210_home.jpg" alt=""></p>
+    <div class="medium-6 columns t30">
+      <p><img src="{{ site.urlimg }}b02cm_160210_title.jpg" alt=""></p>
+      <p><h2>Title of this Article</h2></p>
+      <p><h4>by First Last</h4></p>
       <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
     </div><!-- /.medium-4.columns -->
 
-    <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" alt="">
-    When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.
+    <div class="medium-6 columns t30">
+    <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" width="25%"" height="25%" alt="">
+    <h4>Title of this Article</h4>
+    <p><h5>by First Last</h5></p>
+    <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</P>
     </div><!-- /.medium-4.columns -->
 
-    <div class="medium-4 columns t30">
+    <div class="medium-6 columns t30">
     <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" alt="">
-    When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.
+    <h4>Title of this Article</h4>
+    <p><h5>by First Last</h5></p>
+    <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</P>.
     </div><!-- /.medium-4.columns -->
 
-    <div class="medium-4 columns t30">
+    <div class="medium-6 columns t30">
     <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" alt="">
-    When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.
+    <h4>Title of this Article</h4>
+    <p><h5>by First Last</h5></p>
+    <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</P>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
