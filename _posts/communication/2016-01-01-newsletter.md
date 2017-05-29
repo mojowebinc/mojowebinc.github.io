@@ -39,14 +39,9 @@ Explain philosophy and content, source of template etc...
 
     <div class="medium-6 columns t30">
       <div class="row">
-        <div class="medium-2 columns">
-          <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" alt="" align="left">
-        </div>
-
-        <div class="medium-10 columns">
-          Title of this Article by First Last
-          When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.
-        </div>
+        <b>Organizational Change Management<b>
+        <p><i>by First Last</i></P>
+        <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
       </div>
 
         <div class="row">
