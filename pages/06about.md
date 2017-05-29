@@ -53,25 +53,18 @@ This website was completely built using open-source applications and royalty fre
     <div class="medium-4 columns t30">
       <p><img src="{{ site.urlimg }}06_log06_Gimp.jpg" alt=""></p>
       <p><b>GIMP</b> is an image editor available for GNU/Linux, OS X, Windows and other operating systems. It is both free and open source, allowing you to change and distribute its source code.</p>
+      [Michael Rose][1]
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
 
-## List
 
-* Item
-* Text with a link [Mediaelement.js][12]
 
 ## I got inspired by... two hashtags
 
 [Michael Rose][1] this is another example of text with a link.
 
 More text. *italic with kramdown* more text <a href="http://phlow.de/">another way of creating a link/a>.
-
-# One hashtag
-## two hashtags
-### three hashtags
-#### four hashtags in a row
 
 
 
