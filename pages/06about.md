@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "About"
 subheadline: "Mojo-Web Consulting Services"
-teaser: "Change Management, Organization Communication, Instructional Design"
+teaser: "Change Management | Organization Communication | Instructional Design"
 breadcrumb: true  
 permalink: "/about/"
 header:
