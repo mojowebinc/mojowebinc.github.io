@@ -47,19 +47,19 @@ Explain philosophy and content, source of template etc...
         </div>
       </div>
 
-        <div class="row">
-          <div class="medium-12 columns">
+      <div class="row">
+        <div class="medium-12 columns">
             Title of this Article by First Last
             When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.
-          </div>
         </div>
+      </div>
 
-        <div class="row">
-          <div class="medium-12 columns">
+      <div class="row">
+        <div class="medium-12 columns">
             Title of this Article by First Last
             When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.
-          </div>
         </div>
+      </div>
 
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
