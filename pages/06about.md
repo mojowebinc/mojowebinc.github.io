@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "About"
 subheadline: "Mojo-Web Consulting Services"
 teaser: "Change Management, Organization Communication, Instructional Design"
-breadcrumb: true
+breadcrumb: true  
 permalink: "/about/"
 header:
     image_fullwidth: "06about2000.jpg"
@@ -17,6 +17,7 @@ Hi, I'm Jim Farrell, an independent consultant and creator of this website. I sp
 It’s been my good fortune to have enabled some really talented teams as they transformed their companies in pursuit of a strategic vision. Our most successful efforts occurred when best practice met the practical, resulting in an exceptional solutions.
 
 Whether in education as an organizational psychologist or in practice as a consultant, I’ve maintained a passion for achieving a deeper understanding of social systems and strategic management. I share an equal passion for great music, independent film and the Cuyahoga Valley National Park.
+
 
 
 ### About this website
