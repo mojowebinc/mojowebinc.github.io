@@ -10,7 +10,7 @@ tags:
     - Communication Deliverable
     - Communication Deliverable Newsletter
 header:
-    title: The Communication Blog
+    title: The COM Blog
     background-color: "#EFC94C;"
     image_fullwidth: 03com2000.jpg
     caption: Photo by Startup Stock Photos - @estrattonbailey & @wearesculpt.
@@ -25,11 +25,10 @@ image:
 ---
 <!--more-->
 
-## Creating a Responsive eNewsletter
+#### Creating a Responsive eNewsletter
 Explain philosophy and content, source of template etc...
 
 
-### eNewsletter Responsive Design 01
 <!--Newsletter Header-->
 <div class="row">
     <div class="medium-12 columns t30">
@@ -42,10 +41,10 @@ Explain philosophy and content, source of template etc...
 
     <div class="medium-6 columns t30">
       <img src="{{ site.urlimg }}b02cm_160210_title.jpg" alt="">
-      <h4>Title of this Article</h4>
+      <h4>Lead Article</h4>
       <p style="margin:0;">by First Last</p>
       <p style="margin:0;">When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
-      <p style="margin:0;"><a href="https://mojowebinc.github.io/mojowebinc/blog/Change-Management/" title="Read Change Management"><strong>Read More&nbsp;›</strong></a></p>
+      <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
 
     </div><!-- /.medium-6.columns -->
 
@@ -53,7 +52,7 @@ Explain philosophy and content, source of template etc...
 
       <div class="row">
         <div class="medium-12 columns">
-          Organizational Change Management by First Last
+          Article 02 Title by First Last
           <p style="margin:0;">Training is underway</p>
           <p style="margin:0;"><a href="/2016-02-10-Change-Management/">Read More ></a></p>
         </div>
@@ -61,7 +60,7 @@ Explain philosophy and content, source of template etc...
 
       <div class="row">
         <div class="medium-12 columns">
-          Title of this Article by First Last
+          Article 03 Title by First Last
           <p style="margin:0;">When it comes to managing large scale organizational change,</p>
           <p style="margin:0;"><a href="/2016-02-10-Change-Management/">Read More ></a></p>
         </div>
@@ -69,7 +68,7 @@ Explain philosophy and content, source of template etc...
 
       <div class="row">
         <div class="medium-12 columns">
-          Title of this Article by First Last
+          Article 04 Title by First Last
           <p style="margin:0;">When it comes to managing large scale organizational change,</p>
           <p style="margin:0;"><a href="/2016-02-10-Change-Management/">Read More ></a></p>
         </div>
@@ -86,7 +85,17 @@ Explain philosophy and content, source of template etc...
     </div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
 
-### eNewsletter Responsive Design 02
+<a name="Lead_Article">Lead Article</a>
+
+<a name="Article_02">Article 02</a>
+
+<a name="Article_03">Article 03</a>
+
+<a name="Article_04">Article 04</a>
+
+<a name="Article_05">Article 05</a>
+
+##### Article 02
 
 
 

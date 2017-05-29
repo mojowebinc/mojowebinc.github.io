@@ -11,7 +11,7 @@ tags:
     - Communication Approach
     - Communication Theory
 header:
-    title: The Communication Blog
+    title: The COM Blog
     background-color: "#EFC94C;"
     image_fullwidth: 03com2000.jpg
     caption: Photo by Startup Stock Photos - @estrattonbailey & @wearesculpt.
@@ -26,7 +26,7 @@ image:
 ---
 <!--more-->
 
-## Adapting at the Speed of Change
+#### Adapting at the Speed of Change
 Successful Instructional Design begins with several vital questions. How does the change impact roles? How does the change impact individuals.
 
 The ADDIE model stands for: Analysis, Design, Development, Implementation and Evaluation.
@@ -36,7 +36,7 @@ Samples: CBT, ILT – Presentation, exercise, work instructions / procedures, ma
 
 
 
-### More Communication Posts
+##### More Communication Posts
 {: .t60 }
 
 {% include list-posts tag='Communication' %}
