@@ -24,17 +24,17 @@ This website was completely built using open-source applications and royalty fre
 <div class="row">
     <div class="medium-4 columns t30">
       <p><img src="{{ site.urlimg }}06_log01_atom.jpg" alt=""></p>
-      <p><b>Atom</b> is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.</p>
+      <p><b>Atom</b> is a text editor that's approachable, yet hackable to the core. While designed to be used productively without touching a config file, you can also customize Atom to suit your needs.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
       <p><img src="{{ site.urlimg }}06_log02_phlow.jpg" alt=""></p>
-      <p><b>Feeling Responsive</b> is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</p>
+      <p><b>is a responsive theme for Jekyll created by Phlow. The theme is based on the Zurb Foundation framework and includes beautiful typography and a bright color palette. </p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
       <p><img src="{{ site.urlimg }}06_log03_found.jpg" alt=""></p>
-      <p><b>Foundation</b> is a family of responsive front-end frameworks that make it easy to design beautiful responsive websites, apps and emails that look amazing on any device. Foundation is semantic, readable, flexible, and completely customizable.</p>
+      <p><b>Foundation</b> is a family of responsive front-end frameworks created by Zurb to make it easier to design beautiful responsive websites, apps and emails that look amazing on any device.</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
@@ -42,17 +42,17 @@ This website was completely built using open-source applications and royalty fre
 <div class="row">
     <div class="medium-4 columns t30">
       <p><img src="{{ site.urlimg }}06_log04_jekyll.jpg" alt=""></p>
-      <p><b>Jekyll</b> is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.</p>
+      <p><b>Jekyll</b> is a blog-aware static site generator. It takes a template directory containing raw text files and generates a complete, ready-to-publish static website for your favorite server.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
       <p><img src="{{ site.urlimg }}06_log05_Git.jpg" alt=""></p>
-      <p><b>GitHub</b> is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside millions of other developers.</p>
+      <p><b>GitHub</b> is a development platform for both open source and business projects.  You can host and review code, manage projects, and build software alongside millions of other developers.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
       <p><img src="{{ site.urlimg }}06_log06_Gimp.jpg" alt=""></p>
-      <p><b>GIMP</b> is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.</p>
+      <p><b>GIMP</b> is an image editor available for GNU/Linux, OS X, Windows and other operating systems. It is both free and open source, allowing you to change and distribute its source code.</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 

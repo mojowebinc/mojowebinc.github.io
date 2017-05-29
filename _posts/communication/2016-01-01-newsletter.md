@@ -28,7 +28,6 @@ image:
 ### Creating a Responsive eNewsletter
 Explain philosophy and content, source of template etc...
 
-
 <!--Newsletter Header-->
 <div class="row">
     <div class="medium-12 columns t30">
@@ -38,7 +37,6 @@ Explain philosophy and content, source of template etc...
 
 <!--Newsletter Body-->
 <div class="row">
-
     <div class="medium-6 columns t30">
       <img src="{{ site.urlimg }}b02cm_160210_title.jpg" alt="">
       <h4>Lead Article</h4>
