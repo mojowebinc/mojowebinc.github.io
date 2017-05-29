@@ -33,26 +33,26 @@ Explain philosophy and content, source of template etc...
 <div class="row">
     <div class="medium-6 columns t30">
       <img src="{{ site.urlimg }}b02cm_160210_title.jpg" alt="">
-      <b>Title of this Article | <b> <i>by First Last</i>
+      <b>Title of this Article | <b><i>by First Last</i>
       <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-6 columns t30">
-    <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" width="90" height="90" alt="">
-    <b>Title of this Article | <b> <i>by First Last</i>
-    <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</P>
+      <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" width="90" height="90" alt="">
+      <b>Title of this Article | <b><i>by First Last</i>
+      <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</P>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-6 columns t30">
-    <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" width="90" height="90" alt="">
-    <b>Title of this Article | <b> <i>by First Last</i>
-    <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</P>.
+      <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" width="90" height="90" alt="">
+      <b>Title of this Article | <b><i>by First Last</i>
+      <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</P>.
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-6 columns t30">
-    <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" width="90" height="90" alt="">
-    <b>Title of this Article | <b> <i>by First Last</i> 
-    <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</P>
+      <img src="{{ site.urlimg }}b02cm_160210_thumb.jpg" width="90" height="90" alt="">
+      <b>Title of this Article | <b> <i>by First Last</i>
+      <p>When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</P>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
