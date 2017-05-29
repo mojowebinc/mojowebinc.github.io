@@ -23,6 +23,7 @@ image:
     homepage: b02cm_160210_home.jpg
     caption: Photo by @anniespratt - Unsplash.
     caption_url: https://unsplash.com/@anniespratt
+permalink: "/2016-02-10-Change-Management/"
 ---
 <!--more-->
 

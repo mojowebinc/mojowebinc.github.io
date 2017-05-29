@@ -30,6 +30,14 @@ Explain philosophy and content, source of template etc...
 
 
 ### eNewsletter Responsive Design 01
+<!--Newsletter Header-->
+<div class="row">
+    <div class="medium-12 columns t30">
+    <h2>The Project cNewsletter</h2>
+    </div><!-- /.medium-12.columns -->
+</div><!-- /.row -->
+
+<!--Newsletter Body-->
 <div class="row">
 
     <div class="medium-6 columns t30">
@@ -44,6 +52,7 @@ Explain philosophy and content, source of template etc...
         <div class="medium-12 columns">
           Organizational Change Management by First Last
           <p style="margin:0;">Training is underway</p>
+          <p style="margin:0;"><a href="/2016-02-10-Change-Management/">Read More ></a></p>
         </div>
       </div>
 
@@ -65,8 +74,12 @@ Explain philosophy and content, source of template etc...
 
 </div><!-- /.row -->
 
-
-
+<!--Newsletter Footer-->
+<div class="row">
+    <div class="medium-12 columns t30">
+    Place Footer Information Here
+    </div><!-- /.medium-12.columns -->
+</div><!-- /.row -->
 
 ### eNewsletter Responsive Design 02
 
