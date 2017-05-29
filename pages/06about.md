@@ -56,7 +56,7 @@ This website was completely built using open-source applications and royalty fre
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
-
+  
 <!--formatting syntax-->[Michael Rose][1] this is another example of text with a link.
 <!--formatting syntax-->More text. *italic with kramdown* more text <a href="http://phlow.de/">another way of creating a link</a>.
 
