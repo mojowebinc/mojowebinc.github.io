@@ -25,7 +25,7 @@ image:
 ---
 <!--more-->
 
-#### Creating a Responsive eNewsletter
+### Creating a Responsive eNewsletter
 Explain philosophy and content, source of template etc...
 
 
@@ -54,7 +54,7 @@ Explain philosophy and content, source of template etc...
         <div class="medium-12 columns">
           Article 02 Title by First Last
           <p style="margin:0;">Training is underway</p>
-          <p style="margin:0;"><a href="/2016-02-10-Change-Management/">Read More ></a></p>
+          <p style="margin:0;"><a href="#Article_02"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
 
@@ -62,7 +62,7 @@ Explain philosophy and content, source of template etc...
         <div class="medium-12 columns">
           Article 03 Title by First Last
           <p style="margin:0;">When it comes to managing large scale organizational change,</p>
-          <p style="margin:0;"><a href="/2016-02-10-Change-Management/">Read More ></a></p>
+          <p style="margin:0;"><a href="#Article_03"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
 
@@ -70,7 +70,15 @@ Explain philosophy and content, source of template etc...
         <div class="medium-12 columns">
           Article 04 Title by First Last
           <p style="margin:0;">When it comes to managing large scale organizational change,</p>
-          <p style="margin:0;"><a href="/2016-02-10-Change-Management/">Read More ></a></p>
+          <p style="margin:0;"><a href="#Article_04"><strong>Read More&nbsp;›</strong></a></p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="medium-12 columns">
+          Article 05 Title by First Last
+          <p style="margin:0;">When it comes to managing large scale organizational change,</p>
+          <p style="margin:0;"><a href="#Article_05"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
 
