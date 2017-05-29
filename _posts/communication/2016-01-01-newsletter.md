@@ -42,7 +42,7 @@ Explain philosophy and content, source of template etc...
 
       <div class="row">
         <div class="medium-12 columns">
-          <b>Organizational Change Management | <b><i>by First Last</i>
+          Organizational Change Management by First Last
           When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.
         </div>
       </div>
