@@ -64,8 +64,21 @@ Finally, all the development tools used to create this site were free and/or ope
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
+<!--Links that can be access with [link text][#] Can't be used inside containers-->
+Testing hover over effects
+<div class="image-hover-wrapper">
+  <span class="image-hover-wrapper-banner">Old Junky Bikes</span>
+  <a href="#"><img src="{{ site.urlimg }}06_log06_Gimp.jpg">
+    <span class="image-hover-wrapper-reveal">
+      <p>Check it<br><i class="fa fa-link" aria-hidden="true"></i></p>
+    </span>
+  </a>
+</div>
 
 
+
+
+<!--Links that can be access with [link text][#] Can't be used inside containers-->
  [1]: https://atom.io/  
  [2]: http://phlow.de/  
  [3]: http://foundation.zurb.com/  
