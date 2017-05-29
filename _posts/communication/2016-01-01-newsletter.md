@@ -52,7 +52,7 @@ Explain philosophy and content, source of template etc...
 
       <div class="row">
         <div class="medium-12 columns">
-          <h4>In This Edition</h4>
+          <b>In This Edition</b>
         </div>
       </div>
 
