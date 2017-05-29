@@ -42,8 +42,9 @@ Explain philosophy and content, source of template etc...
 
     <div class="medium-6 columns t30">
       <img src="{{ site.urlimg }}b02cm_160210_title.jpg" alt="">
-      Title of this Article | by First Last
-      When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.
+      <h4>Title of this Article</h4>
+      <p style="margin:0;">by First Last</p>
+      <p style="margin:0;">When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns t30">
