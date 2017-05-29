@@ -13,7 +13,7 @@ header:
 ### About Mojo-Web
 Hi, I'm Jim Farrell, an independent consultant and creator of this website. I specialize in helping companies successfully implement strategic initiatives by strengthening change capability, enhancing communication and designing personalized learning experiences.
 
-It’s been my good fortune to have enabled some really talented teams as they transformed their companies in pursuit of a strategic vision. Our most successful efforts occurred when best practice met the practical, resulting in an exceptional solutions.
+It’s been my good fortune to have collaborated with some really talented teams as they transformed their companies in pursuit of a strategic vision. Our most successful efforts occurred when best practice met the practical, resulting in exceptional solutions.
 
 Whether in education as an organizational psychologist or in practice as a consultant, I’ve maintained a passion for achieving a deeper understanding of social systems and strategic management. I have an equal passion for great music, independent film and the Cuyahoga Valley National Park.
 
