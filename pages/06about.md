@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "About"
 subheadline: "Mojo-Web Consulting Services"
 teaser: "Change Management | Organization Communication | Instructional Design"
