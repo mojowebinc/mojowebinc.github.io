@@ -149,6 +149,15 @@ Thank you in advance for your efforts and support. We look forward to working wi
 
 <h4>Project Timeline</h4>
 <i>by Cutover Manager</i>
+If you compare our progress along the <b>ProjectLogic</b> roadmap to a football game, I’d say we’re entering the fourth quarter with a lead. We’ve played a solid game, with a few bumps and bruises along the way, but are positioned well to put the game away. The best way to do that, is to get back to the basics of blocking and tackling.
+
+For <b>ProjectLogic</b>, getting back to basics comes down to a few things, making sure the system is ready and making sure our people are ready. The timeline shows the basic “plays” that we need to execute to get the football into the end zone, so to speak.
+
+While Change Management handles the people-side of things, we also need to make sure the technical side is ready. First, we must make sure the data we’re pulling from <b>Legacy</b> is accurately transferred into <b>NewSystem</b>.  We’ll get this done through careful attention to detail during our Simulation and Regression Testing.
+
+Secondly, we must make sure the system allows us to successfully complete our day-to-day job activities, such as receiving materials, creating our products, shipping our products and successfully billing our customers. We’ll accomplish these objectives through our User Acceptance Testing.
+
+When our testing is complete, we’ll take stock of our results and make sure we are ready for the final drive to the end zone. Once we get the thumbs-up, we will begin our Cutover and End User Training activities.
 
 
 
