@@ -28,9 +28,10 @@ image:
 Explain philosophy and content, source of template etc...
 
 <!--Newsletter Header-->
-<hr>
+
 <div class="row">
     <div class="medium-12 columns t30">
+<hr>
     <h2>ProjectLogic eNewsletter</h2>
     </div><!-- /.medium-12.columns -->  
 </div><!-- /.row -->
