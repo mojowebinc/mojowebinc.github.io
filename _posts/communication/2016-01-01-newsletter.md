@@ -73,15 +73,15 @@ Explain philosophy and content, source of template etc...
 <!--TOC: Timeline-->
       <div class="row">
         <div class="medium-12 columns t30">
-          <p style="margin:0;"><b>ProjectLogic Timeline |</b><i> by Cutover Manager</i></p>
-          <p style="margin:0;"><a href="#Article_04"><strong>Read More&nbsp;›</strong></a></p>
+          <p><b>ProjectLogic Timeline |</b><i> by Cutover Manager</i></p>
+          <p><a href="#Article_04"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
 <!--TOC: Frequently Asked Questions-->
       <div class="row">
         <div class="medium-12 columns t30">
-          <p style="margin:0;"><b>FAQs |</b><i> Frequently Asked Questions</i></p>
-          <p style="margin:0;"><a href="#Article_05"><strong>Read More&nbsp;›</strong></a></p>
+          <p><b>FAQs |</b><i> Frequently Asked Questions</i></p>
+          <p><a href="#Article_05"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
     </div><!-- /.medium-6.columns -->
