@@ -48,13 +48,14 @@ Explain philosophy and content, source of template etc...
       <div class="row">
         <div class="medium-12 columns">
           <b>What's Happening |</b><i> At a Glance</i>
-            <ul>
-              <li>point One</li>
-              <li>point two</li>
-              <li>point three</li>
-            </ul>
+            <p style="margin:0;"><ul>
+              <li>Dry Run: Data Conversion</li>
+              <li>Business Impact Assessment</li>
+              <li>Change Management Kick-Off</li>
+            </ul></p>
         </div>
       </div>
+
 
       <div class="row">
         <div class="medium-12 columns t30">
