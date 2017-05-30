@@ -46,7 +46,6 @@ Explain philosophy and content, source of template etc...
       <p style="margin:0;">We are entering the “Home Stretch” for <b>ProjectLogic</b>. When the transition for our location is complete, all plants in the U.S. will be running on <b>NewSystem</b>.</p>
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
     </div><!-- /.medium-6.columns -->
-
 <!--TOC: What's Happening-->
     <div class="medium-6 columns t30">
       <div class="row">
@@ -57,7 +56,6 @@ Explain philosophy and content, source of template etc...
           <p style="margin:0;"><i>  - Change Management Kick-Off</i></p>
         </div>
       </div>
-
 <!--TOC: Change Management-->
       <div class="row">
         <div class="medium-12 columns t30">
@@ -65,7 +63,6 @@ Explain philosophy and content, source of template etc...
           <p style="margin:0;"><a href="#Article_02"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
-
 <!--TOC: Milestones, Coming Activities-->
       <div class="row">
         <div class="medium-12 columns t30">
@@ -73,7 +70,6 @@ Explain philosophy and content, source of template etc...
           <p style="margin:0;"><a href="#Article_03"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
-
 <!--TOC: Timeline-->
       <div class="row">
         <div class="medium-12 columns t30">
@@ -81,7 +77,6 @@ Explain philosophy and content, source of template etc...
           <p style="margin:0;"><a href="#Article_04"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
-
 <!--TOC: Frequently Asked Questions-->
       <div class="row">
         <div class="medium-12 columns t30">
@@ -116,19 +111,19 @@ Thank you in advance for your efforts and support. We look forward to working wi
 
 <!--Article 02-->
 <hr>
-<a name="Article_02">Change Management</a>
+<a name="Article_02"><small>Change Management</small></a>
   <h4>Change Management</h4>
   <p><i>by Change Manager</i></p>
 
 <!--Article 03-->
 <hr>
-<a name="Article_03">Key Milestones | Upcoming Activities</a>
+<a name="Article_03"><small>Key Milestones | Upcoming Activities</small></a>
 <h4>Key Milestones | Coming Activities</h4>
 
 
 <!--Article 04: Project Timeline-->
 <hr>
-<p style="margin:0;"><a name="Article_04">Project Timeline</a></p>
+<p style="margin:0;"><a name="Article_04"><small>Project Timeline</small></a></p>
 ### ProjectLogic Timeline
 
 <div class="row">
@@ -165,7 +160,7 @@ When our testing is complete, we’ll take stock of our results and make sure we
 
 <!--Frequently Asked Questions-->
 <hr>
-<a name="Article_05">Frequently Asked Questions</a>
+<a name="Article_05"><small>Frequently Asked Questions</small></a>
 <h4>Frequently Asked Questions (FAQs)</h4>
 
 
