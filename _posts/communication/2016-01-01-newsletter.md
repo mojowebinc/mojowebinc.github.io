@@ -111,6 +111,7 @@ Thank you in advance for your efforts and support. We look forward to working wi
 <!--Article 02: Change Management-->
 <hr>
 <a name="Article_02"><small>Change Management</small></a>
+<p><img src="{{ site.urlimg }}03com_nl_02_title.jpg" alt=""></p>
 #### Change Management
   <p><i>by Change Manager</i></p>
 text
@@ -165,6 +166,7 @@ When our testing is complete, we’ll take stock of our results and make sure we
 <!--Frequently Asked Questions-->
 <hr>
 <a name="Article_05"><small>Frequently Asked Questions</small></a>
+<p><img src="{{ site.urlimg }}03com_nl_05_title.jpg" alt=""></p>
 #### Frequently Asked Questions
 <p></p>
 <p style="margin:0;"><b>Q: Why did CompanyONE choose NewSystem?</b></p>
