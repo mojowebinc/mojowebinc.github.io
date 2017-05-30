@@ -42,7 +42,7 @@ Explain philosophy and content, source of template etc...
     <div class="medium-6 columns t30">
       <img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt="">
       <h4>The Home Stretch</h4>
-      <i>by Project Manager</i>
+      <p><i>by Project Manager</i></p>
       <p style="margin:0;">We are entering the “Home Stretch” for <b>ProjectLogic</b>. When the transition for our location is complete, all plants in the U.S. will be running on <b>NewSystem</b>.</p>
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
     </div><!-- /.medium-6.columns -->
@@ -96,7 +96,7 @@ Explain philosophy and content, source of template etc...
 
 <!--Lead: The Home Streck-->
 <hr>
-<a name="Lead_Article">The Home Stretch</a>
+<a name="Lead_Article"><small>The Home Stretch</small></a>
   <p><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
   <h4>The Home Stretch</h4>
   <p><i>by Project Manager</i></p>
