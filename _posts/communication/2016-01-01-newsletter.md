@@ -121,6 +121,7 @@ text
 <!--Article 03-->
 <hr>
 <a name="Article_03"><small>Key Milestones | Upcoming Activities</small></a>
+<p><img src="{{ site.urlimg }}03com_nl_03_title.jpg" alt=""></p>
 #### Key Milestones | Coming Activities
 text
 <p><a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a></p>
