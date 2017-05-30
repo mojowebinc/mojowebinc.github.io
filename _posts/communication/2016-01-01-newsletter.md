@@ -108,24 +108,25 @@ Explain philosophy and content, source of template etc...
 
 <!--Newsletter Footer-->
 <a name="Article_04">Project Timeline</a>
+
 <div class="row">
-  <div class="small-12 medium-6 large-3 columns">
+  <div class="small-12 medium-3 large-3 columns t30">
     <img src="{{ site.urlimg }}03com_nl_01_roadmap_01.jpg" alt="">
   </div>
 
-  <div class="small-12 medium-6 large-4 columns">
+  <div class="small-12 medium-3 large-3 columns t30">
     <img src="{{ site.urlimg }}03com_nl_01_roadmap_02.jpg" alt="">
   </div>
 
-  <div class="small-12 medium-6 large-4 columns">
+  <div class="small-12 medium-3 large-3 columns t30">
     <img src="{{ site.urlimg }}03com_nl_01_roadmap_03.jpg" alt="">
   </div>
 
-  <div class="small-12 medium-6 large-4 columns">
+  <div class="small-12 medium-3 large-3 columns t30">
     <img src="{{ site.urlimg }}03com_nl_01_roadmap_04.jpg" alt="">
   </div>
-
 </div>
+
 ###Project Timeline
 by Cutover Manager
 
