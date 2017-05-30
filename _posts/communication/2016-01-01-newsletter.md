@@ -113,12 +113,17 @@ Thank you in advance for your efforts and support. We look forward to working wi
 <a name="Article_02"><small>Change Management</small></a>
 #### Change Management
   <p><i>by Change Manager</i></p>
+text
+<p><a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a></p>
+<br>
 
 <!--Article 03-->
 <hr>
 <a name="Article_03"><small>Key Milestones | Upcoming Activities</small></a>
 #### Key Milestones | Coming Activities
-
+text
+<p><a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a></p>
+<br>
 
 <!--Article 04: Project Timeline-->
 <hr>
@@ -154,7 +159,7 @@ While Change Management handles the people-side of things, we also need to make 
 Secondly, we must make sure the system allows us to successfully complete our day-to-day job activities, such as receiving materials, creating our products, shipping our products and successfully billing our customers. We’ll accomplish these objectives through our User Acceptance Testing.
 
 When our testing is complete, we’ll take stock of our results and make sure we are ready for the final drive to the end zone. Once we get the thumbs-up, we will begin our Cutover and End User Training activities.
-<br>
+<p><a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a></p>
 <br>
 
 <!--Frequently Asked Questions-->
@@ -183,7 +188,8 @@ When our testing is complete, we’ll take stock of our results and make sure we
 
 <p style="margin:0;"><b>Q: Where can I get more information?</b></p>
 <p><i>A: Send an e-mail to NewSystem@CompanyONE.com or contact your key user.</i></p>
-
+<p><a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a></p>
+<br>
 
 ### More Communication Posts
 {: .t60 }
