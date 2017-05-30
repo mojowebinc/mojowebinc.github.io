@@ -43,7 +43,7 @@ Explain philosophy and content, source of template etc...
       <img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt="">
       <h4>The Home Stretch</h4>
       <p><i>by Project Manager</i></p>
-      <p style="margin:0;">We are entering the “Home Stretch” for <b>ProjectLogic</b>. When the transition for our location is complete, all plants in the U.S. will be running on <b>NewSystem</b>.</p>
+      <p style="margin:0;">We are entering the “Home Stretch” for <b>ProjectLogic</b>. When our local transition from <b>Legacy</b> is complete, all <b>CompanONE</b>plants in the U.S. will be running on <b>NewSystem</b>plants in the U.S. will be running on .</p>
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
     </div><!-- /.medium-6.columns -->
 <!--TOC: What's Happening-->
@@ -107,7 +107,7 @@ Thank you in advance for your efforts and support. We look forward to working wi
 <br>
 <br>
 
-<!--Article 02-->
+<!--Article 02: Change Management-->
 <hr>
 <a name="Article_02"><small>Change Management</small></a>
   <h4>Change Management</h4>
