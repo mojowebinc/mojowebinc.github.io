@@ -84,6 +84,7 @@ Explain philosophy and content, source of template etc...
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
+<br>
 
 <!--Lead: The Home Streck-->
 <a name="Lead_Article">The Home Stretch</a>
