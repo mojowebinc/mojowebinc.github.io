@@ -107,7 +107,7 @@ Your participation in the Go Live preparations is essential to the success of <b
 
 Thank you in advance for your efforts and support. We look forward to working with you.
 <p><a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a></p>
-
+<br>
 <!--Article 02: Change Management-->
 <hr>
 <a name="Article_02"><small>Change Management</small></a>
