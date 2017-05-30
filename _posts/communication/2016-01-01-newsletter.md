@@ -163,25 +163,25 @@ When our testing is complete, we’ll take stock of our results and make sure we
 
 <p style="margin:0;"><b>Q: Why did CompanyONE choose NewSystem?</b></p>
 <p style="margin:0;"><i>A: NewSystem is the world leader in enterprise applications and is designed to enable the use of industry best practice processes in areas of our company, such as:</i></p>
-- Finance and Controlling   
-- Purchasing and Goods Movements
-- Production Planning and Scheduling
-- Quality Management
-- Customer Service
-- Shipping
-- Warehouse Management
+- <i>Finance and Controlling   
+- <i>Purchasing and Goods Movements
+- <i>Production Planning and Scheduling
+- <i>Quality Management
+- <i>Customer Service
+- <i>Shipping
+- <i>Warehouse Management
 
 <p style="margin:0;"><b>Q: Why now?</b></p>
 <p style="margin:0;"><i>A: We have selected the best go live date to ensure a smooth transition to the new system.</i></p>
 
-<p style="margin:0;"><b>Q Who will be involved?</b></p>
-<p style="margin:0;"><i>A Personnel who are part of the process list above and will use NewSystem at Go Live. If you currently use Legacy, you will likely use NewSystem.</i></p>
+<p style="margin:0;"><b>Q: Who will be involved?</b></p>
+<p style="margin:0;"><i>A: Personnel who are part of the process list above and will use NewSystem at Go Live. If you currently use Legacy, you will likely use NewSystem.</i></p>
 
-<p style="margin:0;"><b>Q What support will be provided?</b></p>
-<p style="margin:0;"><i>A In addition to regular communications, our core project team, including local key users, will provide support before and after Go Live.</i></p>
+<p style="margin:0;"><b>Q: What support will be provided?</b></p>
+<p><i>A: In addition to regular communications, our core project team, including local key users, will provide support before and after Go Live.</i></p>
 
-<p style="margin:0;"><b>Q Where can I get more information?</b></p>
-<p style="margin:0;"><i>A Send an e-mail to NewSystem@CompanyONE.com or contact your key user.</i></p>
+<p style="margin:0;"><b>Q: Where can I get more information?</b></p>
+<p style="margin:0;"><i>A: Send an e-mail to NewSystem@CompanyONE.com or contact your key user.</i></p>
 
 
 ### More Communication Posts
