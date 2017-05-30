@@ -31,7 +31,7 @@ Explain philosophy and content, source of template etc...
 
 <div class="row">
     <div class="medium-12 columns t30">
-<hr>
+    <hr>
     <h2>ProjectLogic eNewsletter</h2>
     </div><!-- /.medium-12.columns -->  
 </div><!-- /.row -->
@@ -42,7 +42,7 @@ Explain philosophy and content, source of template etc...
     <div class="medium-6 columns t30">
       <img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt="">
       <h4>The Home Stretch</h4>
-      <p style="margin:0;"><i>by Project Manager</i></p>
+      <i>by Project Manager</i>
       <p style="margin:0;">We are entering the “Home Stretch” for <b>ProjectLogic</b>. When the transition for our location is complete, all plants in the U.S. will be running on <b>NewSystem</b>.</p>
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
     </div><!-- /.medium-6.columns -->
