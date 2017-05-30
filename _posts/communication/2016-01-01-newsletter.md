@@ -161,8 +161,8 @@ When our testing is complete, we’ll take stock of our results and make sure we
 <a name="Article_05"><small>Frequently Asked Questions</small></a>
 <h4>Frequently Asked Questions (FAQs)</h4>
 
-Q Why did CompanyONE choose NewSystem?
-A NewSystem is the world leader in enterprise applications and is designed to enable the use of industry best practice processes in areas of our company, such as:
+<p style="margin:0;"><h4>Q: </h4>Why did CompanyONE choose NewSystem?</p>
+<p style="margin:0;"><h4>A: </h4><i>NewSystem is the world leader in enterprise applications and is designed to enable the use of industry best practice processes in areas of our company, such as:</i></p>
 - Finance and Controlling  
 - Purchasing and Goods Movements
 - Production Planning and Scheduling
