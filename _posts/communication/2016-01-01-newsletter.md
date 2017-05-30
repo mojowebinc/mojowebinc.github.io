@@ -106,7 +106,7 @@ Explain philosophy and content, source of template etc...
 
     Thank you in advance for your efforts and support. We look forward to working with you.
 
-    <br></br>
+<br></br>
 
 <!--Article 02-->
 <a name="Article_02">Change Management</a>
