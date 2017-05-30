@@ -30,7 +30,7 @@ Explain philosophy and content, source of template etc...
 <!--Newsletter Header-->
 <hr>
 <p style="margin:0;"><a name="ProjectLogic_eNewsletter"><small>ProjectLogic eNewsletter</small></a></p>
-## ProjectLogic eNewsletter
+## ProjectLogic eNewsletter test
 
 <!--NEWSLETTER TOC-->
 <!--TOC: Lead Article-->
