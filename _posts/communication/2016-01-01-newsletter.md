@@ -40,7 +40,7 @@ Explain philosophy and content, source of template etc...
       <img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt="">
       <h4>The Home Stretch</h4>
       <p style="margin:0;"><i>by Project Manager</i></p>
-      <p style="margin:0;">We are entering the “Home Stretch” for ProjectLogic. When the migration of our location to is complete, all plants in the U.S. will be running on NewSystem.</p>
+      <p style="margin:0;">We are entering the “Home Stretch” for <b>ProjectLogic</b>. When the transition for our location is complete, all plants in the U.S. will be running on <b>NewSystem</b>.</p>
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
     </div><!-- /.medium-6.columns -->
 
@@ -105,7 +105,8 @@ In addition to business and system needs, it is essential that we address “peo
 Your participation in the Go Live preparations is essential to the success of <b>ProjectLogic</b>. Human Resources will contact your departments in the near future to let you know how and when you can participate.
 
 Thank you in advance for your efforts and support. We look forward to working with you.
-
+<br>
+<br>
 
 <!--Article 02-->
 <a name="Article_02">Change Management</a>
