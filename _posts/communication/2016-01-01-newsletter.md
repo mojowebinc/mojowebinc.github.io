@@ -34,13 +34,13 @@ Explain philosophy and content, source of template etc...
     </div><!-- /.medium-12.columns -->  
 </div><!-- /.row -->
 
-<!--Newsletter Body-->
+<!--Newsletter Home-->
 <div class="row">
     <div class="medium-6 columns t30">
       <img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt="">
       <h4>The Home Stretch</h4>
       <p style="margin:0;"><i>by Project Manager</i></p>
-      <p style="margin:0;">When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
+      <p style="margin:0;">We are entering the “Home Stretch” for ProjectLogic. When the migration of our location to is complete, all plants in the U.S. will be running on NewSystem.</p>
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
     </div><!-- /.medium-6.columns -->
 
@@ -93,6 +93,19 @@ Explain philosophy and content, source of template etc...
   <p><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
   <h4>The Home Stretch</h4>
   <i>by Project Manager</i>
+
+As we enter the “Home Stretch” for <b>ProjectLogic</b>, I would like to begin by personally thanking everyone for the progress we’ve made to date.
+
+<b>ProjectLogic</b> is a vital strategic initiative that will ensure standardization and enable efficiencies across all business areas of <b>CompanyONE</b>. Completing the migration of our location to <b>NewSystem</b> will mark the critical milestone of having all plants in the U.S. operating under one system.
+
+Over the coming weeks, we will prepare to ensure a smooth Go Live. We need your help in several areas, such as verifying the new system meets your business needs and that our technical procedures can accurately transfer your business data to the new system.
+
+In addition to business and system needs, it is essential that we address “people related” needs. Toward this end, we will be ramping up our communication and training efforts to ensure that all <b>CompanyONE</b> employees understand the changes to their day-to-day activities and have the necessary skills to successfully use the new system.  
+
+Your participation in the Go Live preparations is essential to the success of <b>ProjectLogic</b>. Human Resources will contact your departments in the near future to let you know how and when you can participate.
+
+Thank you in advance for your efforts and support. We look forward to working with you.
+
 
 <!--Article 02-->
 <a name="Article_02">Change Management</a>
