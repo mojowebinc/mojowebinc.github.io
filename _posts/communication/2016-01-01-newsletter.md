@@ -32,7 +32,7 @@ Explain philosophy and content, source of template etc...
 <div class="row">
     <div class="medium-12 columns t30">
     <hr>
-    <a name="ProjectLogic_eNewsletter"><small>ProjectLogic eNewsletter</small></a>
+    <p style="margin:0;"><a name="ProjectLogic_eNewsletter"><small>ProjectLogic eNewsletter</small></a></p>
     <h2>ProjectLogic eNewsletter</h2>
     </div><!-- /.medium-12.columns -->  
 </div><!-- /.row -->
@@ -88,7 +88,7 @@ Explain philosophy and content, source of template etc...
 
 <br>
 
-<!--Lead: The Home Streck-->
+<!--Lead: The Home Stretch-->
 <hr>
 <a name="Lead_Article"><small>The Home Stretch</small></a>
 <p><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
@@ -106,6 +106,7 @@ In addition to business and system needs, it is essential that we address “peo
 Your participation in the Go Live preparations is essential to the success of <b>ProjectLogic</b>. Human Resources will contact your departments in the near future to let you know how and when you can participate.
 
 Thank you in advance for your efforts and support. We look forward to working with you.
+<br>
 <a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a>
 <br>
 <br>
