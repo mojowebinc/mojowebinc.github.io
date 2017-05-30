@@ -37,7 +37,7 @@ Explain philosophy and content, source of template etc...
 <!--Newsletter Body-->
 <div class="row">
     <div class="medium-6 columns t30">
-      <img src="{{ site.urlimg }}b02cm_160210_title.jpg" alt="">
+      <img src="{{ site.urlimg }}03com_nl_01_WC_636x371.jpg" alt="">
       <h4>Lead Article</h4>
       <p style="margin:0;">by First Last</p>
       <p style="margin:0;">When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
@@ -85,7 +85,7 @@ Explain philosophy and content, source of template etc...
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
-### This is a test
+
 
 <!--Newsletter Footer-->
 <div class="row">
@@ -123,18 +123,15 @@ Explain philosophy and content, source of template etc...
   </div>
 </div>
 
-### test
-<h4>Project Timeline</h4>
-<h6>by Cutover Manager</h6>
+
+<h4>Project Timeline
+<h6>by Cutover Manager
 
 
 
 <!--Newsletter Footer-->
 <a name="Article_05">Frequently Asked Questions</a>
 
-
-
-#### test
 
 ### More Communication Posts
 {: .t60 }
