@@ -122,16 +122,16 @@ text
 <hr>
 <a name="Article_03"><small>Key Milestones | Upcoming Activities</small></a>
 <p><img src="{{ site.urlimg }}03com_nl_03_title.jpg" alt=""></p>
-#### Key Milestones | Coming Activities
+#### Key Milestones | Upcoming Activities
 <div class="row">
   <div class="small-12 medium-6 columns t30">
-#### Key Milestones: Last Month
+##### Key Milestones: Last Month
 - Dry Run: Data Conversion
 - Business Impact Assessment
 - Change Management Kick-Off
   </div>
   <div class="small-12 medium-6 columns t30">
-#### Upcoming Activities: This Month
+##### Upcoming Activities: This Month
 - User Acceptance Testing
 - Organization Workshops
 - Training Preparation
