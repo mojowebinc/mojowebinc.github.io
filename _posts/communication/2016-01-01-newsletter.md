@@ -172,16 +172,16 @@ When our testing is complete, we’ll take stock of our results and make sure we
 - <i>Warehouse Management
 
 <p style="margin:0;"><b>Q: Why now?</b></p>
-<p style="margin:0;"><i>A: We have selected the best go live date to ensure a smooth transition to the new system.</i></p>
+<p><i>A: We have selected the best go live date to ensure a smooth transition to the new system.</i></p>
 
 <p style="margin:0;"><b>Q: Who will be involved?</b></p>
-<p style="margin:0;"><i>A: Personnel who are part of the process list above and will use NewSystem at Go Live. If you currently use Legacy, you will likely use NewSystem.</i></p>
+<p><i>A: Personnel who are part of the process list above and will use NewSystem at Go Live. If you currently use Legacy, you will likely use NewSystem.</i></p>
 
 <p style="margin:0;"><b>Q: What support will be provided?</b></p>
 <p><i>A: In addition to regular communications, our core project team, including local key users, will provide support before and after Go Live.</i></p>
 
 <p style="margin:0;"><b>Q: Where can I get more information?</b></p>
-<p style="margin:0;"><i>A: Send an e-mail to NewSystem@CompanyONE.com or contact your key user.</i></p>
+<p><i>A: Send an e-mail to NewSystem@CompanyONE.com or contact your key user.</i></p>
 
 
 ### More Communication Posts
