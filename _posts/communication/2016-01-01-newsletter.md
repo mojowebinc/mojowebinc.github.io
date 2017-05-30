@@ -108,13 +108,25 @@ Your participation in the Go Live preparations is essential to the success of <b
 Thank you in advance for your efforts and support. We look forward to working with you.
 <p><a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a></p>
 <br>
+
 <!--Article 02: Change Management-->
 <hr>
 <a name="Article_02"><small>Change Management</small></a>
 <p><img src="{{ site.urlimg }}03com_nl_02_title.jpg" alt=""></p>
 #### Change Management
-  <p><i>by Change Manager</i></p>
-text
+<p><i>by Change Manager</i></p>
+When you think about the <b>NewSystem<b> implementation, it’s natural to think about computers and software. However, a perfectly functioning system means little if employees don’t know how to operate it or how it affects their day-to-day work. The purpose of Change Management is to handle these “people related” issues to ensure a smooth transition to from <b>Legacy</b> to <b>NewSystem</b>.
+
+Managers and key users are already taking part in <b>ProjectLogic</b> Organization Workshops to assess and document the changes to business rules, work processes and role requirements.  The impacts identified in these workshops will drive our Change Management efforts by providing content for communication, training and updated HR documentation.
+
+To ensure that all employees understand the specific changes found in the workshops, we will provide regular communications such as newsletters, posters and brief discussions at your team meetings. In addition, we will be holding department sessions where your managers and key users will walk you through the new business process and answer any questions you have.
+
+Finally, we will design and deliver an End User Training program so that you are ready to use NewSystem at Go Live. The training will be instructor led, tailored to your business area and provide you with “hands on” experience working with <b>NewSystem</b>.
+
+Human Resources will be contacting you regarding the workshop schedule, and coordinate with your managers to schedule your training as we get closer to Go Live.
+
+If you have any questions about our Change Management efforts, feel free to contact Human Resources or the Change Management team at change.manager@CompanyONE.com.
+<br>
 <p><a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a></p>
 <br>
 
