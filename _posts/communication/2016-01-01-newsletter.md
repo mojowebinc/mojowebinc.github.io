@@ -115,7 +115,7 @@ Thank you in advance for your efforts and support. We look forward to working wi
 <p><img src="{{ site.urlimg }}03com_nl_02_title.jpg" alt=""></p>
 #### Change Management
 <p><i>by Change Manager</i></p>
-When you think about the <b>NewSystem<b> implementation, it’s natural to think about computers and software. However, a perfectly functioning system means little if employees don’t know how to operate it or how it affects their day-to-day work. The purpose of Change Management is to handle these “people related” issues to ensure a smooth transition to from <b>Legacy</b> to <b>NewSystem</b>.
+When you think about the <b>NewSystem</b> implementation, it’s natural to think about computers and software. However, a perfectly functioning system means little if employees don’t know how to operate it or how it affects their day-to-day work. The purpose of Change Management is to handle these “people related” issues to ensure a smooth transition to from <b>Legacy</b> to <b>NewSystem</b>.
 
 Managers and key users are already taking part in <b>ProjectLogic</b> Organization Workshops to assess and document the changes to business rules, work processes and role requirements.  The impacts identified in these workshops will drive our Change Management efforts by providing content for communication, training and updated HR documentation.
 
