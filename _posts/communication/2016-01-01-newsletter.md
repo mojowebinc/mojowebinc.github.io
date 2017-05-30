@@ -30,7 +30,7 @@ Explain philosophy and content, source of template etc...
 <!--Newsletter Header-->
 <div class="row">
     <div class="medium-12 columns t30">
-    <h2>Project eNewsletter</h2>
+    <h2>ProjectLogic eNewsletter</h2>
     </div><!-- /.medium-12.columns -->  
 </div><!-- /.row -->
 
@@ -47,7 +47,7 @@ Explain philosophy and content, source of template etc...
     <div class="medium-6 columns t30">
       <div class="row">
         <div class="medium-12 columns">
-          <b>What's Happening |</b><i>At a Glance</>
+          <b>What's Happening |</b><i>At a Glance</i>
         </div>
       </div>
 
