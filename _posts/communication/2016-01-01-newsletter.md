@@ -97,17 +97,43 @@ Explain philosophy and content, source of template etc...
     </div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
 
+<!--Lead: The Home Streck-->
 <a name="Lead_Article">Lead Article</a>
 
-<a name="Article_02">Article 02</a>
+<!--Article 02-->
+<a name="Article_02">Change Management</a>
 
-<a name="Article_03">Article 03</a>
+<!--Article 03-->
+<a name="Article_03">Key Milestones | Upcoming Activities</a>
 
-<a name="Article_04">Article 04</a>
+<!--Newsletter Footer-->
+<a name="Article_04">Project Timeline</a>
+<div class="row">
+  <div class="small-12 medium-6 large-3 columns">
+    <img src="{{ site.urlimg }}03com_nl_01_roadmap_01.jpg" alt="">
+  </div>
 
-<a name="Article_05">Article 05</a>
+  <div class="small-12 medium-6 large-4 columns">
+    <img src="{{ site.urlimg }}03com_nl_01_roadmap_02.jpg" alt="">
+  </div>
 
-##### Article 02
+  <div class="small-12 medium-6 large-4 columns">
+    <img src="{{ site.urlimg }}03com_nl_01_roadmap_03.jpg" alt="">
+  </div>
+
+  <div class="small-12 medium-6 large-4 columns">
+    <img src="{{ site.urlimg }}03com_nl_01_roadmap_04.jpg" alt="">
+  </div>
+
+</div>
+###Project Timeline
+by Cutover Manager
+
+
+
+<!--Newsletter Footer-->
+<a name="Article_05">Frequently Asked Questions</a>
+
 
 
 
