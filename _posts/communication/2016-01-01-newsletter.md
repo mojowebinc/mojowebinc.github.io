@@ -48,6 +48,9 @@ Explain philosophy and content, source of template etc...
       <div class="row">
         <div class="medium-12 columns">
           <b>What's Happening |</b><i> At a Glance</i>
+            <ul>point One</ul>
+            <ul>point two</ul>
+            <ul>point three</ul>
         </div>
       </div>
 
