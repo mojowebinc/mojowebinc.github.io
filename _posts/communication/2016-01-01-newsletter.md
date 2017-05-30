@@ -91,8 +91,8 @@ Explain philosophy and content, source of template etc...
 <hr>
 <a name="Lead_Article"><small>The Home Stretch</small></a>
   <p><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
-  <h4>The Home Stretch</h4>
-  <p><i>by Project Manager</i></p>
+#### The Home Stretch
+<p><i>by Project Manager</i></p>
 As we enter the “Home Stretch” for <b>ProjectLogic</b>, I would like to begin by personally thanking everyone for the progress we’ve made to date.
 
 <b>ProjectLogic</b> is a vital strategic initiative that will ensure standardization and enable efficiencies across all business areas of <b>CompanyONE</b>. Completing the migration of our location to <b>NewSystem</b> will mark the critical milestone of having all plants in the U.S. operating under one system.
@@ -110,13 +110,13 @@ Thank you in advance for your efforts and support. We look forward to working wi
 <!--Article 02: Change Management-->
 <hr>
 <a name="Article_02"><small>Change Management</small></a>
-  <h4>Change Management</h4>
+#### Change Management
   <p><i>by Change Manager</i></p>
 
 <!--Article 03-->
 <hr>
 <a name="Article_03"><small>Key Milestones | Upcoming Activities</small></a>
-<h4>Key Milestones | Coming Activities</h4>
+#### Key Milestones | Coming Activities</h4>
 
 
 <!--Article 04: Project Timeline-->
@@ -142,7 +142,7 @@ Thank you in advance for your efforts and support. We look forward to working wi
   </div>
 </div>
 
-<h4>Project Timeline</h4>
+#### Project Timeline
 <p><i>by Cutover Manager</i></p>
 If you compare our progress along the <b>ProjectLogic</b> roadmap to a football game, I’d say we’re entering the fourth quarter with a lead. We’ve played a solid game, with a few bumps and bruises along the way, but are positioned well to put the game away. The best way to do that, is to get back to the basics of blocking and tackling.
 
