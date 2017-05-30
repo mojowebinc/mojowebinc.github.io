@@ -59,7 +59,7 @@ Explain philosophy and content, source of template etc...
       </div>
       <div class="row">
         <div class="medium-12 columns t30">
-          <p style="margin:0;"><b>Change Management |</b><i> by Change Manager</i></p>
+          <p style="margin:0;"><b>Change Management |</b><i> by&nbsp;Change&nbsp;Manager</i></p>
           <p style="margin:0;"><a href="#Article_02"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
@@ -72,7 +72,7 @@ Explain philosophy and content, source of template etc...
 <!--TOC: Timeline-->
       <div class="row">
         <div class="medium-12 columns t30">
-          <p style="margin:0;"><b>ProjectLogic Timeline |</b><i> by Cutover Manager</i></p>
+          <p style="margin:0;"><b>ProjectLogic Timeline |</b><i> by&nbsp;Cutover&nbsp;Manager</i></p>
           <p style="margin:0;"><a href="#Article_04"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
