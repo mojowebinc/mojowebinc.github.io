@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "A Responsive eNewsletter"
 subheadline: "One eNewsletter, Many Devices"
 teaser: "Employees have access to many devices. A responsive design will allow them to view eNewsletter content however they choose."
@@ -48,6 +48,7 @@ Explain philosophy and content, source of template etc...
       <div class="row">
         <div class="medium-12 columns">
           <b>What's Happening |</b><i> At a Glance</i>
+          <p style="margin:0;"><a href="#Article_03"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
 
