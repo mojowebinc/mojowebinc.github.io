@@ -48,9 +48,11 @@ Explain philosophy and content, source of template etc...
       <div class="row">
         <div class="medium-12 columns">
           <b>What's Happening |</b><i> At a Glance</i>
-            <ul>point One</ul>
-            <ul>point two</ul>
-            <ul>point three</ul>
+            <ul>
+              <li>point One</li>
+              <li>point two</li>
+              <li>point three</li>
+            </ul>
         </div>
       </div>
 
@@ -108,19 +110,19 @@ Explain philosophy and content, source of template etc...
 ### ProjectLogic Timeline
 
 <div class="row">
-  <div class="small-12 medium-3 large-3 columns t30">
+  <div class="small-12 medium-6 large-3 columns t30">
     <img src="{{ site.urlimg }}03com_nl_01_roadmap_01.jpg" alt="">
   </div>
 
-  <div class="small-12 medium-3 large-3 columns t30">
+  <div class="small-12 medium-6 large-3 columns t30">
     <img src="{{ site.urlimg }}03com_nl_01_roadmap_02.jpg" alt="">
   </div>
 
-  <div class="small-12 medium-3 large-3 columns t30">
+  <div class="small-12 medium-6 large-3 columns t30">
     <img src="{{ site.urlimg }}03com_nl_01_roadmap_03.jpg" alt="">
   </div>
 
-  <div class="small-12 medium-3 large-3 columns t30">
+  <div class="small-12 medium-6 large-3 columns t30">
     <img src="{{ site.urlimg }}03com_nl_01_roadmap_04.jpg" alt="">
   </div>
 </div>
