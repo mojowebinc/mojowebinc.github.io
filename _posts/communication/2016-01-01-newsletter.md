@@ -78,7 +78,6 @@ Explain philosophy and content, source of template etc...
       <div class="row">
         <div class="medium-12 columns t30">
           <b>FAQs |</b><i> Frequently Asked Questions</i>
-          <p style="margin:0;">When it comes to managing large scale organizational change,</p>
           <p style="margin:0;"><a href="#Article_05"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
@@ -86,16 +85,9 @@ Explain philosophy and content, source of template etc...
 </div><!-- /.row -->
 
 
-
-<!--Newsletter Footer-->
-<div class="row">
-    <div class="medium-12 columns t30">
-    Place Footer Information Here
-    </div><!-- /.medium-12.columns -->
-</div><!-- /.row -->
-
 <!--Lead: The Home Streck-->
 <a name="Lead_Article">The Home Stretch</a>
+  <img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt="">
   <h4>The Home Stretch</h4>
   <i>by Project Manager</i>
 
