@@ -13,7 +13,7 @@ header:
     title: The COM Blog
     background-color: "#EFC94C;"
     image_fullwidth: 03com2000.jpg
-    caption: Photo by Startup Stock Photos - @estrattonbailey & @wearesculpt.
+    caption: Photo by Startup Stock Photos.
     caption_url: http://startupstockphotos.com/
 
 image:
@@ -125,16 +125,16 @@ text
 #### Key Milestones | Upcoming Activities
 <div class="row">
   <div class="small-12 medium-6 columns t30">
-##### Key Milestones: Last Month
-- Dry Run: Data Conversion
-- Business Impact Assessment
-- Change Management Kick-Off
+    <p style="margin:0;"><h5>Key Milestones: Last Month</h5></p>
+    <p style="margin:0;"><i>  - Dry Run: Data Conversion</i></p>
+    <p style="margin:0;"><i>  - Business Impact Assessment</i></p>
+    <p style="margin:0;"><i>  - Change Management Kick-Off</i></p>
   </div>
   <div class="small-12 medium-6 columns t30">
-##### Upcoming Activities: This Month
-- User Acceptance Testing
-- Organization Workshops
-- Training Preparation
+    <p style="margin:0;"><h5>Upcoming Activities: This Month</h5></p>
+    <p style="margin:0;"><i>  - User Acceptance Testing</i></p>
+    <p style="margin:0;"><i>  - Organization Workshops</i></p>
+    <p style="margin:0;"><i>  - Training Preparation</i></p>
   </div>
 </div>
 
