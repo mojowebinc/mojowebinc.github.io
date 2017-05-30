@@ -28,10 +28,9 @@ image:
 Explain philosophy and content, source of template etc...
 
 <!--Newsletter Header-->
-<p><hr></p>
+<hr>
 <p style="margin:0;"><a name="ProjectLogic_eNewsletter"><small>ProjectLogic eNewsletter</small></a></p>
-## ProjectLogic eNewsletter
-
+<p style="margin:0;"><h2>ProjectLogic eNewsletter</h2></p>
 <!--NEWSLETTER TOC-->
 <!--TOC: Lead Article-->
 <div class="row">
