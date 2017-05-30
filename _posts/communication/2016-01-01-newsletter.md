@@ -96,6 +96,7 @@ Explain philosophy and content, source of template etc...
 <br>
 
 <!--Lead: The Home Streck-->
+<hr>
 <a name="Lead_Article">The Home Stretch</a>
   <p><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
   <h4>The Home Stretch</h4>
@@ -116,16 +117,19 @@ Thank you in advance for your efforts and support. We look forward to working wi
 <br>
 
 <!--Article 02-->
+<hr>
 <a name="Article_02">Change Management</a>
   <h4>Change Management</h4>
   <p><i>by Change Manager</i></p>
 
 <!--Article 03-->
+<hr>
 <a name="Article_03">Key Milestones | Upcoming Activities</a>
 <h4>Key Milestones | Coming Activities</h4>
 
 
-<!--Newsletter Footer-->
+<!--Article 04: Project Timeline-->
+<hr>
 <p style="margin:0;"><a name="Article_04">Project Timeline</a></p>
 ### ProjectLogic Timeline
 
@@ -164,6 +168,7 @@ When our testing is complete, we’ll take stock of our results and make sure we
 <br>
 
 <!--Frequently Asked Questions-->
+<hr>
 <a name="Article_05">Frequently Asked Questions</a>
 <h4>Frequently Asked Questions (FAQs)</h4>
 
