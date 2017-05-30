@@ -107,7 +107,7 @@ Explain philosophy and content, source of template etc...
 <a name="Article_03">Key Milestones | Upcoming Activities</a>
 
 <!--Newsletter Footer-->
-<a name="Article_04">Project Timeline</a>
+<p style="margin:0;"><a name="Article_04">Project Timeline</a></p>
 <div class="row">
   <div class="small-12 medium-3 large-3 columns t30">
     <img src="{{ site.urlimg }}03com_nl_01_roadmap_01.jpg" alt="">
@@ -127,8 +127,8 @@ Explain philosophy and content, source of template etc...
 </div>
 
 
-###Project Timeline
-by Cutover Manager
+<h4>Project Timeline
+<h6>by Cutover Manager
 
 
 
