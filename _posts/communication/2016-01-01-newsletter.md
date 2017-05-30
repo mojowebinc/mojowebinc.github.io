@@ -119,7 +119,6 @@ Explain philosophy and content, source of template etc...
 
 <!--Newsletter Footer-->
 <p style="margin:0;"><a name="Article_04">Project Timeline</a></p>
-
 ### ProjectLogic Timeline
 
 <div class="row">
