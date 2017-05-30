@@ -161,8 +161,8 @@ When our testing is complete, we’ll take stock of our results and make sure we
 <a name="Article_05"><small>Frequently Asked Questions</small></a>
 <h4>Frequently Asked Questions (FAQs)</h4>
 
-Q: Why did CompanyONE choose NewSystem?
-A: NewSystem is the world leader in enterprise applications and is designed to enable the use of industry best practice processes in areas of our company, such as:
+Q Why did CompanyONE choose NewSystem?
+A NewSystem is the world leader in enterprise applications and is designed to enable the use of industry best practice processes in areas of our company, such as:
 - Finance and Controlling  
 - Purchasing and Goods Movements
 - Production Planning and Scheduling
@@ -171,17 +171,17 @@ A: NewSystem is the world leader in enterprise applications and is designed to e
 - Shipping
 - Warehouse Management
 
-Q: Why now?
-A: We have selected the best go live date to ensure a smooth transition to the new system.
+Q Why now?
+A We have selected the best go live date to ensure a smooth transition to the new system.
 
-Q: Who will be involved?
-A: Personnel who are part of the process list above and will use NewSystem at Go Live. If you currently use Legacy, you will likely use NewSystem.
+Q Who will be involved?
+A Personnel who are part of the process list above and will use NewSystem at Go Live. If you currently use Legacy, you will likely use NewSystem.
 
-Q: What support will be provided?
-A: In addition to regular communications, our core project team, including local key users, will provide support before and after Go Live.
+Q What support will be provided?
+A In addition to regular communications, our core project team, including local key users, will provide support before and after Go Live.
 
-Q: Where can I get more information?
-A: Send an e-mail to NewSystem@CompanyONE.com or contact your key user.
+Q Where can I get more information?
+A Send an e-mail to NewSystem@CompanyONE.com or contact your key user.
 
 
 ### More Communication Posts
