@@ -38,8 +38,8 @@ Explain philosophy and content, source of template etc...
 <div class="row">
     <div class="medium-6 columns t30">
       <img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt="">
-      <h4>Lead Article</h4>
-      <p style="margin:0;">by First Last</p>
+      <h4>The Home Stretch</h4>
+      <p style="margin:0;"><i>by Project Manager</i></p>
       <p style="margin:0;">When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
     </div><!-- /.medium-6.columns -->
