@@ -49,12 +49,12 @@ Explain philosophy and content, source of template etc...
 <!--TOC: What's Happening-->
     <div class="medium-6 columns t30">
       <div class="row">
-        <div class="medium-12 columns">
+        <p style="margin:0;"><div class="medium-12 columns">
           <p style="margin:0;"><b>What's Happening |</b><i> At a Glance</i></p>
           <p style="margin:0;"><i>  - Dry Run: Data Conversion</i></p>
           <p style="margin:0;"><i>  - Business Impact Assessment</i></p>
           <p style="margin:0;"><i>  - Change Management Kick-Off</i></p>
-        </div>
+        </div></p>
       </div>
 <!--TOC: Change Management-->
       <div class="row">
