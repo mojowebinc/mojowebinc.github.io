@@ -163,14 +163,13 @@ When our testing is complete, we’ll take stock of our results and make sure we
 
 <b>Q: </b>Why did CompanyONE choose NewSystem?
 <b>A: </b>NewSystem is the world leader in enterprise applications and is designed to enable the use of industry best practice processes in areas of our company, such as:
-<ul>
-<li>Finance and Controlling  
-<li>Purchasing and Goods Movements
-Production Planning and Scheduling
-Quality Management
-Customer Service
-Shipping
-Warehouse Management
+- Finance and Controlling  
+- Purchasing and Goods Movements
+- Production Planning and Scheduling
+- Quality Management
+- Customer Service
+- Shipping
+- Warehouse Management
 
 Q: Why now?
 A: We have selected the best go live date to ensure a smooth transition to the new system.
