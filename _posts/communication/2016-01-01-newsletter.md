@@ -47,7 +47,7 @@ Explain philosophy and content, source of template etc...
     <div class="medium-6 columns t30">
       <div class="row">
         <div class="medium-12 columns">
-          <b>In This Edition</b>
+          <b>What's Happening |</b><i>At a Glance</>
         </div>
       </div>
 
@@ -105,6 +105,9 @@ Explain philosophy and content, source of template etc...
 
 <!--Newsletter Footer-->
 <p style="margin:0;"><a name="Article_04">Project Timeline</a></p>
+
+### ProjectLogic Timeline
+
 <div class="row">
   <div class="small-12 medium-3 large-3 columns t30">
     <img src="{{ site.urlimg }}03com_nl_01_roadmap_01.jpg" alt="">
@@ -125,7 +128,7 @@ Explain philosophy and content, source of template etc...
 
 
 <h4>Project Timeline</h4>
-<h6>by Cutover Manager</h6>
+<i>by Cutover Manager</i>
 
 
 
