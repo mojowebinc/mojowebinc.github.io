@@ -49,20 +49,17 @@ Explain philosophy and content, source of template etc...
     <div class="medium-6 columns t30">
       <div class="row">
         <div class="medium-12 columns">
-          <p style="margin:0;"><b>What's Happening |</b><i> At a Glance</i>
-            <p style="margin:0;"><ul>
-              <li>Dry Run: Data Conversion</li>
-              <li>Business Impact Assessment</li>
-              <li>Change Management Kick-Off</li>
-            </ul></p>
-          </p>
+          <p style="margin:0;"><b>What's Happening |</b><i> At a Glance</i></p>
+          <p style="margin:0;"><i>  - Dry Run: Data Conversion</i></p>
+          <p style="margin:0;"><i>  - Business Impact Assessment</i></p>
+          <p style="margin:0;"><i>  - Change Management Kick-Off</i></p>
         </div>
       </div>
 
 <!--TOC: Change Management-->
       <div class="row">
         <div class="medium-12 columns t30">
-          <b>Change Management |</b><i> by Change Manager</i>
+          <p style="margin:0;"><b>Change Management |</b><i> by Change Manager</i></p>
           <p style="margin:0;"><a href="#Article_02"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
@@ -70,7 +67,7 @@ Explain philosophy and content, source of template etc...
 <!--TOC: Milestones, Coming Activities-->
       <div class="row">
         <div class="medium-12 columns t30">
-          <b>Key Milestones, Coming Activities</b>
+          <p style="margin:0;"><b>Key Milestones, Coming Activities</b></p>
           <p style="margin:0;"><a href="#Article_03"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
@@ -78,7 +75,7 @@ Explain philosophy and content, source of template etc...
 <!--TOC: Timeline-->
       <div class="row">
         <div class="medium-12 columns t30">
-          <b>ProjectLogic Timeline |</b><i> by Cutover Manager</i>
+          <p style="margin:0;"><b>ProjectLogic Timeline |</b><i> by Cutover Manager</i></p>
           <p style="margin:0;"><a href="#Article_04"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
@@ -86,7 +83,7 @@ Explain philosophy and content, source of template etc...
 <!--TOC: Frequently Asked Questions-->
       <div class="row">
         <div class="medium-12 columns t30">
-          <b>FAQs |</b><i> Frequently Asked Questions</i>
+          <p style="margin:0;"><b>FAQs |</b><i> Frequently Asked Questions</i></p>
           <p style="margin:0;"><a href="#Article_05"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
