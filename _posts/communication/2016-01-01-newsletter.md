@@ -43,11 +43,9 @@ Explain philosophy and content, source of template etc...
       <p style="margin:0;">by First Last</p>
       <p style="margin:0;">When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail.</p>
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
-
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns t30">
-
       <div class="row">
         <div class="medium-12 columns">
           <b>In This Edition</b>
@@ -85,9 +83,7 @@ Explain philosophy and content, source of template etc...
           <p style="margin:0;"><a href="#Article_05"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
-
     </div><!-- /.medium-6.columns -->
-
 </div><!-- /.row -->
 
 ###This is a test
