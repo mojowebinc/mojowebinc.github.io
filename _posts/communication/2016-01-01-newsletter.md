@@ -85,7 +85,7 @@ Explain philosophy and content, source of template etc...
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
-###This is a test
+### This is a test
 
 <!--Newsletter Footer-->
 <div class="row">
@@ -123,7 +123,7 @@ Explain philosophy and content, source of template etc...
   </div>
 </div>
 
-###test
+### test
 <h4>Project Timeline</h4>
 <h6>by Cutover Manager</h6>
 
@@ -134,7 +134,7 @@ Explain philosophy and content, source of template etc...
 
 
 
-####test
+#### test
 
 ### More Communication Posts
 {: .t60 }
