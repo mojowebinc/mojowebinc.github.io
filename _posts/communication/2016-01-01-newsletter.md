@@ -121,7 +121,7 @@ text
 <!--Article 03-->
 <hr>
 <a name="Article_03"><small>Key Milestones | Upcoming Activities</small></a>
-<p><img src="{{ site.urlimg }}03com_nl_03_title.jpg" alt=""></p>
+<p style="margin:0;"><img src="{{ site.urlimg }}03com_nl_03_title.jpg" alt=""></p>
 <div class="row">
   <div class="small-12 medium-6 columns t30">
     <p style="margin:0;"><h5>Key Milestones: Last Month</h5></p>
@@ -136,6 +136,7 @@ text
     <p style="margin:0;"><i>  - Training Preparation</i></p>
   </div>
 </div>
+<br>
 <p><a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a></p>
 <br>
 
