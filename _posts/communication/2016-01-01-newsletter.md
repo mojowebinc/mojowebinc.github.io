@@ -101,7 +101,6 @@ Explain philosophy and content, source of template etc...
   <p><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
   <h4>The Home Stretch</h4>
   <p><i>by Project Manager</i></p>
-
 As we enter the “Home Stretch” for <b>ProjectLogic</b>, I would like to begin by personally thanking everyone for the progress we’ve made to date.
 
 <b>ProjectLogic</b> is a vital strategic initiative that will ensure standardization and enable efficiencies across all business areas of <b>CompanyONE</b>. Completing the migration of our location to <b>NewSystem</b> will mark the critical milestone of having all plants in the U.S. operating under one system.
@@ -153,7 +152,6 @@ Thank you in advance for your efforts and support. We look forward to working wi
 
 <h4>Project Timeline</h4>
 <p><i>by Cutover Manager</i></p>
-
 If you compare our progress along the <b>ProjectLogic</b> roadmap to a football game, I’d say we’re entering the fourth quarter with a lead. We’ve played a solid game, with a few bumps and bruises along the way, but are positioned well to put the game away. The best way to do that, is to get back to the basics of blocking and tackling.
 
 For <b>ProjectLogic</b>, getting back to basics comes down to a few things, making sure the system is ready and making sure our people are ready. The timeline shows the basic “plays” that we need to execute to get the football into the end zone, so to speak.
@@ -163,7 +161,6 @@ While Change Management handles the people-side of things, we also need to make 
 Secondly, we must make sure the system allows us to successfully complete our day-to-day job activities, such as receiving materials, creating our products, shipping our products and successfully billing our customers. We’ll accomplish these objectives through our User Acceptance Testing.
 
 When our testing is complete, we’ll take stock of our results and make sure we are ready for the final drive to the end zone. Once we get the thumbs-up, we will begin our Cutover and End User Training activities.
-
 <br>
 <br>
 
