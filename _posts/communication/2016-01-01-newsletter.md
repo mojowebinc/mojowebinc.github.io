@@ -53,16 +53,15 @@ Explain philosophy and content, source of template etc...
 
       <div class="row">
         <div class="medium-12 columns t30">
-          <b>Change Management |</b><i>by Change Manager</i>
+          <b>Change Management |</b><i> by Change Manager</i>
           <p style="margin:0;">Training is underway</p>
           <p style="margin:0;"><a href="#Article_02"><strong>Read More&nbsp;›</strong></a></p>
-          <p></p>
         </div>
       </div>
 
       <div class="row">
         <div class="medium-12 columns t30">
-          <b>Key Milestones | Coming Activities</b>
+          <b>Key Milestones, Coming Activities</b>
           <p style="margin:0;">When it comes to managing large scale organizational change,</p>
           <p style="margin:0;"><a href="#Article_03"><strong>Read More&nbsp;›</strong></a></p>
         </div>
@@ -70,7 +69,7 @@ Explain philosophy and content, source of template etc...
 
       <div class="row">
         <div class="medium-12 columns t30">
-          <b>ProjectLogic Timeline |</b><i>by Cutover Manager</i>
+          <b>ProjectLogic Timeline |</b><i> by Cutover Manager</i>
           <p style="margin:0;">When it comes to managing large scale organizational change,</p>
           <p style="margin:0;"><a href="#Article_04"><strong>Read More&nbsp;›</strong></a></p>
         </div>
@@ -78,7 +77,7 @@ Explain philosophy and content, source of template etc...
 
       <div class="row">
         <div class="medium-12 columns t30">
-          <b>FAQs |</b><i>Frequently Asked Questions</i>
+          <b>FAQs |</b><i> Frequently Asked Questions</i>
           <p style="margin:0;">When it comes to managing large scale organizational change,</p>
           <p style="margin:0;"><a href="#Article_05"><strong>Read More&nbsp;›</strong></a></p>
         </div>
