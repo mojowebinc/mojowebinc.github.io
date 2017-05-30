@@ -34,7 +34,8 @@ Explain philosophy and content, source of template etc...
     </div><!-- /.medium-12.columns -->  
 </div><!-- /.row -->
 
-<!--Newsletter Home-->
+<!--NEWSLETTER TOC-->
+<!--TOC: Lead Article-->
 <div class="row">
     <div class="medium-6 columns t30">
       <img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt="">
@@ -44,19 +45,21 @@ Explain philosophy and content, source of template etc...
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
     </div><!-- /.medium-6.columns -->
 
+<!--TOC: What's Happening-->
     <div class="medium-6 columns t30">
       <div class="row">
         <div class="medium-12 columns">
-          <b>What's Happening |</b><i> At a Glance</i>
+          <p style="margin:0;"><b>What's Happening |</b><i> At a Glance</i>
             <p style="margin:0;"><ul>
               <li>Dry Run: Data Conversion</li>
               <li>Business Impact Assessment</li>
               <li>Change Management Kick-Off</li>
             </ul></p>
+          </p>
         </div>
       </div>
 
-
+<!--TOC: Change Management-->
       <div class="row">
         <div class="medium-12 columns t30">
           <b>Change Management |</b><i> by Change Manager</i>
@@ -64,6 +67,7 @@ Explain philosophy and content, source of template etc...
         </div>
       </div>
 
+<!--TOC: Milestones, Coming Activities-->
       <div class="row">
         <div class="medium-12 columns t30">
           <b>Key Milestones, Coming Activities</b>
@@ -71,6 +75,7 @@ Explain philosophy and content, source of template etc...
         </div>
       </div>
 
+<!--TOC: Timeline-->
       <div class="row">
         <div class="medium-12 columns t30">
           <b>ProjectLogic Timeline |</b><i> by Cutover Manager</i>
@@ -78,6 +83,7 @@ Explain philosophy and content, source of template etc...
         </div>
       </div>
 
+<!--TOC: Frequently Asked Questions-->
       <div class="row">
         <div class="medium-12 columns t30">
           <b>FAQs |</b><i> Frequently Asked Questions</i>
