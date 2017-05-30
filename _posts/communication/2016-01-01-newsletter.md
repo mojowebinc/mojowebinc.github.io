@@ -49,21 +49,19 @@ Explain philosophy and content, source of template etc...
 <!--TOC: What's Happening-->
     <div class="medium-6 columns t30">
       <div class="row">
-        <p style="margin:0;"><div class="medium-12 columns">
+        <div class="medium-12 columns">
           <p style="margin:0;"><b>What's Happening |</b><i> At a Glance</i></p>
           <p style="margin:0;"><i>  - Dry Run: Data Conversion</i></p>
           <p style="margin:0;"><i>  - Business Impact Assessment</i></p>
           <p style="margin:0;"><i>  - Change Management Kick-Off</i></p>
-        </div></p>
+        </div>
       </div>
-<!--TOC: Change Management-->
       <div class="row">
         <div class="medium-12 columns t30">
           <p style="margin:0;"><b>Change Management |</b><i> by Change Manager</i></p>
           <p style="margin:0;"><a href="#Article_02"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
-<!--TOC: Milestones, Coming Activities-->
       <div class="row">
         <div class="medium-12 columns t30">
           <p style="margin:0;"><b>Key Milestones, Coming Activities</b></p>
@@ -73,15 +71,15 @@ Explain philosophy and content, source of template etc...
 <!--TOC: Timeline-->
       <div class="row">
         <div class="medium-12 columns t30">
-          <p><b>ProjectLogic Timeline |</b><i> by Cutover Manager</i></p>
-          <p><a href="#Article_04"><strong>Read More&nbsp;›</strong></a></p>
+          <p style="margin:0;"><b>ProjectLogic Timeline |</b><i> by Cutover Manager</i></p>
+          <p style="margin:0;"><a href="#Article_04"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
 <!--TOC: Frequently Asked Questions-->
       <div class="row">
         <div class="medium-12 columns t30">
-          <p><b>FAQs |</b><i> Frequently Asked Questions</i></p>
-          <p><a href="#Article_05"><strong>Read More&nbsp;›</strong></a></p>
+          <p style="margin:0;"><b>FAQs |</b><i> Frequently Asked Questions</i></p>
+          <p style="margin:0;"><a href="#Article_05"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
     </div><!-- /.medium-6.columns -->
