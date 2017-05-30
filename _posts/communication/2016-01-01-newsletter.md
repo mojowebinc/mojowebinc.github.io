@@ -124,13 +124,13 @@ text
 <p style="margin:0;"><img src="{{ site.urlimg }}03com_nl_03_title.jpg" alt=""></p>
 <div class="row">
   <div class="small-12 medium-6 columns t30">
-    <p style="margin:0;"><h5>Key Milestones: Last Month</h5></p>
+    <p style="margin:0;"><h4>Key Milestones: Last&nbsp;Month</h4></p>
     <p style="margin:0;"><i>  - Dry Run: Data Conversion</i></p>
     <p style="margin:0;"><i>  - Business Impact Assessment</i></p>
     <p style="margin:0;"><i>  - Change Management Kick-Off</i></p>
   </div>
   <div class="small-12 medium-6 columns t30">
-    <p style="margin:0;"><h5>Upcoming Activities: This Month</h5></p>
+    <p style="margin:0;"><h4>Upcoming Activities: This&nbsp;Month</h4></p>
     <p style="margin:0;"><i>  - User Acceptance Testing</i></p>
     <p style="margin:0;"><i>  - Organization Workshops</i></p>
     <p style="margin:0;"><i>  - Training Preparation</i></p>
