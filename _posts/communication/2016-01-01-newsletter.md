@@ -160,9 +160,9 @@ When our testing is complete, we’ll take stock of our results and make sure we
 <hr>
 <a name="Article_05"><small>Frequently Asked Questions</small></a>
 <h4>Frequently Asked Questions (FAQs)</h4>
-
-<p style="margin:0;"><b>Q: </b><i>Why did CompanyONE choose NewSystem?</i></p>
-<p style="margin:0;"><h4>A: </h4><i>NewSystem is the world leader in enterprise applications and is designed to enable the use of industry best practice processes in areas of our company, such as:</i></p>
+<br>
+<p style="margin:0;"><b>Q: </b>Why did CompanyONE choose NewSystem?</p>
+<p style="margin:0;"><b>A: </b><i>NewSystem is the world leader in enterprise applications and is designed to enable the use of industry best practice processes in areas of our company, such as:</i></p>
 - Finance and Controlling   
 - Purchasing and Goods Movements
 - Production Planning and Scheduling
@@ -171,8 +171,8 @@ When our testing is complete, we’ll take stock of our results and make sure we
 - Shipping
 - Warehouse Management
 
-Q Why now?
-A We have selected the best go live date to ensure a smooth transition to the new system.
+<p style="margin:0;"><b>Q: </b>Why now?</p>
+<p style="margin:0;"><b><i>A: </i></b><i>We have selected the best go live date to ensure a smooth transition to the new system.</i></p>
 
 Q Who will be involved?
 A Personnel who are part of the process list above and will use NewSystem at Go Live. If you currently use Legacy, you will likely use NewSystem.
