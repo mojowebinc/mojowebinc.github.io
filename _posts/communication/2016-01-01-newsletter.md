@@ -47,37 +47,38 @@ Explain philosophy and content, source of template etc...
     <div class="medium-6 columns t30">
       <div class="row">
         <div class="medium-12 columns">
-          <b>What's Happening |</b><i>At a Glance</i>
+          <b>What's Happening |</b><i> At a Glance</i>
         </div>
       </div>
 
       <div class="row">
-        <div class="medium-12 columns">
-          Article 02 Title by First Last
+        <div class="medium-12 columns t30">
+          <b>Change Management |</b><i>by Change Manager</i>
           <p style="margin:0;">Training is underway</p>
           <p style="margin:0;"><a href="#Article_02"><strong>Read More&nbsp;›</strong></a></p>
+          <p></p>
         </div>
       </div>
 
       <div class="row">
-        <div class="medium-12 columns">
-          Article 03 Title by First Last
+        <div class="medium-12 columns t30">
+          <b>Key Milestones | Coming Activities</b>
           <p style="margin:0;">When it comes to managing large scale organizational change,</p>
           <p style="margin:0;"><a href="#Article_03"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
 
       <div class="row">
-        <div class="medium-12 columns">
-          Article 04 Title by First Last
+        <div class="medium-12 columns t30">
+          <b>ProjectLogic Timeline |</b><i>by Cutover Manager</i>
           <p style="margin:0;">When it comes to managing large scale organizational change,</p>
           <p style="margin:0;"><a href="#Article_04"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
 
       <div class="row">
-        <div class="medium-12 columns">
-          Article 05 Title by First Last
+        <div class="medium-12 columns t30">
+          <b>FAQs |</b><i>Frequently Asked Questions</i>
           <p style="margin:0;">When it comes to managing large scale organizational change,</p>
           <p style="margin:0;"><a href="#Article_05"><strong>Read More&nbsp;›</strong></a></p>
         </div>
@@ -95,13 +96,19 @@ Explain philosophy and content, source of template etc...
 </div><!-- /.row -->
 
 <!--Lead: The Home Streck-->
-<a name="Lead_Article">Lead Article</a>
+<a name="Lead_Article">The Home Stretch</a>
+  <h4>The Home Stretch</h4>
+  <i>by Project Manager</i>
 
 <!--Article 02-->
 <a name="Article_02">Change Management</a>
+  <h4>Change Management</h4>
+  <i>by Change Manager</i>
 
 <!--Article 03-->
 <a name="Article_03">Key Milestones | Upcoming Activities</a>
+<h4>Key Milestones | Coming Activities</h4>
+
 
 <!--Newsletter Footer-->
 <p style="margin:0;"><a name="Article_04">Project Timeline</a></p>
@@ -126,7 +133,6 @@ Explain philosophy and content, source of template etc...
   </div>
 </div>
 
-
 <h4>Project Timeline</h4>
 <i>by Cutover Manager</i>
 
@@ -134,6 +140,7 @@ Explain philosophy and content, source of template etc...
 
 <!--Newsletter Footer-->
 <a name="Article_05">Frequently Asked Questions</a>
+<h4>Frequently Asked Questions (FAQs)</h4>
 
 
 ### More Communication Posts
