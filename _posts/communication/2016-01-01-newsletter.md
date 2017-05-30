@@ -124,8 +124,8 @@ Explain philosophy and content, source of template etc...
 </div>
 
 
-<h4>Project Timeline
-<h6>by Cutover Manager
+<h4>Project Timeline</h4>
+<h6>by Cutover Manager</h6>
 
 
 
