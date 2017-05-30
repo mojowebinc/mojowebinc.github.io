@@ -32,6 +32,7 @@ Explain philosophy and content, source of template etc...
 <div class="row">
     <div class="medium-12 columns t30">
     <hr>
+    <a name="ProjectLogic eNewsletter"><small>ProjectLogic eNewsletter</small></a>
     <h2>ProjectLogic eNewsletter</h2>
     </div><!-- /.medium-12.columns -->  
 </div><!-- /.row -->
@@ -90,7 +91,8 @@ Explain philosophy and content, source of template etc...
 <!--Lead: The Home Streck-->
 <hr>
 <a name="Lead_Article"><small>The Home Stretch</small></a>
-  <p><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
+<p><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
+
 #### The Home Stretch
 <p><i>by Project Manager</i></p>
 As we enter the “Home Stretch” for <b>ProjectLogic</b>, I would like to begin by personally thanking everyone for the progress we’ve made to date.
@@ -116,7 +118,7 @@ Thank you in advance for your efforts and support. We look forward to working wi
 <!--Article 03-->
 <hr>
 <a name="Article_03"><small>Key Milestones | Upcoming Activities</small></a>
-#### Key Milestones | Coming Activities</h4>
+#### Key Milestones | Coming Activities
 
 
 <!--Article 04: Project Timeline-->
@@ -157,8 +159,8 @@ When our testing is complete, we’ll take stock of our results and make sure we
 <br>
 
 <!--Frequently Asked Questions-->
-<p style="margin:0;"><hr></p>
-<p style="margin:0;"><a name="Article_05"><small>Frequently Asked Questions</small></a></p>
+<hr>
+<a name="Article_05"><small>Frequently Asked Questions</small></a>
 #### Frequently Asked Questions
 <p></p>
 <p style="margin:0;"><b>Q: Why did CompanyONE choose NewSystem?</b></p>
