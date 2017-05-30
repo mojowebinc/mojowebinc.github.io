@@ -43,7 +43,7 @@ Explain philosophy and content, source of template etc...
       <img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt="">
       <h4>The Home Stretch</h4>
       <p><i>by Project Manager</i></p>
-      <p style="margin:0;">We are entering the “Home Stretch” for <b>ProjectLogic</b>. When our local transition from <b>Legacy</b> is complete, all <b>CompanONE</b>plants in the U.S. will be running on <b>NewSystem</b>plants in the U.S. will be running on .</p>
+      <p style="margin:0;">We are entering the “Home Stretch” for <b>ProjectLogic</b>. When our local transition from <b>Legacy</b> is complete, all <b>CompanONE</b>plants in the U.S. will be running on <b>NewSystem</b>.</p>
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
     </div><!-- /.medium-6.columns -->
 <!--TOC: What's Happening-->
@@ -159,10 +159,10 @@ When our testing is complete, we’ll take stock of our results and make sure we
 <!--Frequently Asked Questions-->
 <hr>
 <a name="Article_05"><small>Frequently Asked Questions</small></a>
-<h4>Frequently Asked Questions (FAQs)</h4>
+<p><h4>Frequently Asked Questions (FAQs)</h4></p>
 
 <p style="margin:0;"><b>Q: Why did CompanyONE choose NewSystem?</b></p>
-<p style="margin:0;"><i>A: NewSystem is the world leader in enterprise applications and is designed to enable the use of industry best practice processes in areas of our company, such as:</i></p>
+<p style="margin:0;"><i>A: <b>NewSystem</b> is the world leader in enterprise applications and is designed to enable the use of industry best practice processes in areas of our company, such as:</i></p>
 - <i>Finance and Controlling   
 - <i>Purchasing and Goods Movements
 - <i>Production Planning and Scheduling
@@ -175,7 +175,7 @@ When our testing is complete, we’ll take stock of our results and make sure we
 <p><i>A: We have selected the best go live date to ensure a smooth transition to the new system.</i></p>
 
 <p style="margin:0;"><b>Q: Who will be involved?</b></p>
-<p><i>A: Personnel who are part of the process list above and will use NewSystem at Go Live. If you currently use Legacy, you will likely use NewSystem.</i></p>
+<p><i>A: Personnel who are part of the process list above and will use <b>NewSystem</b> at Go Live. If you currently use Legacy, you will likely use <b>NewSystem</b>.</i></p>
 
 <p style="margin:0;"><b>Q: What support will be provided?</b></p>
 <p><i>A: In addition to regular communications, our core project team, including local key users, will provide support before and after Go Live.</i></p>
