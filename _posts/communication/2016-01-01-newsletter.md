@@ -105,11 +105,8 @@ In addition to business and system needs, it is essential that we address “peo
 
 Your participation in the Go Live preparations is essential to the success of <b>ProjectLogic</b>. Human Resources will contact your departments in the near future to let you know how and when you can participate.
 
-Thank you in advance for your efforts and support. We look forward to working with you. test
-<br>
-<a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a>
-<br>
-<br>
+Thank you in advance for your efforts and support. We look forward to working with you.
+<p><a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a></p>
 
 <!--Article 02: Change Management-->
 <hr>
