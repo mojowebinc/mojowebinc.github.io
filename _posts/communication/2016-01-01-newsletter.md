@@ -90,7 +90,7 @@ Explain philosophy and content, source of template etc...
 
 <!--Lead: The Home Stretch-->
 <hr>
-<a name="Lead_Article"><small>The Home Stretch</small></a>
+<p style="margin:0;"><a name="Lead_Article"><small>The Home Stretch</small></a></p>
 <p><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
 
 #### The Home Stretch
@@ -111,7 +111,7 @@ Thank you in advance for your efforts and support. We look forward to working wi
 
 <!--Article 02: Change Management-->
 <hr>
-<a name="Article_02"><small>Change Management</small></a>
+<p style="margin:0;"><a name="Article_02"><small>Change Management</small></a></p>
 <p><img src="{{ site.urlimg }}03com_nl_02_title.jpg" alt=""></p>
 #### Change Management
 <p><i>by Change Manager</i></p>
@@ -191,7 +191,7 @@ When our testing is complete, we’ll take stock of our results and make sure we
 
 <!--Frequently Asked Questions-->
 <hr>
-<a name="Article_05"><small>Frequently Asked Questions</small></a>
+<p style="margin:0;"><a name="Article_05"><small>Frequently Asked Questions</small></a></p>
 <p><img src="{{ site.urlimg }}03com_nl_05_title.jpg" alt=""></p>
 #### Frequently Asked Questions
 <p></p>
