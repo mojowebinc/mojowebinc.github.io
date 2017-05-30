@@ -90,6 +90,8 @@ Explain philosophy and content, source of template etc...
 
 </div><!-- /.row -->
 
+###This is a test
+
 <!--Newsletter Footer-->
 <div class="row">
     <div class="medium-12 columns t30">
