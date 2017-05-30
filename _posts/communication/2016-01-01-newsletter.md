@@ -87,7 +87,7 @@ Explain philosophy and content, source of template etc...
 
 <!--Lead: The Home Streck-->
 <a name="Lead_Article">The Home Stretch</a>
-  <img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt="">
+  <p><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
   <h4>The Home Stretch</h4>
   <i>by Project Manager</i>
 
