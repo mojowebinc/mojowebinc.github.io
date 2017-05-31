@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "A Responsive eNewsletter"
-subheadline: "One eNewsletter, Many Devices"
+subheadline: "One Newsletter, Many Devices"
 teaser: "Employees have access to many devices. A responsive design allows them to view eNewsletter content however they choose."
 breadcrumb: true
 categories:
@@ -219,7 +219,7 @@ When our testing is complete, we’ll take stock of our results and make sure we
 <p><i>A: In addition to regular communications, our core project team, including local key users, will provide support before and after Go Live.</i></p>
 
 <p style="margin:0;"><b>Q: Where can I get more information?</b></p>
-<p><i>A: Send an e-mail to NewSystem@CompanyONE.com or contact your key user.</i></p>
+<p><i>A: Send an e-mail to ProjectLogic@CompanyONE.com or contact your key user.</i></p>
 <p><a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a></p>
 <br>
 
