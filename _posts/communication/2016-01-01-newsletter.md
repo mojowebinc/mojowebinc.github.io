@@ -24,7 +24,7 @@ image:
     caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
-### Creating a Responsive eNewsletter
+### How it Works
 The sample eNewsletter on this page was designed and developed to flexibly adapt to diverse types of devices. In other words, this is a responsive newsletter. In practice, employees could access the same content from a variety of devices ranging from smartphones to desktops.
 
 The basic technology driving the responsiveness is the Foundation grid system, created by Zurb. Like a table in concept, you set up a series of rows and columns and then enter your content. As you resize your browser, the content is resized to fit the new dimensions. For example, it proportionally reduces the size of a graphic.
