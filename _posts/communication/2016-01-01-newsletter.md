@@ -136,6 +136,7 @@ If you have any questions about our Change Management efforts, feel free to cont
 <hr>
 <p style="margin:0;"><a name="Article_03"><small>Key Milestones | Upcoming Activities</small></a></p>
 <p style="margin:0;"><img src="{{ site.urlimg }}03com_nl_03_title.jpg" alt=""></p>
+<p style="margin:0;"><a href="https://unsplash.com/@jontyson"><small>Photo by @jontyson - Unsplash.</small></a></p>
 <div class="row">
   <div class="small-12 medium-6 columns t30">
     <p style="margin:0;"><h5>Key Milestones: Last&nbsp;Month</h5></p>
