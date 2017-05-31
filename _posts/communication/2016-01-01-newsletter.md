@@ -91,7 +91,7 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <!--Lead: The Home Stretch-->
 <hr>
 <p style="margin:0;"><a name="Lead_Article"><small>The Home Stretch</small></a></p>
-<p><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
+<p style="margin:0;"><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
 <p style="margin:0;"><a href="https://unsplash.com/@andybeales"><small>Photo by @andybeales - Unsplash.</small></a></p>
 
 #### The Home Stretch
