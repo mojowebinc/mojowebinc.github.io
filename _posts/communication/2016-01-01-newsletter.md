@@ -94,7 +94,7 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <p style="margin:0;"><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
 <p style="margin:0;"><a href="https://unsplash.com/@andybeales"><small>Photo by @andybeales - Unsplash.</small></a></p>
 
-#### The Home Stretchx
+#### The Home Stretch
 <p><i>by Project Manager</i></p>
 As we enter the “Home Stretch” for <b>ProjectLogic</b>, I would like to begin by personally thanking everyone for the progress we’ve made to date.
 
@@ -113,7 +113,8 @@ Thank you in advance for your efforts and support. We look forward to working wi
 <!--Article 02: Change Management-->
 <hr>
 <p style="margin:0;"><a name="Article_02"><small>Change Management</small></a></p>
-<p><img src="{{ site.urlimg }}03com_nl_02_title.jpg" alt=""></p>
+<p style="margin:0;"><img src="{{ site.urlimg }}03com_nl_02_title.jpg" alt=""></p>
+<p style="margin:0;"><a href="https://unsplash.com/@tidesinourveins"><small>Graphic by Jim Farrell | Photo by @tidesinourveins - Unsplash.</small></a></p>
 #### Change Management
 <p><i>by Change Manager</i></p>
 When you think about the <b>NewSystem</b> implementation, it’s natural to think about computers and software. However, a perfectly functioning system means little if employees don’t know how to operate it or how it affects their day-to-day work. The purpose of Change Management is to handle these “people related” issues to ensure a smooth transition to from <b>Legacy</b> to <b>NewSystem</b>.
@@ -193,7 +194,8 @@ When our testing is complete, we’ll take stock of our results and make sure we
 <!--Frequently Asked Questions-->
 <hr>
 <p style="margin:0;"><a name="Article_05"><small>Frequently Asked Questions</small></a></p>
-<p><img src="{{ site.urlimg }}03com_nl_05_title.jpg" alt=""></p>
+<p style="margin:0;"><img src="{{ site.urlimg }}03com_nl_05_title.jpg" alt=""></p>
+<p style="margin:0;"><a href="https://unsplash.com/@tidesinourveins"><small>Graphic by Jim Farrell | Photo by @tidesinourveins - Unsplash.</small></a></p>
 #### Frequently Asked Questions
 <p></p>
 <p style="margin:0;"><b>Q: Why did CompanyONE choose NewSystem?</b></p>
