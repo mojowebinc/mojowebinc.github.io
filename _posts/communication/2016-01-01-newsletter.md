@@ -92,8 +92,7 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <hr>
 <p style="margin:0;"><a name="Lead_Article"><small>The Home Stretch</small></a></p>
 <p><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
-caption: Photo by @charles_forerunner - Unsplash.
-caption_url: https://unsplash.com/@charles_forerunner
+<p style="margin:0;"><a href="https://unsplash.com/@andybeales"><small>Photo by @andybeales - Unsplash.</small></a></p>
 
 #### The Home Stretch
 <p><i>by Project Manager</i></p>
