@@ -94,7 +94,7 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <p style="margin:0;"><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
 <p style="margin:0;"><a href="https://unsplash.com/@andybeales"><small>Photo by @andybeales - Unsplash.</small></a></p>
 
-#### The Home Stretch
+#### The Home Stretchx
 <p><i>by Project Manager</i></p>
 As we enter the “Home Stretch” for <b>ProjectLogic</b>, I would like to begin by personally thanking everyone for the progress we’ve made to date.
 
