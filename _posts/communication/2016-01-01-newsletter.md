@@ -24,6 +24,8 @@ image:
     caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
+<p style="margin:0;"><img src="{{ site.urlimg }}03com_enl_01_title.jpg" alt=""></p>
+<p><a href="https://unsplash.com/@jordanfmcqueen"><small>Graphic by Jim Farrell | Photo by @jordanfmcqueen - Unsplash.</small></a></p>
 ### How it Works
 The sample eNewsletter on this page was designed and developed to flexibly adapt to diverse types of devices. In other words, this is a responsive newsletter. In practice, employees could access the same content from a variety of devices ranging from smartphones to desktops.
 
