@@ -9,19 +9,19 @@ categories:
 tags:
     - Communication Deliverable
     - Communication Deliverable Newsletter
-header:
-    title: The COM Blog
-    background-color: "#EFC94C;"
-    image_fullwidth: 03com2000.jpg
-    caption: Photo by Startup Stock Photos.
-    caption_url: http://startupstockphotos.com/
+#header:
+#    title: The COM Blog
+#    background-color: "#EFC94C;"
+#    image_fullwidth: 03com2000.jpg
+#    caption: Photo by Startup Stock Photos.
+#    caption_url: http://startupstockphotos.com/
 
-image:
+#image:
     #title: b03co_1660_title.jpg
-    thumb: b03co_1660_thumb.jpg
-    homepage: b03co_1660_home.jpg
-    caption: Photo by @lumvox - Unsplash.
-    caption_url: https://unsplash.com/@lumvox
+#    thumb: b03co_1660_thumb.jpg
+#    homepage: b03co_1660_home.jpg
+#    caption: Photo by @lumvox - Unsplash.
+#    caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
 <p style="margin:0;"><img src="{{ site.urlimg }}03com_enl_01_title.jpg" alt=""></p>
@@ -119,13 +119,13 @@ Thank you in advance for your efforts and support. We look forward to working wi
 <p style="margin:0;"><a href="https://unsplash.com/@tidesinourveins"><small>Graphic by Jim Farrell | Photo by @tidesinourveins - Unsplash.</small></a></p>
 #### Change Management
 <p><i>by Change Manager</i></p>
-When you think about the <b>NewSystem</b> implementation, it’s natural to think about computers and software. However, a perfectly functioning system means little if employees don’t know how to operate it or how it affects their day-to-day work. The purpose of Change Management is to handle these “people related” issues to ensure a smooth transition to from <b>Legacy</b> to <b>NewSystem</b>.
+When you think about the <b>NewSystem</b> implementation, it’s natural to think about computers and software. However, a perfectly functioning system means little if employees don’t know how to operate it or how it affects their day-to-day work. The purpose of Change Management is to handle these “people related” issues to ensure a smooth transition from <b>Legacy</b> to <b>NewSystem</b>.
 
 Managers and key users are already taking part in <b>ProjectLogic</b> Organization Workshops to assess and document the changes to business rules, work processes and role requirements.  The impacts identified in these workshops will drive our Change Management efforts by providing content for communication, training and updated HR documentation.
 
 To ensure that all employees understand the specific changes found in the workshops, we will provide regular communications such as newsletters, posters and brief discussions at your team meetings. In addition, we will be holding department sessions where your managers and key users will walk you through the new business process and answer any questions you have.
 
-Finally, we will design and deliver an End User Training program so that you are ready to use NewSystem at Go Live. The training will be instructor led, tailored to your business area and provide you with “hands on” experience working with <b>NewSystem</b>.
+Finally, we will design and deliver an End User Training program so that you are ready to use <b>NewSystem</b> at Go Live. The training will be instructor led, tailored to your business area and provide you with “hands on” experience working with <b>NewSystem</b>.
 
 Human Resources will be contacting you regarding the workshop schedule, and coordinate with your managers to schedule your training as we get closer to Go Live.
 
