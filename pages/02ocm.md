@@ -66,7 +66,7 @@ Opportunities for feedback
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
-##### More Communication Posts
+##### More Change Management Posts
 {: .t60 }
 
 {% include list-posts tag='Change Management' %}
