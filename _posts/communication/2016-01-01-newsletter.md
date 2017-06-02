@@ -9,19 +9,19 @@ categories:
 tags:
     - Communication Deliverable
     - Communication Deliverable Newsletter
-#header:
-#    title: The COM Blog
-#    background-color: "#EFC94C;"
-#    image_fullwidth: 03com2000.jpg
-#    caption: Photo by Startup Stock Photos.
-#    caption_url: http://startupstockphotos.com/
+header:
+    title: The COM Blog
+    background-color: "#EFC94C;"
+    image_fullwidth: 03com2000.jpg
+    caption: Photo by Startup Stock Photos.
+    caption_url: http://startupstockphotos.com/
 
-#image:
+image:
     #title: b03co_1660_title.jpg
-#    thumb: b03co_1660_thumb.jpg
-#    homepage: b03co_1660_home.jpg
-#    caption: Photo by @lumvox - Unsplash.
-#    caption_url: https://unsplash.com/@lumvox
+    thumb: b03co_1660_thumb.jpg
+    homepage: b03co_1660_home.jpg
+    caption: Photo by @lumvox - Unsplash.
+    caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
 <p style="margin:0;"><img src="{{ site.urlimg }}03com_enl_01_title.jpg" alt=""></p>
