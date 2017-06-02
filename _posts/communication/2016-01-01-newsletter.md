@@ -98,17 +98,18 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 
 #### The Home Stretch
 <p><i>by Project Manager</i></p>
-As we enter the “Home Stretch” for <b>ProjectLogic</b>, I would like to begin by personally thanking everyone for the progress we’ve made to date.
+As we enter the “Home Stretch” for <b>ProjectLogic</b> I would like to begin by personally thanking everyone for the progress we’ve made to date.
 
-<b>ProjectLogic</b> is a vital strategic initiative that will ensure standardization and enable efficiencies across all business areas of <b>CompanyONE</b>. Completing the migration of our location to <b>NewSystem</b> will mark the critical milestone of having all plants in the U.S. operating under one system.
+<b>ProjectLogic</b> is a vital strategic business initiative that will enable efficiencies across all business areas of <b>CompanyONE</b>. Completing the migration of our location to <b>NewSystem</b> will mark the critical milestone of having all plants in the U.S. operating under one system.
 
-Over the coming weeks, we will prepare to ensure a smooth Go Live. We need your help in several areas, such as verifying the new system meets your business needs and that our technical procedures can accurately transfer your business data to the new system.
+Over the coming weeks, we will prepare to ensure a smooth Go Live. We need your help in several areas, such as verifying <b>NewSystem</b> meets your business needs and that our technical procedures can accurately transfer your current business data.
 
-In addition to business and system needs, it is essential that we address “people related” needs. Toward this end, we will be ramping up our communication and training efforts to ensure that all <b>CompanyONE</b> employees understand the changes to their day-to-day activities and have the necessary skills to successfully use the new system.  
+In addition to business and system needs, it is essential that we address “people related” needs. Toward this end, we will be ramping up our communication and training efforts to ensure that all <b>CompanyONE</b> employees understand the changes to their day-to-day activities and have the necessary skills to successfully use <b>NewSystem</b>.  
 
 Your participation in the Go Live preparations is essential to the success of <b>ProjectLogic</b>. Human Resources will contact your departments in the near future to let you know how and when you can participate.
 
 Thank you in advance for your efforts and support. We look forward to working with you.
+
 <p><a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a></p>
 <br>
 
@@ -191,6 +192,8 @@ While Change Management handles the people-side of things, we also need to make 
 Secondly, we must make sure the system allows us to successfully complete our day-to-day job activities, such as receiving materials, creating our products, shipping our products and successfully billing our customers. We’ll accomplish these objectives through our User Acceptance Testing.
 
 When our testing is complete, we’ll take stock of our results and make sure we are ready for the final drive to the end zone. Once we get the thumbs-up, we will begin our Cutover and End User Training activities.
+
+We’re going to get into the end zone. Basic blocking and tackling is how we’ll do it.
 <p><a href="#ProjectLogic_eNewsletter"><strong>Back&nbsp;^</strong></a></p>
 <br>
 
