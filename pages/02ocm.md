@@ -29,6 +29,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
       <p style="margin:0;">- Assess change readiness and capability</p>
     </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
+
 <hr>
 <div class="row">
   <div class="medium-3 columns t30">
@@ -41,6 +42,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <p style="margin:0;">- Project preparation and management</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
+<br>
 <hr>
 <div class="row">
   <div class="medium-3 columns t30">
@@ -65,7 +67,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <p style="margin:0;">- Opportunities for feedback</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
-<hr>
+<hr>  
 ##### More Change Management Posts
 {: .t60 }
 
