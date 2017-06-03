@@ -34,7 +34,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-8 columns t30">
-    <p style="margin:0;"><h4>Leadership (strategic)</h4></p>
+    <h4>Leadership (strategic)</h4>
     <p style="margin:0;">Provide Executive support (role awareness, support)</p>
     <p style="margin:0;">Communication – messaging and feedback</p>
     <p style="margin:0;">Project preparation and management</p>
