@@ -20,10 +20,10 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 <br>
 <hr>
 <div class="row">
-    <div class="medium-3 columns t30">
+    <div class="medium-4 columns t30">
       <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_an_title.jpg" alt=""></p>
     </div><!-- /.medium-4.columns -->
-    <div class="medium-9 columns t30">
+    <div class="medium-8 columns t30">
       <h4>Strategic Level: Analysis and Planning</h4>
       <p style="margin:0;">- Strategic Change Analysis</p>
       <p style="margin:0;">- Strategic Impact, Risk and Readiness Assessment</p>
@@ -33,10 +33,10 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 <br>
 <hr>
 <div class="row">
-  <div class="medium-3 columns t30">
+  <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
-  <div class="medium-9 columns t30">
+  <div class="medium-8 columns t30">
     <h4>Strategic Level: Sponsorship and Leadership</h4>
     <p style="margin:0;">- Sponsorship and Leadership Strategy</p>
     <p style="margin:0;">- Change Leader Selection and Development</p>
@@ -50,7 +50,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <img src="{{ site.urlimg }}02ocm_mg_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-9 columns t30">
-    <h4>Business Operational (structure process roles)</h4>
+    <h4>Operational Level: Transition Management</h4>
     <p style="margin:0;">- Manager Development and Support</p>
     <p style="margin:0;">- Business Impact Assessment</p>
     <p style="margin:0;">- Employee Transition Management</p>
