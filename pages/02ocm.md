@@ -19,7 +19,7 @@ permalink: "/02ocm/"
 Businesses must deal with change daily to capitalize on opportunities and avoid threats. There are times, however, when responding to a shifting business terrain demands more resources than are available. When your organization needs to enhance its change capability, Mojo-Web can help by providing focused and effective Organization Change Management (OCM) services.
 
 <br>
-<hr style="width:50%">
+<hr style="text-align:center; margin: 0 auto;" width="50%">
 <div class="row" >
     <div class="medium-4 large-3 medium-offset-1 large-offset-2 columns t30">
       <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_an_title.jpg" alt=""></p>
