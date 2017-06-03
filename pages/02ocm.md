@@ -63,7 +63,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
   <div class="medium-4 large-3 columns t30">
     <img src="{{ site.urlimg }}02ocm_em_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
-  <div class="medium-8 large 9 columns t30">
+  <div class="medium-8 large-9 columns t30">
     <h4>Communication and Development</h4>
     <p style="margin:0;">Communication Campaign Design</p>
     <p style="margin:0;">Employee Feedback Collection</p>
