@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title:  "Change Management"
 subheadline:  "Enhanced Change Capability when you Need It."
 teaser: When your need to manage change becomes unmanageable, Mojo-Web can help.
