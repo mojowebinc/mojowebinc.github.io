@@ -17,6 +17,7 @@ permalink: "/02ocm/"
 Businesses must deal with change daily to capitalize on opportunities and avoid threats. There are times, however, when responding to a shifting business terrain needs more resources than are available. When your organization needs to enhance its change capability, Mojo-Web can help by providing focused and effective Change Management services.
 
 ### Available services
+<br>
 <hr>
 <div class="row">
     <div class="medium-3 columns t30">
@@ -29,7 +30,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
       <p style="margin:0;">- Assess change readiness and capability</p>
     </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
-
+<br>
 <hr>
 <div class="row">
   <div class="medium-3 columns t30">
@@ -55,6 +56,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <p style="margin:0;">- Transition management</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
+<br>
 <hr>
 <div class="row">
   <div class="medium-3 columns t30">
@@ -67,7 +69,9 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <p style="margin:0;">- Opportunities for feedback</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
+<br>
 <hr>  
+<br>
 ##### More Change Management Posts
 {: .t60 }
 
