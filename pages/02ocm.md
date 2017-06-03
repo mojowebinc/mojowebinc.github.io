@@ -35,7 +35,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 <hr>
 <div class="row">
   <div class="medium-4 Large-3 columns t30">
-    <img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt="">
+    <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt=""></p>
   </div><!-- /.medium-4.columns -->
   <div class="medium-8 large-9 columns t30">
     <h4>Sponsorship and Leadership</h4>
