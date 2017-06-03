@@ -34,9 +34,9 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt="">
     </div><!-- /.medium-4.columns -->
       <p style="margin:0;"><h4>Leadership (strategic)</h4></p>
-      <p style="margin:0;">Provide Executive support (role awareness, support)</p>
-      <p style="margin:0;">Communication – messaging and feedback</p>
-      <p style="margin:0;">Project preparation and management</p>
+      <p style="margin:0;">- Provide Executive support (role awareness, support)</p>
+      <p style="margin:0;">- Communication – messaging and feedback</p>
+      <p style="margin:0;">- Project preparation and management</p>
     <div class="medium-6 columns t30">
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
@@ -46,9 +46,9 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <img src="{{ site.urlimg }}02ocm_mg_title.jpg" alt="">
     </div><!-- /.medium-4.columns -->
       <p style="margin:0;"><h4>Business Operational (structure process roles)</h4></p>
-      <p style="margin:0;">Manager support</p>
-      <p style="margin:0;">Business impact assessment</p>
-      <p style="margin:0;">Transition management</p>
+      <p style="margin:0;">- Manager support</p>
+      <p style="margin:0;">- Business impact assessment</p>
+      <p style="margin:0;">- Transition management</p>
     <div class="medium-6 columns t30">
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
@@ -58,9 +58,9 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <img src="{{ site.urlimg }}02ocm_em_title.jpg" alt="">
     </div><!-- /.medium-4.columns -->
       <p style="margin:0;"><h4>Individual Employee</h4></p>
-      <p style="margin:0;">Communication</p>
-      <p style="margin:0;">Training</p>
-      <p style="margin:0;">Opportunities for feedback</p>
+      <p style="margin:0;">- Communication</p>
+      <p style="margin:0;">- Training</p>
+      <p style="margin:0;">- Opportunities for feedback</p>
     <div class="medium-6 columns t30">
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
