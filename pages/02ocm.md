@@ -16,7 +16,6 @@ permalink: "/02ocm/"
 
 Businesses must deal with change daily to capitalize on opportunities and avoid threats. There are times, however, when responding to a shifting business terrain demands more resources than are available. When your organization needs to enhance its change capability, Mojo-Web can help by providing focused and effective Change Management services.
 
-### Available services
 <br>
 <hr>
 <div class="row">
@@ -24,10 +23,10 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
       <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_an_title.jpg" alt=""></p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-8 columns t30">
-      <h4>Strategic Level: Analysis and Planning</h4>
-      <p style="margin:0;">- Strategic Change Analysis</p>
-      <p style="margin:0;">- Strategic Impact, Risk and Readiness Assessment</p>
-      <p style="margin:0;">- Change Management Risk Mitigation Plan</p>
+      <h4>Analysis and Planning</h4>
+      <p style="margin:0;">Strategic Change Analysis</p>
+      <p style="margin:0;">Strategic Impact, Risk and Readiness Assessment</p>
+      <p style="margin:0;">Change Management Risk Mitigation Plan</p>
     </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
@@ -37,10 +36,10 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-8 columns t30">
-    <h4>Strategic Level: Sponsorship and Leadership</h4>
-    <p style="margin:0;">- Sponsorship and Leadership Strategy</p>
-    <p style="margin:0;">- Change Leader Selection and Development</p>
-    <p style="margin:0;">- Action Planning, Implementation, Monitoring and Support</p>
+    <h4>Sponsorship and Leadership</h4>
+    <p style="margin:0;">Sponsorship and Leadership Strategy</p>
+    <p style="margin:0;">Change Leader Selection and Development</p>
+    <p style="margin:0;">Action Planning, Implementation, Monitoring and Support</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
@@ -50,10 +49,10 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <img src="{{ site.urlimg }}02ocm_mg_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-9 columns t30">
-    <h4>Operational Level: Transition Management</h4>
-    <p style="margin:0;">- Manager Development and Support</p>
-    <p style="margin:0;">- Business Impact Assessment</p>
-    <p style="margin:0;">- Employee Transition Management</p>
+    <h4>Transition Management</h4>
+    <p style="margin:0;">Manager Development and Support</p>
+    <p style="margin:0;">Business Impact Assessment</p>
+    <p style="margin:0;">Employee Transition Management</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
@@ -63,10 +62,10 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <img src="{{ site.urlimg }}02ocm_em_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-9 columns t30">
-    <h4>Employee Level: Communication and Development</h4>
-    <p style="margin:0;">- Communication Campaign Creation and Management</p>
-    <p style="margin:0;">- Employee Feedback Collection and Reporting</p>
-    <p style="margin:0;">- Training Program Design</p>
+    <h4>Communication and Development</h4>
+    <p style="margin:0;">Communication Campaign Creation and Management</p>
+    <p style="margin:0;">Employee Feedback Collection and Reporting</p>
+    <p style="margin:0;">Training Program Design</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
