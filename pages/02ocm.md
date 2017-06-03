@@ -26,7 +26,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
       <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_an_title.jpg" alt=""></p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-6 large-5 columns t30 end">
-      <p><h4>Analysis and Planning</h4><br />Strategic Change Analysis<br />Strategic Impact and Risk Assessment<br />OCM Risk Mitigation Plan</p>
+      <p><h4>Analysis and Planning</h4><br />Strategic Change Analysis<br />Strategic Impact and Risk Assessment<br />OCM Risk Mitigation Planx</p>
     </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
