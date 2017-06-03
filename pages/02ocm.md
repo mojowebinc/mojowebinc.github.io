@@ -23,9 +23,9 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     </div><!-- /.medium-4.columns -->
     <div class="medium-9 columns t30">
       <p style="margin:0;"><h4>Analysis and Planning</h4></p>
-      <p style="margin:0;">Clarify Scope of Change</p>
-      <p style="margin:0;">Conduct initial risk and impact assessments</p>
-      <p style="margin:0;">Assess change readiness and capability</p>
+      <p style="margin:0;">  - Clarify Scope of Change</p>
+      <p style="margin:0;">  - Conduct initial risk and impact assessments</p>
+      <p style="margin:0;">  - Assess change readiness and capability</p>
     </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 
