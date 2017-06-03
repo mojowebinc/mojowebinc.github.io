@@ -21,7 +21,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 <br>
 <hr style="text-align:center; margin: 0 auto;" width="50%">
 <div class="row" >
-    <div class="medium-4 large-3 medium-offset-1 large-offset-2 columns t30">
+    <div class="medium-4 large-3 medium-offset-1 large-offset-3 columns t30">
       <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_an_title.jpg" alt=""></p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-6 large-5 columns t30 end">
