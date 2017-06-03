@@ -30,10 +30,10 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 </div><!-- /.row -->
 
 <div class="row">
-  <div class="medium-4 columns t30">
+  <div class="medium-3 columns t30">
     <img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
-  <div class="medium-8 columns t30">
+  <div class="medium-9 columns t30">
     <h4>Leadership (strategicx)</h4>
     <p style="margin:0;">Provide Executive support (role awareness, support)</p>
     <p style="margin:0;">Communication – messaging and feedback</p>
@@ -42,10 +42,10 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 </div><!-- /.row -->
 
 <div class="row">
-  <div class="medium-4 columns t30">
+  <div class="medium-3 columns t30">
     <img src="{{ site.urlimg }}02ocm_mg_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
-  <div class="medium-8 columns t30">
+  <div class="medium-9 columns t30">
     <p style="margin:0;"><h4>Business Operational (structure process roles)</h4></p>
     <p style="margin:0;">Manager support</p>
     <p style="margin:0;">Business impact assessment</p>
@@ -54,10 +54,10 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 </div><!-- /.row -->
 
 <div class="row">
-  <div class="medium-4 columns t30">
+  <div class="medium-3 columns t30">
     <img src="{{ site.urlimg }}02ocm_em_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
-  <div class="medium-8 columns t30">
+  <div class="medium-9 columns t30">
     <p style="margin:0;"><h4>Individual Employee</h4></p>
     <p style="margin:0;">Communication</p>
     <p style="margin:0;">Training</p>
