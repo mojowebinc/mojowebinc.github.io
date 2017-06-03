@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title:  "Change Management"
 subheadline:  "Enhanced Change Capability when you Need It."
 teaser: When your need to manage change becomes unmanageable, Mojo-Web can help.
@@ -27,7 +27,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <div class="medium-8 columns t30">
       <h4>Analysis and Planning</h4>
       <p style="margin:0;">Strategic Change Analysis</p>
-      <p style="margin:0;">Strategic Impact, Risk and Readiness Assessment</p>
+      <p style="margin:0;">Strategic Impact and Risk Assessment</p>
       <p style="margin:0;">Change Management Risk Mitigation Plan</p>
     </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
@@ -41,7 +41,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <h4>Sponsorship and Leadership</h4>
     <p style="margin:0;">Sponsorship and Leadership Strategy</p>
     <p style="margin:0;">Change Leader Selection and Development</p>
-    <p style="margin:0;">Action Planning, Implementation, Monitoring and Support</p>
+    <p style="margin:0;">Action Planning and Support</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
@@ -65,7 +65,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
   </div><!-- /.medium-4.columns -->
   <div class="medium-9 columns t30">
     <h4>Communication and Development</h4>
-    <p style="margin:0;">Communication Campaign Design and Management</p>
+    <p style="margin:0;">Communication Campaign Design</p>
     <p style="margin:0;">Employee Feedback Collection and Reporting</p>
     <p style="margin:0;">Employee Training Program Design</p>
   </div><!-- /.medium-8.columns -->
