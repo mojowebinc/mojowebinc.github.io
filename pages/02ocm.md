@@ -23,9 +23,9 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     </div><!-- /.medium-4.columns -->
     <div class="medium-8 columns t30">
       <p style="margin:0;"><h4>Analysis and Planning</h4></p>
-      <p style="margin:0;">- Clarify Scope of Change</p>
-      <p style="margin:0;">- Conduct initial risk and impact assessments</p>
-      <p style="margin:0;">- Assess change readiness and capability</p>
+      <p style="margin:0;">Clarify Scope of Change</p>
+      <p style="margin:0;">Conduct initial risk and impact assessments</p>
+      <p style="margin:0;">Assess change readiness and capability</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
@@ -33,10 +33,11 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt="">
     </div><!-- /.medium-4.columns -->
+    <div class="medium-8 columns t30">
       <p style="margin:0;"><h4>Leadership (strategic)</h4></p>
-      <p style="margin:0;">- Provide Executive support (role awareness, support)</p>
-      <p style="margin:0;">- Communication – messaging and feedback</p>
-      <p style="margin:0;">- Project preparation and management</p>
+      <p style="margin:0;">Provide Executive support (role awareness, support)</p>
+      <p style="margin:0;">Communication – messaging and feedback</p>
+      <p style="margin:0;">Project preparation and management</p>
     <div class="medium-6 columns t30">
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
@@ -45,10 +46,11 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}02ocm_mg_title.jpg" alt="">
     </div><!-- /.medium-4.columns -->
+    <div class="medium-8 columns t30">
       <p style="margin:0;"><h4>Business Operational (structure process roles)</h4></p>
-      <p style="margin:0;">- Manager support</p>
-      <p style="margin:0;">- Business impact assessment</p>
-      <p style="margin:0;">- Transition management</p>
+      <p style="margin:0;">Manager support</p>
+      <p style="margin:0;">Business impact assessment</p>
+      <p style="margin:0;">Transition management</p>
     <div class="medium-6 columns t30">
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
@@ -57,6 +59,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}02ocm_em_title.jpg" alt="">
     </div><!-- /.medium-4.columns -->
+    <div class="medium-8 columns t30">
       <p style="margin:0;"><h4>Individual Employee</h4></p>
       <p style="margin:0;">- Communication</p>
       <p style="margin:0;">- Training</p>
