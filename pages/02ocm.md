@@ -16,7 +16,7 @@ permalink: "/02ocm/"
 <!--&nbsp;-->
 
 
-Businesses must deal with change daily to capitalize on opportunities and avoid threats. There are times, however, when responding to a shifting business terrain demands more resources than are available. When your organization needs to enhance its change capability, Mojo-Web can help by providing focused and effective Change Management services.
+Businesses must deal with change daily to capitalize on opportunities and avoid threats. There are times, however, when responding to a shifting business terrain demands more resources than are available. When your organization needs to enhance its change capability, Mojo-Web can help by providing focused and effective Organization Change Management (OCM) services.
 
 <br>
 <hr>
@@ -28,7 +28,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
       <h4>Analysis and Planning</h4>
       <p style="margin:0;">Strategic Change Analysis</p>
       <p style="margin:0;">Strategic Impact and Risk Assessment</p>
-      <p style="margin:0;">Change Management Risk Mitigation Plan</p>
+      <p style="margin:0;">OCM Risk Mitigation Plan</p>
     </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
@@ -40,7 +40,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
   <div class="medium-8 large-9 columns t30">
     <h4>Sponsorship and Leadership</h4>
     <p style="margin:0;">Sponsorship and Leadership Strategy</p>
-    <p style="margin:0;">Change Leader Selection and Development</p>
+    <p style="margin:0;">Leader Selection and Development</p>
     <p style="margin:0;">Action Planning and Support</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
@@ -66,7 +66,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
   <div class="medium-8 columns t30">
     <h4>Communication and Development</h4>
     <p style="margin:0;">Communication Campaign Design</p>
-    <p style="margin:0;">Employee Feedback Collection and Reporting</p>
+    <p style="margin:0;">Employee Feedback Collection</p>
     <p style="margin:0;">Employee Training Program Design</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
