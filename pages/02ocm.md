@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title:  "Change Management"
 subheadline:  "Enhanced Change Capability when you Need It."
 teaser: When your need to manage change becomes unmanageable, Mojo-Web can help.
@@ -14,7 +14,7 @@ header:
 permalink: "/02ocm/"
 ---
 
-Businesses must deal with change daily to capitalize on opportunities and avoid threats. There are times, however, when responding to a shifting business terrain needs more resources than are available. When your organization needs to enhance its change capability, Mojo-Web can help by providing focused and effective Change Management services.
+Businesses must deal with change daily to capitalize on opportunities and avoid threats. There are times, however, when responding to a shifting business terrain demands more resources than are available. When your organization needs to enhance its change capability, Mojo-Web can help by providing focused and effective Change Management services.
 
 ### Available services
 <br>
@@ -24,10 +24,10 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
       <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_an_title.jpg" alt=""></p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-9 columns t30">
-      <h4>Analysis and Planning</h4>
-      <p style="margin:0;">- Clarify Scope of Change</p>
-      <p style="margin:0;">- Conduct initial risk and impact assessments</p>
-      <p style="margin:0;">- Assess change readiness and capability</p>
+      <h4>Strategic Level: Analysis and Planning</h4>
+      <p style="margin:0;">- Strategic Change Analysis</p>
+      <p style="margin:0;">- Strategic Impact, Risk and Readiness Assessment</p>
+      <p style="margin:0;">- Change Management Risk Mitigation Plan</p>
     </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
@@ -37,10 +37,10 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-9 columns t30">
-    <h4>Leadership (strategic)</h4>
-    <p style="margin:0;">- Provide Executive support (role awareness, support)</p>
-    <p style="margin:0;">- Communication – messaging and feedback</p>
-    <p style="margin:0;">- Project preparation and management</p>
+    <h4>Strategic Level: Sponsorship and Leadership</h4>
+    <p style="margin:0;">- Sponsorship and Leadership Strategy</p>
+    <p style="margin:0;">- Change Leader Selection and Development</p>
+    <p style="margin:0;">- Action Planning, Implementation, Monitoring and Support</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
@@ -51,9 +51,9 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
   </div><!-- /.medium-4.columns -->
   <div class="medium-9 columns t30">
     <h4>Business Operational (structure process roles)</h4>
-    <p style="margin:0;">- Manager support</p>
-    <p style="margin:0;">- Business impact assessment</p>
-    <p style="margin:0;">- Transition management</p>
+    <p style="margin:0;">- Manager Development and Support</p>
+    <p style="margin:0;">- Business Impact Assessment</p>
+    <p style="margin:0;">- Employee Transition Management</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
@@ -63,10 +63,10 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
     <img src="{{ site.urlimg }}02ocm_em_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-9 columns t30">
-    <h4>Individual Employee</h4>
-    <p style="margin:0;">- Communication</p>
-    <p style="margin:0;">- Training</p>
-    <p style="margin:0;">- Opportunities for feedback</p>
+    <h4>Employee Level: Communication and Development</h4>
+    <p style="margin:0;">- Communication Campaign Creation and Management</p>
+    <p style="margin:0;">- Employee Feedback Collection and Reporting</p>
+    <p style="margin:0;">- Training Program Design</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
