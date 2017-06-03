@@ -72,7 +72,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 <br>
 <hr>  
 <br>
-##### More Change Management Posts
+### Additional Change Management Information
 {: .t60 }
 
 {% include list-posts tag='Change Management' %}
