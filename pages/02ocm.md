@@ -65,9 +65,9 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
   </div><!-- /.medium-4.columns -->
   <div class="medium-9 columns t30">
     <h4>Communication and Development</h4>
-    <p style="margin:0;">Communication Campaign Creation and Management</p>
+    <p style="margin:0;">Communication Campaign Design and Management</p>
     <p style="margin:0;">Employee Feedback Collection and Reporting</p>
-    <p style="margin:0;">Training Program Design</p>
+    <p style="margin:0;">Employee Training Program Design</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
