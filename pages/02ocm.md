@@ -31,8 +31,6 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
       <p style="margin:0;">OCM Risk Mitigation Plan</p>
     </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
-<br>
-<hr>
 <div class="row">
   <div class="medium-4 large-3 columns t30">
     <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt=""></p>
