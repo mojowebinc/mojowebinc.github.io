@@ -34,10 +34,10 @@ xxx
 <br>
 <hr>
 <div class="row">
-  <div class="medium-4 large-3 columns t30">
+  <div class="medium-4 large-4 columns t30">
     <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt=""></p>
   </div><!-- /.medium-4.columns -->
-  <div class="medium-8 large-9 columns t30">
+  <div class="medium-8 large-8 columns t30">
     <h4>xxx</h4>
     <p style="margin:0;">xxx</p>
     <p style="margin:0;">xxx</p>
@@ -47,10 +47,10 @@ xxx
 <br>
 <hr>
 <div class="row">
-  <div class="medium-4 large-3 columns t30">
+  <div class="medium-4 large-4 columns t30">
     <img src="{{ site.urlimg }}02ocm_mg_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
-  <div class="medium-8 large-9 columns t30">
+  <div class="medium-8 large-8 columns t30">
     <h4>xxx</h4>
     <p style="margin:0;">xxx</p>
     <p style="margin:0;">xxx</p>
@@ -60,10 +60,10 @@ xxx
 <br>
 <hr>
 <div class="row">
-  <div class="medium-4 large-3 columns t30">
+  <div class="medium-4 large-4 columns t30">
     <img src="{{ site.urlimg }}02ocm_em_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
-  <div class="medium-8 large-9 columns t30">
+  <div class="medium-8 large-8 columns t30">
     <h4>xxx</h4>
     <p style="margin:0;">xxxx</p>
     <p style="margin:0;">xxx</p>
