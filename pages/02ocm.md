@@ -20,7 +20,26 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 
 <br>
 <hr>
+<div class="row" >
+  <div class="medium-4 large-4 columns t30">
+    <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_an_title.jpg" alt=""></p>
+    <h4>Analysis and Planning</h4>
+    <p style="margin:0;">Strategic Change Analysis</p>
+    <p style="margin:0;">Strategic Impact and Risk Assessment</p>
+    <p style="margin:0;">OCM Risk Mitigation Plan</p>
+  </div><!-- /.medium-8.columns -->
+  <div class="medium-4 large-4 columns t30" end>
+    <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt=""></p>
+    <h4>Sponsorship and Leadership</h4>
+    <p style="margin:0;">Sponsorship and Leadership Strategy</p>
+    <p style="margin:0;">Leader Selection and Development</p>
+    <p style="margin:0;">Action Planning and Support</p>
+  </div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 <br>
+
+<br>
+<hr>
 <div class="row" >
   <div class="medium-4 large-3 columns t30">
       <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_an_title.jpg" alt=""></p>
