@@ -27,9 +27,9 @@ xxx
     </div><!-- /.medium-4.columns -->
   <div class="medium-8 large-9 columns t30">
       <h4>Analysis and Planning</h4>
-      <p style="margin:0;">xxx</p>
-      <p style="margin:0;">xxx</p>
-      <p style="margin:0;">xxx</p>
+      <p style="margin:0;">Stakeholder Mapping and Analysis</p>
+      <p style="margin:0;">Communication Channel Inventory</p>
+      <p style="margin:0;">Communication Approach and Plan</p>
     </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
@@ -40,9 +40,9 @@ xxx
   </div><!-- /.medium-4.columns -->
   <div class="medium-8 large-9 columns t30">
     <h4>Core Messaging</h4>
-    <p style="margin:0;">xxx</p>
-    <p style="margin:0;">xxx</p>
-    <p style="margin:0;">xxx</p>
+    <p style="margin:0;">Project Vision, Mission and Values</p>
+    <p style="margin:0;">Project Brand and Key Messages</p>
+    <p style="margin:0;">Communication Standards</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
@@ -53,9 +53,9 @@ xxx
   </div><!-- /.medium-4.columns -->
   <div class="medium-8 large-9 columns t30">
     <h4>Strategic Communications</h4>
-    <p style="margin:0;">xxx</p>
-    <p style="margin:0;">xxx</p>
-    <p style="margin:0;">xxx</p>
+    <p style="margin:0;">Business Meetings and Town Halls</p>
+    <p style="margin:0;">Talking Points and Countdown Emails</p>
+    <p style="margin:0;">Newsletter, Articles and Posters</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
@@ -66,9 +66,9 @@ xxx
   </div><!-- /.medium-4.columns -->
   <div class="medium-8 large-9 columns t30">
     <h4>Employee Feedback</h4>
-    <p style="margin:0;">xxxx</p>
-    <p style="margin:0;">xxx</p>
-    <p style="margin:0;">xxx</p>
+    <p style="margin:0;">Focus Groups and Brown Bag Sessions</p>
+    <p style="margin:0;">Online Attitude and Flash Surveys</p>
+    <p style="margin:0;">Go Live Issue Escalation</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 <br>
