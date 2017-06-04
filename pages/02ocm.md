@@ -1,11 +1,14 @@
 ---
-layout: page-fullwidth
+layout: page
 title:  "Change Management"
-subheadline:  "Enhanced Change Capability when you Need It."
+subheadline:  "Enhanced Change Capability when you Need It"
 teaser: When your need to manage change becomes unmanageable, Mojo-Web can help.
 breadcrumb: true
 categories:
     - design
+tags:
+    - Change Management Overview
+    - Change Management Services
 header:
    image_fullwidth: 02ocm2000.jpg
    caption: Photo by George Pachantouris.
@@ -13,8 +16,6 @@ header:
 
 permalink: "/02ocm/"
 ---
-<!--&nbsp;-->
-
 
 Businesses must deal with change daily to capitalize on opportunities and avoid threats. There are times, however, when responding to a shifting business terrain demands more resources than are available. When your organization needs to enhance its change capability, Mojo-Web can help by providing focused and effective Organization Change Management (OCM) services.
 

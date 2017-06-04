@@ -1,11 +1,14 @@
 ---
-layout: page-fullwidth
+layout: page
 title:  "Instructional Design"
 subheadline:  "'What I hear, I forget. What I see, I remember. What I do, I understand.' Xunzi"
 teaser: "The full-width page format gives you all the space you need to show your content using the grid."
 breadcrumb: true
 categories:
     - design
+tags:
+    - Instructional Design Overview
+    - Instructional Design Services
 header:
    image_fullwidth: 04insd2000.jpg
    caption: Photo by Antoine @antoinebeauvillain - Unsplash.
@@ -13,38 +16,64 @@ header:
 
 permalink: "/04insd/"
 ---
+xxx
 
-*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
-<!--more-->
-
-<div class="row">
-    <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+<br>
+<hr>
+<div class="row" >
+  <div class="medium-4 large-3 columns t30">
+      <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_an_title.jpg" alt=""></p>
     </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-</div><!-- /.row -->
-
-
-<div class="row">
-    <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-7.jpg" alt="">
+  <div class="medium-8 large-9 columns t30">
+      <h4>Analysis and Planning</h4>
+      <p style="margin:0;">xxx</p>
+      <p style="margin:0;">xxx</p>
+      <p style="margin:0;">xxx</p>
     </div><!-- /.medium-8.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
 </div><!-- /.row -->
+<br>
+<hr>
+<div class="row">
+  <div class="medium-4 large-3 columns t30">
+    <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt=""></p>
+  </div><!-- /.medium-4.columns -->
+  <div class="medium-8 large-9 columns t30">
+    <h4>xxx</h4>
+    <p style="margin:0;">xxx</p>
+    <p style="margin:0;">xxx</p>
+    <p style="margin:0;">xxx</p>
+  </div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
+<br>
+<hr>
+<div class="row">
+  <div class="medium-4 large-3 columns t30">
+    <img src="{{ site.urlimg }}02ocm_mg_title.jpg" alt="">
+  </div><!-- /.medium-4.columns -->
+  <div class="medium-8 large-9 columns t30">
+    <h4>xxx</h4>
+    <p style="margin:0;">xxx</p>
+    <p style="margin:0;">xxx</p>
+    <p style="margin:0;">xxx</p>
+  </div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
+<br>
+<hr>
+<div class="row">
+  <div class="medium-4 large-3 columns t30">
+    <img src="{{ site.urlimg }}02ocm_em_title.jpg" alt="">
+  </div><!-- /.medium-4.columns -->
+  <div class="medium-8 large-9 columns t30">
+    <h4>xxx</h4>
+    <p style="margin:0;">xxxx</p>
+    <p style="margin:0;">xxx</p>
+    <p style="margin:0;">xxx</p>
+  </div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
+<br>
+<hr>  
+<br>
+### Additional Change Management Information
+{: .t60 }
 
-
-
- [1]: http://foundation.zurb.com/docs/components/grid.html
+{% include list-posts tag='Instructional Design' %}
