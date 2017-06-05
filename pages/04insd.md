@@ -73,7 +73,7 @@ For companies to realize new operational capabilities, their employees must lear
 <br>
 <hr>  
 <br>
-### Additional Change Management Information
+### Additional Instructional Design Information
 {: .t60 }
 
 {% include list-posts tag='Instructional Design' %}
