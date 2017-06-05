@@ -22,10 +22,10 @@ Organizations require a constant flow of information for decision making, coordi
 <br>
 <hr>
 <div class="row" >
-  <div class="medium-4 large-4 columns t30">
+  <div class="medium-4 medium-offset-1 columns t30">
       <p style="margin:0;"><img src="{{ site.urlimg }}03com_ap_title.jpg" alt=""></p>
     </div><!-- /.medium-4.columns -->
-  <div class="medium-8 large-8 columns t30">
+  <div class="medium-7 columns t30">
       <h4>Analysis and Planning</h4>
       <p style="margin:0;">Stakeholder Mapping and Analysis</p>
       <p style="margin:0;">Communication Channel Inventory</p>
@@ -35,10 +35,10 @@ Organizations require a constant flow of information for decision making, coordi
 <br>
 <hr>
 <div class="row">
-  <div class="medium-5 large-5 columns t30">
+  <div class="medium-4 medium-offset-1 columns t30">
     <p style="margin:0;"><img src="{{ site.urlimg }}03com_ms_title.jpg" alt=""></p>
   </div><!-- /.medium-4.columns -->
-  <div class="medium-7 large-7 columns t30">
+  <div class="medium-7 columns t30">
     <h4>Core Messaging</h4>
     <p style="margin:0;">Project Vision, Mission and Values</p>
     <p style="margin:0;">Project Brand and Key Messages</p>
@@ -61,10 +61,10 @@ Organizations require a constant flow of information for decision making, coordi
 <br>
 <hr>
 <div class="row">
-  <div class="medium-4 large-4 columns t30">
+  <div class="medium-4 medium-offset-1 columns t30">
     <img src="{{ site.urlimg }}03com_fb_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
-  <div class="medium-8 large-8 columns t30">
+  <div class="medium-7 columns t30">
     <h4>Employee Feedback</h4>
     <p style="margin:0;">Focus Groups and Brown Bag Sessions</p>
     <p style="margin:0;">Online Attitude and Flash Surveys</p>
