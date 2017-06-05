@@ -17,7 +17,7 @@ header:
 permalink: "/03com/"
 ---
 
-xxx
+Organizations require a constant flow of information for decision making, coordinated action and performance management. However, the accelerated demand for information during strategic change increases the risk of communication breakdown. Mojo-Web can provide an effective and efficient communication program that provides direction for employees and vital feedback for executives.
 
 <br>
 <hr>
