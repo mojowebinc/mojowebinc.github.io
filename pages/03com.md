@@ -23,7 +23,7 @@ Organizations require a constant flow of information for decision making, coordi
 <hr>
 <div class="row" >
   <div class="medium-4 large-4 columns t30">
-      <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_an_title.jpg" alt=""></p>
+      <p style="margin:0;"><img src="{{ site.urlimg }}03com_ap_title.jpg" alt=""></p>
     </div><!-- /.medium-4.columns -->
   <div class="medium-8 large-8 columns t30">
       <h4>Analysis and Planning</h4>
@@ -36,7 +36,7 @@ Organizations require a constant flow of information for decision making, coordi
 <hr>
 <div class="row">
   <div class="medium-4 large-4 columns t30">
-    <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt=""></p>
+    <p style="margin:0;"><img src="{{ site.urlimg }}03com_ms_title.jpg" alt=""></p>
   </div><!-- /.medium-4.columns -->
   <div class="medium-8 large-8 columns t30">
     <h4>Core Messaging</h4>
@@ -49,7 +49,7 @@ Organizations require a constant flow of information for decision making, coordi
 <hr>
 <div class="row">
   <div class="medium-4 large-4 columns t30">
-    <img src="{{ site.urlimg }}02ocm_mg_title.jpg" alt="">
+    <img src="{{ site.urlimg }}03com_sc_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-8 large-8 columns t30">
     <h4>Strategic Communications</h4>
@@ -62,7 +62,7 @@ Organizations require a constant flow of information for decision making, coordi
 <hr>
 <div class="row">
   <div class="medium-4 large-4 columns t30">
-    <img src="{{ site.urlimg }}02ocm_em_title.jpg" alt="">
+    <img src="{{ site.urlimg }}03com_fb_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-8 large-8 columns t30">
     <h4>Employee Feedback</h4>
