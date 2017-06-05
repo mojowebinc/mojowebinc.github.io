@@ -48,10 +48,10 @@ Organizations require a constant flow of information for decision making, coordi
 <br>
 <hr>
 <div class="row">
-  <div class="medium-4 medium-offset-1 large-4 large-offset-1 columns t30">
+  <div class="medium-4 medium-offset-1 columns t30">
     <img src="{{ site.urlimg }}03com_sc_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
-  <div class="medium-7 large-7 columns t30">
+  <div class="medium-7 columns t30">
     <h4>Strategic Communications</h4>
     <p style="margin:0;">Business Meetings and Town Halls</p>
     <p style="margin:0;">Talking Points and Countdown Emails</p>
