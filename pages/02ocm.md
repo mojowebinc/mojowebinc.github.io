@@ -23,9 +23,9 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 <hr>
 <div class="row" >
   <div class="medium-4 medium-offset-1 columns t30">
-      <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_an_title.jpg" alt=""></p>
+      <img src="{{ site.urlimg }}02ocm_an_title.jpg" alt="">
     </div><!-- /.medium-4.columns -->
-  <div class="medium-8 large-8 columns t30">
+  <div class="medium-7 columns t30">
       <h4>Analysis and Planning</h4>
       <p style="margin:0;">Strategic Change Analysis</p>
       <p style="margin:0;">Strategic Impact and Risk Assessment</p>
