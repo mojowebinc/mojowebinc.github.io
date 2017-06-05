@@ -63,7 +63,7 @@ For companies to realize new operational capabilities, their employees must lear
   <div class="medium-4 medium-offset-1 columns t30">
     <img src="{{ site.urlimg }}02ocm_em_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
-  <div class="medium-7 columns t30">>
+  <div class="medium-7 columns t30">
     <h4>Evaluation</h4>
     <p style="margin:0;">Usability Testing</p>
     <p style="margin:0;">Instructor and Course Evaluation</p>
