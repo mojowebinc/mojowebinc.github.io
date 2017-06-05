@@ -35,10 +35,10 @@ Organizations require a constant flow of information for decision making, coordi
 <br>
 <hr>
 <div class="row">
-  <div class="medium-4 large-4 columns t30">
+  <div class="medium-5 large-5 columns t30">
     <p style="margin:0;"><img src="{{ site.urlimg }}03com_ms_title.jpg" alt=""></p>
   </div><!-- /.medium-4.columns -->
-  <div class="medium-8 large-8 columns t30">
+  <div class="medium-7 large-7 columns t30">
     <h4>Core Messaging</h4>
     <p style="margin:0;">Project Vision, Mission and Values</p>
     <p style="margin:0;">Project Brand and Key Messages</p>
