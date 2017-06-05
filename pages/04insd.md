@@ -53,7 +53,7 @@ For companies to realize new operational capabilities, their employees must lear
   <div class="medium-7 columns t30">
     <h4>Implementation</h4>
     <p style="margin:0;">Train the Trainer Program</p>
-    <p style="margin:0;">Instructor Support Material</p>
+    <p style="margin:0;">Instructor Support Materials</p>
     <p style="margin:0;">Online Performance Support</p>
   </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
