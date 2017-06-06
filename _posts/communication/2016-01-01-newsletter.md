@@ -173,11 +173,11 @@ If you have any questions about our Change Management efforts, feel free to cont
   </div>
 
   <div class="small-12 medium-6 large-3 columns t30">
-    <img src="{{ site.urlimg }}99com_enl_05_roadmap_03.jpg" alt="">
+    <img src="{{ site.urlimg }}99com_enl01_05_roadmap_03.jpg" alt="">
   </div>
 
   <div class="small-12 medium-6 large-3 columns t30">
-    <img src="{{ site.urlimg }}99com_enl_05_roadmap_04.jpg" alt="">
+    <img src="{{ site.urlimg }}99com_enl01_05_roadmap_04.jpg" alt="">
   </div>
 </div>
 
@@ -200,7 +200,7 @@ We’re going to get into the end zone. Basic blocking and tackling is how we’
 <!--Frequently Asked Questions-->
 <hr>
 <p style="margin:0;"><a name="Article_05"><small>Frequently Asked Questions</small></a></p>
-<p style="margin:0;"><img src="{{ site.urlimg }}03com_enl01_06_title.jpg" alt=""></p>
+<p style="margin:0;"><img src="{{ site.urlimg }}99com_enl01_06_title.jpg" alt=""></p>
 <p style="margin:0;"><a href="https://unsplash.com/@tidesinourveins"><small>Graphic by Jim Farrell | Photo by @tidesinourveins - Unsplash.</small></a></p>
 #### Frequently Asked Questions
 <p></p>
