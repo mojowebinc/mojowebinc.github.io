@@ -23,7 +23,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 <hr>
 <div class="row" >
   <div class="medium-4 medium-offset-1 columns t30">
-      <img src="{{ site.urlimg }}02ocm_an_title.jpg" alt="">
+      <img src="{{ site.urlimg }}02ocm_sv01_an_title.jpg" alt="">
     </div><!-- /.medium-4.columns -->
   <div class="medium-7 columns t30">
       <h4>Analysis and Planning</h4>
@@ -36,7 +36,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 <hr>
 <div class="row">
   <div class="medium-4 medium-offset-1 columns t30">
-    <img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt="">
+    <img src="{{ site.urlimg }}02ocm_sv02_ld_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-7 columns t30">
     <h4>Sponsorship and Leadership</h4>
@@ -49,7 +49,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 <hr>
 <div class="row">
   <div class="medium-4 medium-offset-1 columns t30">
-    <img src="{{ site.urlimg }}02ocm_mg_title.jpg" alt="">
+    <img src="{{ site.urlimg }}02ocm_sv03_mg_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-7 columns t30">
     <h4>Transition Management</h4>
@@ -62,7 +62,7 @@ Businesses must deal with change daily to capitalize on opportunities and avoid 
 <hr>
 <div class="row">
   <div class="medium-4 medium-offset-1 columns t30">
-    <img src="{{ site.urlimg }}02ocm_em_title.jpg" alt="">
+    <img src="{{ site.urlimg }}02ocm_sv04_em_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-7 columns t30">
     <h4>Communication and Development</h4>

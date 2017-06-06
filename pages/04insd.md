@@ -22,7 +22,7 @@ For companies to realize new operational capabilities, their employees must lear
 <hr>
 <div class="row" >
   <div class="medium-4 medium-offset-1 columns t30">
-      <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_an_title.jpg" alt=""></p>
+      <p style="margin:0;"><img src="{{ site.urlimg }}04insd_sv01_as_title.jpg" alt=""></p>
     </div><!-- /.medium-4.columns -->
   <div class="medium-7 columns t30">
       <h4>Analysis and Planning</h4>
@@ -35,7 +35,7 @@ For companies to realize new operational capabilities, their employees must lear
 <hr>
 <div class="row">
   <div class="medium-4 medium-offset-1 columns t30">
-    <p style="margin:0;"><img src="{{ site.urlimg }}02ocm_ld_title.jpg" alt=""></p>
+    <p style="margin:0;"><img src="{{ site.urlimg }}04insd_sv02_dd_title.jpg" alt=""></p>
   </div><!-- /.medium-4.columns -->
   <div class="medium-7 columns t30">
     <h4>Design and Development</h4>
@@ -48,7 +48,7 @@ For companies to realize new operational capabilities, their employees must lear
 <hr>
 <div class="row">
   <div class="medium-4 medium-offset-1 columns t30">
-    <img src="{{ site.urlimg }}02ocm_mg_title.jpg" alt="">
+    <img src="{{ site.urlimg }}04insd_sv03_im_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-7 columns t30">
     <h4>Implementation</h4>
@@ -61,7 +61,7 @@ For companies to realize new operational capabilities, their employees must lear
 <hr>
 <div class="row">
   <div class="medium-4 medium-offset-1 columns t30">
-    <img src="{{ site.urlimg }}02ocm_em_title.jpg" alt="">
+    <img src="{{ site.urlimg }}04insd_sv04_ev_title.jpg" alt="">
   </div><!-- /.medium-4.columns -->
   <div class="medium-7 columns t30">
     <h4>Evaluation</h4>
