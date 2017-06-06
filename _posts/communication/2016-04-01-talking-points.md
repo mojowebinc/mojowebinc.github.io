@@ -25,7 +25,9 @@ image:
 ---
 <!--more-->
 
-<img data-interchange="[images\99com_mtp01_widget.jpg, small], [images\99com_mtp01_email.jpg, medium], [images\99com_mtp01_title.jpg, large]">
+<p class="show-for-small-only"><img src="{{ site.urlimg }}99com_mtp01_widget.jpg" alt=""></p>
+<p class="show-for-medium-only"><img src="{{ site.urlimg }}99com_mtp01_email.jpg" alt=""></p>
+<p class="show-for-large-only"><img src="{{ site.urlimg }}99com_mtp01_title.jpg" alt=""></p>
 <p><a href="https://pixabay.com/"><small>Graphic by Jim Farrell | Photo by Pixabay.com.</small></a></p>
 
 ### Manager Talking Points
