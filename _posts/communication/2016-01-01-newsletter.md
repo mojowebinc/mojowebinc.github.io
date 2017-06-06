@@ -24,7 +24,7 @@ image:
     caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
-<p style="margin:0;"><img src="{{ site.urlimg }}03com_enl_01_title.jpg" alt=""></p>
+<p style="margin:0;"><img src="{{ site.urlimg }}99com_enl_01_title.jpg" alt=""></p>
 <p><a href="https://unsplash.com/@jordanfmcqueen"><small>Graphic by Jim Farrell | Photo by @jordanfmcqueen - Unsplash.</small></a></p>
 ### How it Works
 The sample eNewsletter on this page was designed and developed to flexibly adapt to diverse types of devices. In other words, this is a responsive newsletter. In practice, employees could access the same content from a variety of devices ranging from smartphones to desktops.
@@ -43,7 +43,7 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <!--TOC: Lead Article-->
 <div class="row">
     <div class="medium-6 columns t30">
-      <img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt="">
+      <img src="{{ site.urlimg }}99com_nl_01_title.jpg" alt="">
       <h4>The Home Stretch</h4>
       <p><i>by Project Manager</i></p>
       <p style="margin:0;">We are entering the “Home Stretch” for <b>ProjectLogic</b>. When our local transition from <b>Legacy</b> is complete, all <b>CompanyONE</b> plants in the U.S. will be running on <b>NewSystem</b>.</p>
@@ -93,7 +93,7 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <!--Lead: The Home Stretch-->
 <hr>
 <p style="margin:0;"><a name="Lead_Article"><small>The Home Stretch</small></a></p>
-<p style="margin:0;"><img src="{{ site.urlimg }}03com_nl_01_title.jpg" alt=""></p>
+<p style="margin:0;"><img src="{{ site.urlimg }}99com_nl_01_title.jpg" alt=""></p>
 <p style="margin:0;"><a href="https://unsplash.com/@andybeales"><small>Photo by @andybeales - Unsplash.</small></a></p>
 
 #### The Home Stretch
@@ -116,7 +116,7 @@ Thank you in advance for your efforts and support. We look forward to working wi
 <!--Article 02: Change Management-->
 <hr>
 <p style="margin:0;"><a name="Article_02"><small>Change Management</small></a></p>
-<p style="margin:0;"><img src="{{ site.urlimg }}03com_nl_02_title.jpg" alt=""></p>
+<p style="margin:0;"><img src="{{ site.urlimg }}99com_nl_02_title.jpg" alt=""></p>
 <p style="margin:0;"><a href="https://unsplash.com/@tidesinourveins"><small>Graphic by Jim Farrell | Photo by @tidesinourveins - Unsplash.</small></a></p>
 #### Change Management
 <p><i>by Change Manager</i></p>
@@ -138,7 +138,7 @@ If you have any questions about our Change Management efforts, feel free to cont
 <!--Article 03-->
 <hr>
 <p style="margin:0;"><a name="Article_03"><small>Key Milestones | Upcoming Activities</small></a></p>
-<p style="margin:0;"><img src="{{ site.urlimg }}03com_nl_03_title.jpg" alt=""></p>
+<p style="margin:0;"><img src="{{ site.urlimg }}99com_nl_03_title.jpg" alt=""></p>
 <p style="margin:0;"><a href="https://unsplash.com/@jontyson"><small>Photo by @jontyson - Unsplash.</small></a></p>
 <div class="row">
   <div class="small-12 medium-6 columns t30">
@@ -165,19 +165,19 @@ If you have any questions about our Change Management efforts, feel free to cont
 
 <div class="row">
   <div class="small-12 medium-6 large-3 columns t30">
-    <img src="{{ site.urlimg }}03com_nl_01_roadmap_01.jpg" alt="">
+    <img src="{{ site.urlimg }}99com_nl_01_roadmap_01.jpg" alt="">
   </div>
 
   <div class="small-12 medium-6 large-3 columns t30">
-    <img src="{{ site.urlimg }}03com_nl_01_roadmap_02.jpg" alt="">
+    <img src="{{ site.urlimg }}99com_nl_01_roadmap_02.jpg" alt="">
   </div>
 
   <div class="small-12 medium-6 large-3 columns t30">
-    <img src="{{ site.urlimg }}03com_nl_01_roadmap_03.jpg" alt="">
+    <img src="{{ site.urlimg }}99com_nl_01_roadmap_03.jpg" alt="">
   </div>
 
   <div class="small-12 medium-6 large-3 columns t30">
-    <img src="{{ site.urlimg }}03com_nl_01_roadmap_04.jpg" alt="">
+    <img src="{{ site.urlimg }}99com_nl_01_roadmap_04.jpg" alt="">
   </div>
 </div>
 

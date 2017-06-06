@@ -17,6 +17,7 @@ It’s been my good fortune to have collaborated with some really talented teams
 
 Whether in education as an organizational psychologist or in practice as a consultant, I’ve maintained a passion for achieving a deeper understanding of social systems and strategic management. I have an equal passion for great music, independent film and the Cuyahoga Valley National Park.
 
+<hr>
 
 ### About this website
 This website was an exploration into developing responsive web pages using a “mobile first” design strategy. The pages, and work samples, were designed to display well on both mobile devices and desktops.
