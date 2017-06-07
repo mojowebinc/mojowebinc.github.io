@@ -46,8 +46,8 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <div class="row">
     <div class="medium-6 columns t30">
       <p><img src="{{ site.urlimg }}99com_enl01_02_title.jpg" alt=""></p>
-      <h4>The Home Stretchx</h4>
-      <p style="margin:0;"><i>by Project Manager</i></p>
+      <h4>The Home Stretch</h4>
+      <p><i>by Project Managerx</i></p>
       <p style="margin:0;">We are entering the “Home Stretch” for <b>ProjectLogic</b>. When our local transition from <b>Legacy</b> is complete, all <b>CompanyONE</b> plants in the U.S. will be running on <b>NewSystem</b>.</p>
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
     </div><!-- /.medium-6.columns -->
@@ -97,7 +97,7 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <p style="margin:0;"><a name="Lead_Article"><small>The Home Stretch</small></a></p>
 <p style="margin:0;"><img src="{{ site.urlimg }}99com_enl01_02_title.jpg" alt=""></p>
 <p style="margin:0;"><a href="https://unsplash.com/@andybeales"><small>Photo by @andybeales - Unsplash.</small></a></p>
-
+<p></p>
 #### The Home Stretch
 <p><i>by Project Manager</i></p>
 As we enter the “Home Stretch” for <b>ProjectLogic</b> I would like to begin by personally thanking everyone for the progress we’ve made to date.
