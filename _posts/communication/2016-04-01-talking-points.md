@@ -23,19 +23,19 @@ image:
     caption: Photo by @lumvox - Unsplash.
     caption_url: https://unsplash.com/@lumvox
 ---
-<!--more-->
 
 <div class="row" >
   <div class="medium-12 columns t30">
     <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_mtp01_widget.jpg" alt=""></strong>
-    <strong class="show-for-medium-only"><img src="{{ site.urlimg }}99com_mtp01_email.jpg" alt=""></strong>
-    <strong class="show-for-large-up"><img src="{{ site.urlimg }}99com_mtp01_title.jpg" alt=""></strong>
+    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_mtp01_title.jpg" alt=""></strong>
   </div>
 </div>
 <p><a href="https://pixabay.com/"><small>Graphic by Jim Farrell | Photo by Pixabay.com.</small></a></p>
 
 ### Manager Talking Points
 The Manager Talking Points email is a regular communication that goes to all managers following the monthly steering committee meetings. They provide an important vehicle for providing consistent messaging about key project activities and accomplishments of the Stratus project. In addition, the Manager Talking Points email provides important information that managers should review with employees during formal meetings and informal conversations.
+
+<img src="{{ site.urlimg }}99com_mtp01_email.jpg" alt="">
 
 #### Town Hall Survey Results
 ##### Top Question: When is Go Live?
