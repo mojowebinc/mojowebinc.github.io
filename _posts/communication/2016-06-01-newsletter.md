@@ -21,11 +21,12 @@ image:
     thumb: 99com_enl01_01_thumb.jpg
     homepage: 99com_enl01_01_home.jpg
     caption: Graphic by Jim Farrell | Photo by @jordanfmcqueen - Unsplash.
-    caption_url: https://unsplash.com/@jordanfmcqueen
+    caption_url: https://unsplash.  com/@jordanfmcqueen
 ---
 <!--more-->
 <p style="margin:0;"><img src="{{ site.urlimg }}99com_enl01_01_title.jpg" alt=""></p>
 <p><a href="https://unsplash.com/@jordanfmcqueen"><small>Graphic by Jim Farrell | Photo by @jordanfmcqueen - Unsplash.</small></a></p>
+##### Work Sample: Project Newsletter
 ### How it Works
 The sample eNewsletter on this page was designed and developed to flexibly adapt to diverse types of devices. In other words, this is a responsive newsletter. In practice, employees could access the same content from a variety of devices ranging from smartphones to desktops.
 
@@ -44,8 +45,8 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <div class="row">
     <div class="medium-6 columns t30">
       <img src="{{ site.urlimg }}99com_enl01_02_title.jpg" alt="">
-      <h4>The Home Stretch</h4>
-      <p><i>by Project Manager</i></p>
+      <p><h4>The Home Stretch</h4></p>
+      <p style="margin:0;"><i>by Project Manager</i></p>
       <p style="margin:0;">We are entering the “Home Stretch” for <b>ProjectLogic</b>. When our local transition from <b>Legacy</b> is complete, all <b>CompanyONE</b> plants in the U.S. will be running on <b>NewSystem</b>.</p>
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
     </div><!-- /.medium-6.columns -->
