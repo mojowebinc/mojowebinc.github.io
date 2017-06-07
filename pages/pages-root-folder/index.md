@@ -42,7 +42,7 @@ widget3:
 #  url: https://tinyletter.com/feeling-responsive
 #  text: Visit the Future State Resource Center ›
 #  style: secondary
-#permalink: /index.html
+permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
