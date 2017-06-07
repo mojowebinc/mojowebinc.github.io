@@ -26,7 +26,7 @@ image:
 <!--more-->
 <p style="margin:0;"><img src="{{ site.urlimg }}99com_enl01_01_title.jpg" alt=""></p>
 <p><a href="https://unsplash.com/@jordanfmcqueen"><small>Graphic by Jim Farrell | Photo by @jordanfmcqueen - Unsplash.</small></a></p>
-##### Work Sample: Project Newsletter
+
 ### How it Works
 The sample eNewsletter on this page was designed and developed to flexibly adapt to diverse types of devices. In other words, this is a responsive newsletter. In practice, employees could access the same content from a variety of devices ranging from smartphones to desktops.
 
@@ -39,6 +39,7 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <!--Newsletter Header-->
 <hr>
 <p style="margin:0;"><a name="ProjectLogic_eNewsletter"><small>ProjectLogic eNewsletter</small></a></p>
+##### Work Sample: Project Newsletter
 <p style="margin:0;"><h2>ProjectLogic eNewsletter</h2></p>
 <!--NEWSLETTER TOC-->
 <!--TOC: Lead Article-->
