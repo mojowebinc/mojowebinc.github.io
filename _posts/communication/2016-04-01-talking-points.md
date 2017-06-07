@@ -25,11 +25,13 @@ image:
 ---
 <!--more-->
 
-<p class="panel">
-  <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_mtp01_widget.jpg" alt=""></strong>
-  <strong class="show-for-medium-only"><img src="{{ site.urlimg }}99com_mtp01_email.jpg" alt=""></strong>
-  <strong class="show-for-large-only"><img src="{{ site.urlimg }}99com_mtp01_title.jpg" alt=""></strong>
-</p>
+<div class="row" >
+  <div class="medium-12 columns t30">
+    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_mtp01_widget.jpg" alt=""></strong>
+    <strong class="show-for-medium-only"><img src="{{ site.urlimg }}99com_mtp01_email.jpg" alt=""></strong>
+    <strong class="show-for-large-only"><img src="{{ site.urlimg }}99com_mtp01_title.jpg" alt=""></strong>
+  </div>
+</div>
 <p><a href="https://pixabay.com/"><small>Graphic by Jim Farrell | Photo by Pixabay.com.</small></a></p>
 
 ### Manager Talking Points
