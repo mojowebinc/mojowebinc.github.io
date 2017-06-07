@@ -40,8 +40,8 @@ The Manager Talking Points email is a regular communication that goes to all man
 <br>
 <img src="{{ site.urlimg }}99com_mtp01_email.jpg" alt="">
 
-#### Town Hall Survey Results
-##### Top Question: When is Go Live?
+### Town Hall Survey Results
+#### Top Question: When is Go Live?
 The most pressing concern on the minds of employees was the system Go Live date. In response, Project Sponsor noted: “At this point we have a detailed project plan of the remaining work. The plan is not without risks, particularly as you look at the volume of testing ahead of us. That said, the plan currently points to a Go Live this coming fall.”
 
 #### What’s Happening on Project Stratus
@@ -57,7 +57,7 @@ With the transition to NewSystem, employees will no longer be identified through
 
 <br>
 <hr>
-<br>
+
 ### More Communication Posts
 {: .t60 }
 
