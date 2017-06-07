@@ -17,7 +17,7 @@ header:
     caption_url: http://startupstockphotos.com/
 
 image:
-    title: 99com_mtp01_title.jpg
+    #title: 99com_mtp01_title.jpg
     thumb: 99com_mtp01_thumb.jpg
     homepage: 99com_mtp01_home.jpg
     caption: Photo by Pixabay.
@@ -36,7 +36,7 @@ image:
 The Manager Talking Points email is a regular communication that goes to all managers following the monthly steering committee meetings. They provide an important vehicle for providing consistent messaging about key project activities and accomplishments of the Stratus project. In addition, the Manager Talking Points email provides important information that managers should review with employees during formal meetings and informal conversations.
 <br>
 <hr>
-<br>
+##### Work Sample: Manager Talking Points Email
 <div class="row" >
   <div class="medium-12 columns t30">
     <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_mtp01_email_sm.jpg" alt=""></strong>
