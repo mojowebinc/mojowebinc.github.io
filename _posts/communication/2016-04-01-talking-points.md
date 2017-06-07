@@ -8,7 +8,7 @@ categories:
     - Blog
 tags:
     - Communication Deliverable
-    - Communication Deliverable Newsletter
+    - Communication Deliverable MTP
 header:
     title: The COM Blog
     background-color: "#EFC94C;"
@@ -17,11 +17,11 @@ header:
     caption_url: http://startupstockphotos.com/
 
 image:
-    #title: b03co_1660_title.jpg
-    thumb: b03co_1660_thumb.jpg
-    homepage: b03co_1660_home.jpg
-    caption: Photo by @lumvox - Unsplash.
-    caption_url: https://unsplash.com/@lumvox
+    title: 99com_mtp01_title.jpg
+    thumb: 99com_mtp01_thumb.jpg
+    homepage: 99com_mtp01_home.jpg
+    caption: Photo by Pixabay.
+    caption_url: https://pixabay.com/
 ---
 
 <div class="row" >

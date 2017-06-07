@@ -17,11 +17,11 @@ header:
     caption_url: http://startupstockphotos.com/
 
 image:
-    #title: b03co_1660_title.jpg
-    thumb: b03co_1660_thumb.jpg
-    homepage: b03co_1660_home.jpg
-    caption: Photo by @lumvox - Unsplash.
-    caption_url: https://unsplash.com/@lumvox
+    #title: 99com_enl01_01_title.jpg
+    thumb: 99com_enl01_01_thumb.jpg
+    homepage: 99com_enl01_01_home.jpg
+    caption: Graphic by Jim Farrell | Photo by @jordanfmcqueen - Unsplash.
+    caption_url: https://unsplash.com/@jordanfmcqueen
 ---
 <!--more-->
 <p style="margin:0;"><img src="{{ site.urlimg }}99com_enl01_01_title.jpg" alt=""></p>
