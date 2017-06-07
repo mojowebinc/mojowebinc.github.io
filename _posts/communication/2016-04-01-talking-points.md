@@ -43,7 +43,7 @@ The Manager Talking Points email is a regular communication that goes to all man
     <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_mtp01_email_lg.jpg" alt=""></strong>
   </div>
 </div>
-<br>
+<p></p>
 #### Town Hall Survey Results
 <p style="margin:0;"><b>Top Question: When is Go Live?</b></p>
 <p>The most pressing concern on the minds of employees was the system Go Live date. In response, Project Sponsor noted: “At this point we have a detailed project plan of the remaining work. The plan is not without risks, particularly as you look at the volume of testing ahead of us. That said, the plan currently points to a Go Live this coming fall.”</p>
