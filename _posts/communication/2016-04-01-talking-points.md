@@ -37,8 +37,8 @@ The Manager Talking Points email is a regular communication that goes to all man
 
 <br>
 <hr>
-<br>
 ##### Work Sample: Manager Talking Points Email
+<br>
 <div class="row" >
   <div class="medium-12 columns t30">
     <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_mtp01_email_sm.jpg" alt=""></strong>
