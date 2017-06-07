@@ -47,7 +47,7 @@ If you’re interested in more information, Zurb has some excellent videos, as w
     <div class="medium-6 columns t30">
       <p><img src="{{ site.urlimg }}99com_enl01_02_title.jpg" alt=""></p>
       <h4>The Home Stretch</h4>
-      <p><i>by Project Managerx</i></p>
+      <p><i>by Project Manager</i></p>
       <p style="margin:0;">We are entering the “Home Stretch” for <b>ProjectLogic</b>. When our local transition from <b>Legacy</b> is complete, all <b>CompanyONE</b> plants in the U.S. will be running on <b>NewSystem</b>.</p>
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
     </div><!-- /.medium-6.columns -->
@@ -120,6 +120,7 @@ Thank you in advance for your efforts and support. We look forward to working wi
 <p style="margin:0;"><a name="Article_02"><small>Change Management</small></a></p>
 <p style="margin:0;"><img src="{{ site.urlimg }}99com_enl01_03_title.jpg" alt=""></p>
 <p style="margin:0;"><a href="https://unsplash.com/@tidesinourveins"><small>Graphic by Jim Farrell | Photo by @tidesinourveins - Unsplash.</small></a></p>
+<p></p>
 #### Change Management
 <p><i>by Change Manager</i></p>
 When you think about the <b>NewSystem</b> implementation, it’s natural to think about computers and software. However, a perfectly functioning system means little if employees don’t know how to operate it or how it affects their day-to-day work. The purpose of Change Management is to handle these “people related” issues to ensure a smooth transition from <b>Legacy</b> to <b>NewSystem</b>.
@@ -182,7 +183,7 @@ If you have any questions about our Change Management efforts, feel free to cont
     <img src="{{ site.urlimg }}99com_enl01_05_roadmap_04.jpg" alt="">
   </div>
 </div>
-
+<p></p>
 #### Project Timeline
 <p><i>by Cutover Manager</i></p>
 If you compare our progress along the <b>ProjectLogic</b> roadmap to a football game, I’d say we’re entering the fourth quarter with a lead. We’ve played a solid game, with a few bumps and bruises along the way, but are positioned well to put the game away. The best way to do that, is to get back to the basics of blocking and tackling.
@@ -204,6 +205,7 @@ We’re going to get into the end zone. Basic blocking and tackling is how we’
 <p style="margin:0;"><a name="Article_05"><small>Frequently Asked Questions</small></a></p>
 <p style="margin:0;"><img src="{{ site.urlimg }}99com_enl01_06_title.jpg" alt=""></p>
 <p style="margin:0;"><a href="https://unsplash.com/@tidesinourveins"><small>Graphic by Jim Farrell | Photo by @tidesinourveins - Unsplash.</small></a></p>
+<p></p>
 #### Frequently Asked Questions
 <p></p>
 <p style="margin:0;"><b>Q: Why did CompanyONE choose NewSystem?</b></p>
