@@ -34,8 +34,10 @@ image:
 
 ### Manager Talking Points
 The Manager Talking Points email is a regular communication that goes to all managers following the monthly steering committee meetings. They provide an important vehicle for providing consistent messaging about key project activities and accomplishments of the Stratus project. In addition, the Manager Talking Points email provides important information that managers should review with employees during formal meetings and informal conversations.
+
 <br>
 <hr>
+<br>
 ##### Work Sample: Manager Talking Points Email
 <div class="row" >
   <div class="medium-12 columns t30">
