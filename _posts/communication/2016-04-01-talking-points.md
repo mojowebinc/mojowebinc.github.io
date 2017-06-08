@@ -26,8 +26,8 @@ image:
 
 <div class="row" >
   <div class="medium-12 columns t30">
-    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_mtp01_widget.jpg" alt=""></strong>
-    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_mtp01_title.jpg" alt=""></strong>
+    <p class="show-for-small-only"><img src="{{ site.urlimg }}99com_mtp01_widget.jpg" alt=""></p>
+    <p class="show-for-medium-up"><img src="{{ site.urlimg }}99com_mtp01_title.jpg" alt=""></p>
   </div>
 </div>
 <p><a href="https://pixabay.com/"><small>Graphic by Jim Farrell | Photo by Pixabay.com.</small></a></p>
