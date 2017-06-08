@@ -41,8 +41,8 @@ The Manager Talking Points email is a regular communication that goes to all man
 <br>
 <div class="row" >
   <div class="medium-12 columns t30">
-    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_mtp01_email_sm.jpg" alt=""></strong>
-    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_mtp01_email_lg.jpg" alt=""></strong>
+    <p class="show-for-small-only"><img src="{{ site.urlimg }}99com_mtp01_email_sm.jpg" alt=""></p>
+    <p class="show-for-medium-up"><img src="{{ site.urlimg }}99com_mtp01_email_lg.jpg" alt=""></p>
   </div>
 </div>
 <p></p>
