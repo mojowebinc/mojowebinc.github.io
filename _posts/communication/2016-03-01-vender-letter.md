@@ -35,7 +35,7 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 <p style="margin:0;">From: Plant Manager</p>
 <p>RE: NewSystem Impact on Vendor Operations</p>
 
-<p>As you know, CompanyONE is Implementing NewSystem for our location. We are scheduled to Go Live this coming July and will soon begin our final preparations for the transition to the new system.</p>
+<p>As you know, CompanyONE is Implementing NewSystem at our location. We are scheduled to Go Live this coming July and will soon begin our final preparations for the transition to the new system.</p>
 
 <p>We have found several activities and process changes that will have direct impact on our vendors:</p>
 
