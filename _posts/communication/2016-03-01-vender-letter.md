@@ -30,7 +30,13 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 <hr>
 ##### Work Sample: Vender Email
 <br>
-
+<div class="row" >
+  <div class="medium-12 columns t30">
+    <p class="show-for-small-only"><img src="{{ site.urlimg }}99com_vcc_01_email_sm.jpg" alt=""></p>
+    <p class="show-for-medium-up"><img src="{{ site.urlimg }}99com_vcc_01_email_lg.jpg" alt=""></p>
+  </div>
+</div>
+<p></p>
 <p style="margin:0;">To: Vender</p>
 <p style="margin:0;">From: Plant Manager</p>
 <p>RE: NewSystem Impact on Vendor Operations</p>
@@ -61,7 +67,13 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 <hr>
 ##### Work Sample: Customer Email
 <br>
-
+<div class="row" >
+  <div class="medium-12 columns t30">
+    <p class="show-for-small-only"><img src="{{ site.urlimg }}99com_vcc_01_email_sm.jpg" alt=""></p>
+    <p class="show-for-medium-up"><img src="{{ site.urlimg }}99com_vcc_01_email_lg.jpg" alt=""></p>
+  </div>
+</div>
+<p></p>
 <p style="margin:0;">To: Vender</p>
 <p style="margin:0;">From: Plant Manager</p>
 <p>RE: NewSystem Impact on Customer Billing</p>
