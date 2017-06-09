@@ -38,22 +38,23 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 <p style="margin:0;"><b>Shipping suspended June 23rd through June 30th</b></p>
 <p>Shipping and receiving will be suspended from June 23rd through June 30th to focus on our cutover activities.</p>
 
-<p><b>Plant Shutdown June 25th and 26th</b></p>
+<p style="margin:0;"><b>Plant Shutdown June 25th and 26th</b></p>
 <p>We will be shutting our plant down on the weekend of June 25th to conduct our final physical inventory prior to Go Live.</p>
 
-<p><b>New Purchase Order Format</b></p>
+<p style="margin:0;"><b>New Purchase Order Format</b></p>
 <p>Our new purchasing process will involve NewSystem generated purchase orders. We have attached a sample purchase order for your review.</p>
 
-<p><b>New Material / Item Codes</b></p>
+<p style="margin:0;"><b>New Material / Item Codes</b></p>
 <p>Material codes will transition to a 10 digit NewSystem material number. The original part number will still be available NewSystem, if needed.</p>
 
 <p>We look forward to working with you over the coming months. If you have any questions, feel free to contact the ProjectLogic functional lead for your area.</p>
 
 <p>Regards,</p>
 
-<p>Plant Manager</p>
+<p style="margin:0;">Plant Manager</p>
 <p>CompanyONE: Location</p>
-
+<br>
+<hr>
 ##### Work Sample: Customer Email
 <br>
 
@@ -65,7 +66,7 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 
 <p>We look forward to working with you over the coming months. If you have any questions, feel free to contact AR Clerk (arclerk@CompanyONE.com).</p>
 
-<p>Plant Manager</p>
+<p style="margin:0;">Plant Manager</p>
 <p>CompanyONE: Location</p>
 
 <br>
