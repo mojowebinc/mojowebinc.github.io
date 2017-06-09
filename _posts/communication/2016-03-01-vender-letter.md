@@ -31,6 +31,10 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 ##### Work Sample: Vender Email
 <br>
 
+<p style="margin:0;">To: Vender</p>
+<p style="margin:0;">From: Plant Manager</p>
+<p>RE: NewSystem Impact on Vendor Operations</p>
+
 <p>As you know, CompanyONE is Implementing NewSystem for our location. We are scheduled to Go Live this coming July and will soon begin our final preparations for the transition to the new system.</p>
 
 <p>We have found several activities and process changes that will have direct impact on our vendors:</p>
@@ -58,7 +62,11 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 ##### Work Sample: Customer Email
 <br>
 
-<p>CompanyONE is reengineering the way we business to better serve our customers. Part of our transition involves our billing process, and we wanted to ensure you were aware of some key changes.</p>
+<p style="margin:0;">To: Vender</p>
+<p style="margin:0;">From: Plant Manager</p>
+<p>RE: NewSystem Impact on Customer Billing</p>
+
+<p>CompanyONE is reengineering the way we business to better serve our customers. Part of our transition involves our billing process so we wanted to inform you of some key changes.</p>
 
 <p>Starting July, we are centralizing billing activities under our Shared Services group, with AR Clerk (arclerk@CompanyONE.com) being your point of contact. In addition, the billing process will be automated via NewSystem, with billing occurring daily.</p>
 
