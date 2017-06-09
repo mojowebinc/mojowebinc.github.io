@@ -21,7 +21,7 @@ image:
     thumb: 99com_enl01_01_thumb.jpg
     homepage: 99com_enl01_01_home.jpg
     caption: Graphic by Jim Farrell | Photo by @jordanfmcqueen - Unsplash.
-    caption_url: https://unsplash.  com/@jordanfmcqueen
+    caption_url: https://unsplash.com/@jordanfmcqueen
 ---
 <!--more-->
 <p style="margin:0;"><img src="{{ site.urlimg }}99com_enl01_01_title.jpg" alt=""></p>
