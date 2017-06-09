@@ -74,7 +74,7 @@ Organizations require a constant flow of information for decision making, coordi
 <br>
 <hr>  
 <br>
-### Additional Change Management Information
+### Additional Communication Information
 {: .t60 }
 
-{% include list-posts tag='Communication' %}
+{% include list-posts tag='Communication Deliverable' %}

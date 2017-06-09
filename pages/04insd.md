@@ -76,4 +76,4 @@ For companies to realize new operational capabilities, their employees must lear
 ### Additional Instructional Design Information
 {: .t60 }
 
-{% include list-posts tag='Instructional Design' %}
+{% include list-posts tag='Instructional Design Deliverable' %}
