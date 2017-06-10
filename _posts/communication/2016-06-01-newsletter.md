@@ -106,7 +106,7 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 
 <p>Over the coming weeks, we will prepare to ensure a smooth Go Live. We need your help in several areas, such as verifying <span style=“font-family: Times; font-weight: bold”>NewSystem</span> meets your business needs and that our technical procedures can accurately transfer your current business data.</p>
 
-</p>In addition to business and system needs, it is essential that we address “people related” needs. Toward this end, we will be ramping up our communication and training efforts to ensure that all <span style=“font-family: Times; font-weight: bold”>Company</span><span style=“font-family: Times; font-weight: bold; color:rgb(0, 112, 192)”>ONE</span> employees understand the changes to their day-to-day activities and have the necessary skills to successfully use <span style=“font-family: Times; font-weight: bold”>NewSystem</span>.</p>   
+<p>In addition to business and system needs, it is essential that we address “people related” needs. Toward this end, we will be ramping up our communication and training efforts to ensure that all <span style=“font-family: Times; font-weight: bold”>Company</span><span style=“font-family: Times; font-weight: bold; color:rgb(0, 112, 192)”>ONE</span> employees understand the changes to their day-to-day activities and have the necessary skills to successfully use <span style=“font-family: Times; font-weight: bold”>NewSystem</span>.</p>   
 
 Your participation in the Go Live preparations is essential to the success of <span style=“font-family: Times; font-weight: bold”> ProjectLogic</span>. Human Resources will contact your departments in the near future to let you know how and when you can participate.
 
