@@ -100,15 +100,15 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <p></p>
 #### The Home Stretch
 <p><i>by Project Manager</i></p>
-As we enter the “Home Stretch” for <b>ProjectLogic</b> I would like to begin by personally thanking everyone for the progress we’ve made to date.
+As we enter the “Home Stretch” for <span style="font-family: Times; font-weight: bold">ProjectLogic</span> I would like to begin by personally thanking everyone for the progress we’ve made to date.
 
-<b>ProjectLogic</b> is a vital strategic business initiative that will enable efficiencies across all business areas of <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span>. Completing the migration of our location to <b>NewSystem</b> will mark the critical milestone of having all plants in the U.S. operating under one system.
+<span style="font-family: Times; font-weight: bold">ProjectLogic</span> is a vital strategic business initiative that will enable efficiencies across all business areas of <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span>. Completing the migration of our location to <b>NewSystem</b> will mark the critical milestone of having all plants in the U.S. operating under one system.
 
 Over the coming weeks, we will prepare to ensure a smooth Go Live. We need your help in several areas, such as verifying <b>NewSystem</b> meets your business needs and that our technical procedures can accurately transfer your current business data.
 
 In addition to business and system needs, it is essential that we address “people related” needs. Toward this end, we will be ramping up our communication and training efforts to ensure that all <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> employees understand the changes to their day-to-day activities and have the necessary skills to successfully use <b>NewSystem</b>.  
 
-Your participation in the Go Live preparations is essential to the success of <b>ProjectLogic</b>. Human Resources will contact your departments in the near future to let you know how and when you can participate.
+Your participation in the Go Live preparations is essential to the success of <span style="font-family: Times; font-weight: bold">ProjectLogic</span>. Human Resources will contact your departments in the near future to let you know how and when you can participate.
 
 Thank you in advance for your efforts and support. We look forward to working with you.
 
@@ -125,7 +125,7 @@ Thank you in advance for your efforts and support. We look forward to working wi
 <p><i>by Change Manager</i></p>
 When you think about the <b>NewSystem</b> implementation, it’s natural to think about computers and software. However, a perfectly functioning system means little if employees don’t know how to operate it or how it affects their day-to-day work. The purpose of Change Management is to handle these “people related” issues to ensure a smooth transition from <b>Legacy</b> to <b>NewSystem</b>.
 
-Managers and key users are already taking part in <b>ProjectLogic</b> Organization Workshops to assess and document the changes to business rules, work processes and role requirements.  The impacts identified in these workshops will drive our Change Management efforts by providing content for communication, training and updated HR documentation.
+Managers and key users are already taking part in <span style="font-family: Times; font-weight: bold">ProjectLogic</span> Organization Workshops to assess and document the changes to business rules, work processes and role requirements.  The impacts identified in these workshops will drive our Change Management efforts by providing content for communication, training and updated HR documentation.
 
 To ensure that all employees understand the specific changes found in the workshops, we will provide regular communications such as newsletters, posters and brief discussions at your team meetings. In addition, we will be holding department sessions where your managers and key users will walk you through the new business process and answer any questions you have.
 
@@ -186,9 +186,9 @@ If you have any questions about our Change Management efforts, feel free to cont
 <p></p>
 #### Project Timeline
 <p><i>by Cutover Manager</i></p>
-If you compare our progress along the <b>ProjectLogic</b> roadmap to a football game, I’d say we’re entering the fourth quarter with a lead. We’ve played a solid game, with a few bumps and bruises along the way, but are positioned well to put the game away. The best way to do that, is to get back to the basics of blocking and tackling.
+If you compare our progress along the <span style="font-family: Times; font-weight: bold">ProjectLogic</span> roadmap to a football game, I’d say we’re entering the fourth quarter with a lead. We’ve played a solid game, with a few bumps and bruises along the way, but are positioned well to put the game away. The best way to do that, is to get back to the basics of blocking and tackling.
 
-For <b>ProjectLogic</b>, getting back to basics comes down to a few things, making sure the system is ready and making sure our people are ready. The timeline shows the basic “plays” that we need to execute to get the football into the end zone, so to speak.
+For <span style="font-family: Times; font-weight: bold">ProjectLogic</span>, getting back to basics comes down to a few things, making sure the system is ready and making sure our people are ready. The timeline shows the basic “plays” that we need to execute to get the football into the end zone, so to speak.
 
 While Change Management handles the people-side of things, we also need to make sure the technical side is ready. First, we must make sure the data we’re pulling from <b>Legacy</b> is accurately transferred into <b>NewSystem</b>.  We’ll get this done through careful attention to detail during our Simulation and Regression Testing.
 
