@@ -47,9 +47,9 @@ Go Live countdown communications are the culmination of an effective communicati
 </div>
 <p></p>
 <p>xxx</p>
-
 <p style="margin:0;">xxx</p>
-
+<br>
+<hr>
 ##### T-3 Weeks: Storing Individual and Group Shared Files Email
 <br>
 <div class="row" >
@@ -60,9 +60,9 @@ Go Live countdown communications are the culmination of an effective communicati
 </div>
 <p></p>
 <p>xxx</p>
-
 <p style="margin:0;">xxx</p>
-
+<br>
+<hr>
 ##### T-2 Weeks: Reviewing Job Aids Email
 <br>
 <div class="row" >
@@ -73,9 +73,9 @@ Go Live countdown communications are the culmination of an effective communicati
 </div>
 <p></p>
 <p>xxx</p>
-
 <p style="margin:0;">xxx</p>
-
+<br>
+<hr>
 ##### T-1 Week: Credential Preparation Email
 <br>
 <div class="row" >
@@ -86,9 +86,9 @@ Go Live countdown communications are the culmination of an effective communicati
 </div>
 <p></p>
 <p>xxx</p>
-
 <p style="margin:0;">xxx</p>
-
+<br>
+<hr>
 ##### T-0 Days: Final Preparation Email
 <br>
 <div class="row" >
@@ -99,9 +99,9 @@ Go Live countdown communications are the culmination of an effective communicati
 </div>
 <p></p>
 <p>xxx</p>
-
 <p style="margin:0;">xxx</p>
-
+<br>
+<hr>
 ##### T+0 Days: Go Live “Welcome” Email
 <br>
 <div class="row" >
@@ -112,9 +112,9 @@ Go Live countdown communications are the culmination of an effective communicati
 </div>
 <p></p>
 <p>xxx</p>
-
 <p style="margin:0;">xxx</p>
-
+<br>
+<hr>
 <br>
 
 
