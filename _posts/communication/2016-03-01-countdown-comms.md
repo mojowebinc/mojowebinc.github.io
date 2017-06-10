@@ -36,12 +36,13 @@ image:
 Go Live countdown communications are the culmination of an effective communication campaign. Countdown Emails are an effective tool to cut through information overload when time and attention are at a premium. When effectively written, countdown Emails can be saved for future reference or printed out and used as a job aid.    
 <br>
 <hr>
+
 ##### T-4 Weeks: Awareness and Expectations Email
 <br>
 <div class="row" >
   <div class="medium-12 columns t30">
-    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_blt01_email_sm.jpg" alt=""></strong>
-    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_blt01_email_lg.jpg" alt=""></strong>
+    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_cdcomm_email_01_lg.jpg" alt=""></strong>
+    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_cdcomm_email_01_sm.jpg" alt=""></strong>
   </div>
 </div>
 <p></p>
@@ -50,14 +51,69 @@ Go Live countdown communications are the culmination of an effective communicati
 <p style="margin:0;"><b>xxx</p>
 
 ##### T-3 Weeks: Storing Individual and Group Shared Files Email
+<br>
+<div class="row" >
+  <div class="medium-12 columns t30">
+    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_cdcomm_email_02_lg.jpg" alt=""></strong>
+    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_cdcomm_email_02_sm.jpg" alt=""></strong>
+  </div>
+</div>
+<p></p>
+<p>xxx</p>
+
+<p style="margin:0;"><b>xxx</p>
 
 ##### T-2 Weeks: Reviewing Job Aids Email
+<br>
+<div class="row" >
+  <div class="medium-12 columns t30">
+    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_cdcomm_email_03_lg.jpg" alt=""></strong>
+    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_cdcomm_email_03_sm.jpg" alt=""></strong>
+  </div>
+</div>
+<p></p>
+<p>xxx</p>
+
+<p style="margin:0;"><b>xxx</p>
 
 ##### T-1 Week: Credential Preparation Email
+<br>
+<div class="row" >
+  <div class="medium-12 columns t30">
+    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_cdcomm_email_04_lg.jpg" alt=""></strong>
+    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_cdcomm_email_04_sm.jpg" alt=""></strong>
+  </div>
+</div>
+<p></p>
+<p>xxx</p>
+
+<p style="margin:0;"><b>xxx</p>
 
 ##### T-0 Days: Final Preparation Email
+<br>
+<div class="row" >
+  <div class="medium-12 columns t30">
+    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_cdcomm_email_05_lg.jpg" alt=""></strong>
+    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_cdcomm_email_05_sm.jpg" alt=""></strong>
+  </div>
+</div>
+<p></p>
+<p>xxx</p>
+
+<p style="margin:0;"><b>xxx</p>
 
 ##### T+0 Days: Go Live “Welcome” Email
+<br>
+<div class="row" >
+  <div class="medium-12 columns t30">
+    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_cdcomm_email_06_lg.jpg" alt=""></strong>
+    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_cdcomm_email_06_sm.jpg" alt=""></strong>
+  </div>
+</div>
+<p></p>
+<p>xxx</p>
+
+<p style="margin:0;"><b>xxx</p>
 
 <br>
 
