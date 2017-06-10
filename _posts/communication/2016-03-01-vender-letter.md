@@ -43,7 +43,7 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 
 <p>As you know, <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> is Implementing <span style="font-family: Times; font-weight: bold">NewSystem</span> at our location. We are scheduled to Go Live this coming July and will soon begin our final preparations for the transition to the new system.</p>
 
-<p>We wanted to reach out and notify you of several activities and process changes that will have direct impact on our vendors:</p>
+<p>We wanted to reach out and notify you of several activities and process changes that will have a direct impact on our vendors:</p>
 
 <p style="margin:0;"><b>Shipping suspended June 23rd through June 30th</b></p>
 <p>Shipping and receiving will be suspended from June 23rd through June 30th to focus on our cutover activities.</p>
