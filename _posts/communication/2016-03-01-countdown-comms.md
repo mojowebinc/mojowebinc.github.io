@@ -106,8 +106,8 @@ Go Live countdown communications are the culmination of an effective communicati
 <br>
 <div class="row" >
   <div class="medium-12 columns t30">
-    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_cdcomm_email_06_lg.jpg" alt=""></strong>
-    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_cdcomm_email_06_sm.jpg" alt=""></strong>
+    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_cdcomm_email_06_sm.jpg" alt=""></strong>
+    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_cdcomm_email_06_lg.jpg" alt=""></strong>
   </div>
 </div>
 <p></p>
