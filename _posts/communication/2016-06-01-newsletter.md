@@ -102,11 +102,11 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <p><i>by Project Manager</i></p>
 As we enter the “Home Stretch” for <b>ProjectLogic</b> I would like to begin by personally thanking everyone for the progress we’ve made to date.
 
-<b>ProjectLogic</b> is a vital strategic business initiative that will enable efficiencies across all business areas of <b>CompanyONE</b>. Completing the migration of our location to <b>NewSystem</b> will mark the critical milestone of having all plants in the U.S. operating under one system.
+<b>ProjectLogic</b> is a vital strategic business initiative that will enable efficiencies across all business areas of <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span>. Completing the migration of our location to <b>NewSystem</b> will mark the critical milestone of having all plants in the U.S. operating under one system.
 
 Over the coming weeks, we will prepare to ensure a smooth Go Live. We need your help in several areas, such as verifying <b>NewSystem</b> meets your business needs and that our technical procedures can accurately transfer your current business data.
 
-In addition to business and system needs, it is essential that we address “people related” needs. Toward this end, we will be ramping up our communication and training efforts to ensure that all <b>CompanyONE</b> employees understand the changes to their day-to-day activities and have the necessary skills to successfully use <b>NewSystem</b>.  
+In addition to business and system needs, it is essential that we address “people related” needs. Toward this end, we will be ramping up our communication and training efforts to ensure that all <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> employees understand the changes to their day-to-day activities and have the necessary skills to successfully use <b>NewSystem</b>.  
 
 Your participation in the Go Live preparations is essential to the success of <b>ProjectLogic</b>. Human Resources will contact your departments in the near future to let you know how and when you can participate.
 
