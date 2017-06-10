@@ -28,7 +28,7 @@ image:
 <p><a href="https://unsplash.com/@jordanfmcqueen"><small>Graphic by Jim Farrell | Photo by @jordanfmcqueen - Unsplash.</small></a></p>
 
 ### How it Works
-The sample eNewsletter on this page was designed and developed to flexibly adapt to diverse types of devices. In other words, this is a responsive newsletter. In practice, employees could access the same content from a variety of devices ranging from smartphones to desktops.
+The sample <span style=“font-family: Times; font-weight: bold”>eNewsletter</span> on this page was designed and developed to flexibly adapt to diverse types of devices. In other words, this is a responsive newsletter. In practice, employees could access the same content from a variety of devices ranging from smartphones to desktops.
 
 The basic technology driving the responsiveness is the Foundation grid system, created by Zurb. Like a table in concept, you set up a series of rows and columns and then enter your content. As you resize your browser, the content is resized to fit the new dimensions. For example, it proportionally reduces the size of a graphic.
 
@@ -102,7 +102,7 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <p><i>by Project Manager</i></p>
 <p>As we enter the “Home Stretch” for <span style=“font-family: Times; font-weight: bold”> ProjectLogic</span> I would like to begin by personally thanking everyone for the progress we’ve made to date.</p>
 
-<p><span style=“font-family: Times; font-weight: bold”> ProjectLogic</span> is a vital strategic business initiative that will enable efficiencies across all business areas of <span style=“font-family: Times; font-weight: bold”>Company</span><span style=“font-family: Times; font-weight: bold; color:rgb(0, 112, 192)”>ONE</span>. Completing the migration of our location to <span style=“font-family: Times; font-weight: bold”>NewSystem</span> will mark the critical milestone of having all plants in the U.S. operating under one system.</p>
+<p><span style=“font-family: Times; font-weight: bold”>ProjectLogic</span> is a vital strategic business initiative that will enable efficiencies across all business areas of <span style=“font-family: Times; font-weight: bold”>Company</span><span style=“font-family: Times; font-weight: bold; color:rgb(0, 112, 192)”>ONE</span>. Completing the migration of our location to <span style=“font-family: Times; font-weight: bold”>NewSystem</span> will mark the critical milestone of having all plants in the U.S. operating under one system.</p>
 
 <p>Over the coming weeks, we will prepare to ensure a smooth Go Live. We need your help in several areas, such as verifying <span style=“font-family: Times; font-weight: bold”>NewSystem</span> meets your business needs and that our technical procedures can accurately transfer your current business data.</p>
 
