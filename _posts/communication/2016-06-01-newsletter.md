@@ -102,11 +102,11 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <p><i>by Project Manager</i></p>
 As we enter the “Home Stretch” for <span style="font-family: Times; font-weight: bold">ProjectLogic</span> I would like to begin by personally thanking everyone for the progress we’ve made to date.
 
-<span style="font-family: Times; font-weight: bold">ProjectLogic</span> is a vital strategic business initiative that will enable efficiencies across all business areas of <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span>. Completing the migration of our location to <b>NewSystem</b> will mark the critical milestone of having all plants in the U.S. operating under one system.
+<span style="font-family: Times; font-weight: bold">ProjectLogic</span> is a vital strategic business initiative that will enable efficiencies across all business areas of <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span>. Completing the migration of our location to <span style="font-family: Times; font-weight: bold">NewSystem</span> will mark the critical milestone of having all plants in the U.S. operating under one system.
 
-Over the coming weeks, we will prepare to ensure a smooth Go Live. We need your help in several areas, such as verifying <b>NewSystem</b> meets your business needs and that our technical procedures can accurately transfer your current business data.
+Over the coming weeks, we will prepare to ensure a smooth Go Live. We need your help in several areas, such as verifying <span style="font-family: Times; font-weight: bold">NewSystem</span> meets your business needs and that our technical procedures can accurately transfer your current business data.
 
-In addition to business and system needs, it is essential that we address “people related” needs. Toward this end, we will be ramping up our communication and training efforts to ensure that all <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> employees understand the changes to their day-to-day activities and have the necessary skills to successfully use <b>NewSystem</b>.  
+In addition to business and system needs, it is essential that we address “people related” needs. Toward this end, we will be ramping up our communication and training efforts to ensure that all <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> employees understand the changes to their day-to-day activities and have the necessary skills to successfully use <span style="font-family: Times; font-weight: bold">NewSystem</span>.  
 
 Your participation in the Go Live preparations is essential to the success of <span style="font-family: Times; font-weight: bold">ProjectLogic</span>. Human Resources will contact your departments in the near future to let you know how and when you can participate.
 
@@ -123,13 +123,13 @@ Thank you in advance for your efforts and support. We look forward to working wi
 <p></p>
 #### Change Management
 <p><i>by Change Manager</i></p>
-When you think about the <b>NewSystem</b> implementation, it’s natural to think about computers and software. However, a perfectly functioning system means little if employees don’t know how to operate it or how it affects their day-to-day work. The purpose of Change Management is to handle these “people related” issues to ensure a smooth transition from <b>Legacy</b> to <b>NewSystem</b>.
+When you think about the <span style="font-family: Times; font-weight: bold">NewSystem</span> implementation, it’s natural to think about computers and software. However, a perfectly functioning system means little if employees don’t know how to operate it or how it affects their day-to-day work. The purpose of Change Management is to handle these “people related” issues to ensure a smooth transition from <b>Legacy</b> to <span style="font-family: Times; font-weight: bold">NewSystem</span>.
 
 Managers and key users are already taking part in <span style="font-family: Times; font-weight: bold">ProjectLogic</span> Organization Workshops to assess and document the changes to business rules, work processes and role requirements.  The impacts identified in these workshops will drive our Change Management efforts by providing content for communication, training and updated HR documentation.
 
 To ensure that all employees understand the specific changes found in the workshops, we will provide regular communications such as newsletters, posters and brief discussions at your team meetings. In addition, we will be holding department sessions where your managers and key users will walk you through the new business process and answer any questions you have.
 
-Finally, we will design and deliver an End User Training program so that you are ready to use <b>NewSystem</b> at Go Live. The training will be instructor led, tailored to your business area and provide you with “hands on” experience working with <b>NewSystem</b>.
+Finally, we will design and deliver an End User Training program so that you are ready to use <span style="font-family: Times; font-weight: bold">NewSystem</span> at Go Live. The training will be instructor led, tailored to your business area and provide you with “hands on” experience working with <span style="font-family: Times; font-weight: bold">NewSystem</span>.
 
 Human Resources will be contacting you regarding the workshop schedule, and coordinate with your managers to schedule your training as we get closer to Go Live.
 
@@ -190,7 +190,7 @@ If you compare our progress along the <span style="font-family: Times; font-weig
 
 For <span style="font-family: Times; font-weight: bold">ProjectLogic</span>, getting back to basics comes down to a few things, making sure the system is ready and making sure our people are ready. The timeline shows the basic “plays” that we need to execute to get the football into the end zone, so to speak.
 
-While Change Management handles the people-side of things, we also need to make sure the technical side is ready. First, we must make sure the data we’re pulling from <b>Legacy</b> is accurately transferred into <b>NewSystem</b>.  We’ll get this done through careful attention to detail during our Simulation and Regression Testing.
+While Change Management handles the people-side of things, we also need to make sure the technical side is ready. First, we must make sure the data we’re pulling from <b>Legacy</b> is accurately transferred into <span style="font-family: Times; font-weight: bold">NewSystem</span>.  We’ll get this done through careful attention to detail during our Simulation and Regression Testing.
 
 Secondly, we must make sure the system allows us to successfully complete our day-to-day job activities, such as receiving materials, creating our products, shipping our products and successfully billing our customers. We’ll accomplish these objectives through our User Acceptance Testing.
 
@@ -208,8 +208,8 @@ We’re going to get into the end zone. Basic blocking and tackling is how we’
 <p></p>
 #### Frequently Asked Questions
 <p></p>
-<p style="margin:0;"><b>Q: Why did <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> choose NewSystem?</b></p>
-<p style="margin:0;"><i>A: NewSystem is the world leader in enterprise applications and is designed to enable the use of industry best practice processes in areas of our company, such as:</i></p>
+<p style="margin:0;"><b>Q: Why did <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> choose <span style="font-family: Times">NewSystem</span>?</b></p>
+<p style="margin:0;"><i>A: <span style="font-family: Times; font-weight: bold">NewSystem</span> is the world leader in enterprise applications and is designed to enable the use of industry best practice processes in areas of our company, such as:</i></p>
 - <i>Finance and Controlling</i>   
 - <i>Purchasing and Goods Movements</i>
 - <i>Production Planning and Scheduling</i>
@@ -222,7 +222,7 @@ We’re going to get into the end zone. Basic blocking and tackling is how we’
 <p><i>A: We have selected the best go live date to ensure a smooth transition to the new system.</i></p>
 
 <p style="margin:0;"><b>Q: Who will be involved?</b></p>
-<p><i>A: Personnel who are part of the process list above and will use NewSystem at Go Live. If you currently use Legacy, you will likely use NewSystem.</i></p>
+<p><i>A: Personnel who are part of the process list above and will use <span style="font-family: Times; font-weight: bold">NewSystem</span> at Go Live. If you currently use Legacy, you will likely use <span style="font-family: Times; font-weight: bold">NewSystem</span>.</i></p>
 
 <p style="margin:0;"><b>Q: What support will be provided?</b></p>
 <p><i>A: In addition to regular communications, our core project team, including local key users, will provide support before and after Go Live.</i></p>
