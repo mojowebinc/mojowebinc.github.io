@@ -36,7 +36,7 @@ image:
 Go Live countdown communications are the culmination of an effective communication campaign. Countdown Emails are an effective tool to cut through information overload when time and attention are at a premium. When effectively written, countdown Emails can be saved for future reference or printed out and used as a job aid.    
 <br>
 <hr>
-
+<br>
 ##### T-4 Weeks: Awareness and Expectations Email
 <br>
 <div class="row" >
@@ -50,6 +50,7 @@ Go Live countdown communications are the culmination of an effective communicati
 <p style="margin:0;">xxx</p>
 <br>
 <hr>
+<br>
 ##### T-3 Weeks: Storing Individual and Group Shared Files Email
 <br>
 <div class="row" >
@@ -63,6 +64,7 @@ Go Live countdown communications are the culmination of an effective communicati
 <p style="margin:0;">xxx</p>
 <br>
 <hr>
+<br>
 ##### T-2 Weeks: Reviewing Job Aids Email
 <br>
 <div class="row" >
@@ -76,6 +78,7 @@ Go Live countdown communications are the culmination of an effective communicati
 <p style="margin:0;">xxx</p>
 <br>
 <hr>
+<br>
 ##### T-1 Week: Credential Preparation Email
 <br>
 <div class="row" >
@@ -89,6 +92,7 @@ Go Live countdown communications are the culmination of an effective communicati
 <p style="margin:0;">xxx</p>
 <br>
 <hr>
+<br>
 ##### T-0 Days: Final Preparation Email
 <br>
 <div class="row" >
@@ -102,6 +106,7 @@ Go Live countdown communications are the culmination of an effective communicati
 <p style="margin:0;">xxx</p>
 <br>
 <hr>
+<br>
 ##### T+0 Days: Go Live “Welcome” Email
 <br>
 <div class="row" >
