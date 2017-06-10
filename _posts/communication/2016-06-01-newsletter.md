@@ -76,7 +76,7 @@ If you’re interested in more information, Zurb has some excellent videos, as w
 <!--TOC: Timeline-->
       <div class="row">
         <div class="medium-12 columns t30">
-          <p style="margin:0;"><b>ProjectLogic Timeline |</b><i> by&nbsp;Cutover&nbsp;Manager</i></p>
+          <p style="margin:0;"><b><span style="font-family: Times">ProjectLogic</span> Timeline |</b><i> by&nbsp;Cutover&nbsp;Manager</i></p>
           <p style="margin:0;"><a href="#Article_04"><strong>Read More&nbsp;›</strong></a></p>
         </div>
       </div>
