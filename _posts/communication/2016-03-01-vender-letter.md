@@ -39,7 +39,7 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 <p></p>
 <p style="margin:0;">To: Vender</p>
 <p style="margin:0;">From: Plant Manager</p>
-<p>RE: NewSystem Impact on Vendor Operations</p>
+<p>RE: <span style="font-family: Times; font-weight: bold">NewSystem</span> Impact on Vendor Operations Impact on Vendor Operations</p>
 
 <p>As you know, <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> is Implementing <span style="font-family: Times; font-weight: bold">NewSystem</span> at our location. We are scheduled to Go Live this coming July and will soon begin our final preparations for the transition to the new system.</p>
 
@@ -62,7 +62,7 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 <p>Regards,</p>
 
 <p style="margin:0;">Plant Manager</p>
-<p>CompanyONE: Location</p>
+<p><span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span>: Location</p>
 <br>
 <hr>
 ##### Work Sample: Customer Email
@@ -76,18 +76,18 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 <p></p>
 <p style="margin:0;">To: Vender</p>
 <p style="margin:0;">From: Plant Manager</p>
-<p>RE: NewSystem Impact on Customer Billing</p>
+<p>RE: <span style="font-family: Times; font-weight: bold">NewSystem</span> Impact on Customer Billing</p>
 
-<p>CompanyONE is reengineering the way we business to better serve our customers. Part of our transition involves our billing process so we wanted to inform you of some key changes.</p>
+<p><span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> is reengineering the way we business to better serve our customers. Part of our transition involves our billing process so we wanted to inform you of some key changes.</p>
 
-<p>Starting July, we are centralizing billing activities under our Shared Services group, with AR Clerk (arclerk@CompanyONE.com) being your point of contact. In addition, the billing process will be automated via NewSystem, with billing occurring daily.</p>
+<p>Starting July, we are centralizing billing activities under our Shared Services group, with AR Clerk (arclerk@CompanyONE.com) being your point of contact. In addition, the billing process will be automated via <span style="font-family: Times; font-weight: bold">NewSystem</span>, with billing occurring daily.</p>
 
 <p>We have scheduled some phone conferences over the coming weeks to introduce you to AR and to answer any questions you may have. We will follow up next week with specific details.</p>
 
 <p>We look forward to working with you over the coming months. If you have any questions, feel free to contact AR Clerk (arclerk@CompanyONE.com).</p>
 
 <p style="margin:0;">Plant Manager</p>
-<p>CompanyONE: Location</p>
+<p><span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span>: Location</p>
 
 <br>
 
