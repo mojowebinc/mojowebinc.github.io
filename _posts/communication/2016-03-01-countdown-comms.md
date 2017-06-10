@@ -46,9 +46,10 @@ Go Live countdown communications are the culmination of an effective communicati
   </div>
 </div>
 
-<p style="margin:0;">To: Companyone NewSystem Upgrade Participants</p>
+<p">To: Companyone NewSystem Upgrade Participants</p>
 <p style="margin:0;">From: The ProjectLogic Team</p>
 <p style="margin:0;">Subject: PREPARE: NewSystem Arriving Soon</p>
+<p></p>
 
 Dear team member:
 
