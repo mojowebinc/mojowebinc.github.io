@@ -52,7 +52,7 @@ The Manager Talking Points email is a regular communication that goes to all man
 
 #### What’s Happening on Project Stratus
 <p style="margin:0;"><b>System Testing: Parallel System Testing Achieves Accuracy Criteria</b></p>
-<p>Results of our parallel testing have met our accuracy criteria for all departments. A final review is underway by COMPANYONE prior to sign-off.</p>
+<p>Results of our parallel testing have met our accuracy criteria for all departments areas. A final review is underway by<span style="font-family: Times; font-weight: bold">COMPANYONE</span> prior to sign-off.</p>
 
 <p style="margin:0;"><b>Change Management: Stratus Roadshow Scheduled for End of July</b></p>
 <p>We are planning a Virtual Roadshow to discuss new system functions and a detailed timeline for upcoming activities. We are coordinating with the leadership team and HR from each location, who will contact you in the near future with more details.</p>
