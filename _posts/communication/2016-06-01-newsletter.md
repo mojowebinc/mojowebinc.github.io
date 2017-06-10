@@ -208,15 +208,15 @@ We’re going to get into the end zone. Basic blocking and tackling is how we’
 <p></p>
 #### Frequently Asked Questions
 <p></p>
-<p style="margin:0;"><b>Q: Why did CompanyONE choose NewSystem?</b></p>
+<p style="margin:0;"><b>Q: Why did <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> choose NewSystem?</b></p>
 <p style="margin:0;"><i>A: NewSystem is the world leader in enterprise applications and is designed to enable the use of industry best practice processes in areas of our company, such as:</i></p>
-- <i>Finance and Controlling   
-- <i>Purchasing and Goods Movements
-- <i>Production Planning and Scheduling
-- <i>Quality Management
-- <i>Customer Service
-- <i>Shipping
-- <i>Warehouse Management
+- <i>Finance and Controlling</i>   
+- <i>Purchasing and Goods Movements</i>
+- <i>Production Planning and Scheduling</i>
+- <i>Quality Management</i>
+- <i>Customer Service</i>
+- <i>Shipping</i>
+- <i>Warehouse Management</i>
 
 <p style="margin:0;"><b>Q: Why now?</b></p>
 <p><i>A: We have selected the best go live date to ensure a smooth transition to the new system.</i></p>
