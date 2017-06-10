@@ -39,9 +39,9 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 <p></p>
 <p style="margin:0;">To: Vender</p>
 <p style="margin:0;">From: Plant Manager</p>
-<p>RE: <span style="font-family: Times; font-weight: bold">NewSystem</span> Impact on Vendor Operations Impact on Vendor Operations</p>
+<p>RE: <span style="font-family: Times; font-weight: bold">NewSystem</span> Impact on Vendor Operations</p>
 
-<p>As you know, <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> is Implementing <span style="font-family: Times; font-weight: bold">NewSystem</span> at our location. We are scheduled to Go Live this coming July and will soon begin our final preparations for the transition to the new system.</p>
+<p>As you know, <span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> is implementing <span style="font-family: Times; font-weight: bold">NewSystem</span> at our location. We are scheduled to Go Live this coming July and will soon begin our final preparations for the transition to the new system.</p>
 
 <p>We wanted to reach out and notify you of several activities and process changes that will have a direct impact on our vendors:</p>
 
@@ -55,9 +55,9 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 <p>Our new purchasing process will involve NewSystem generated purchase orders. We have attached a sample purchase order for your review.</p>
 
 <p style="margin:0;"><b>New Material / Item Codes</b></p>
-<p>Material codes will transition to a 10 digit NewSystem material number. The original part number will still be available NewSystem, if needed.</p>
+<p>Material codes will transition to a 10 digit <span style="font-family: Times; font-weight: bold">NewSystem</span> material number. The original part number will still be available <span style="font-family: Times; font-weight: bold">NewSystem</span>, if needed.</p>
 
-<p>We look forward to working with you over the coming months. If you have any questions, feel free to contact the ProjectLogic functional lead for your area.</p>
+<p>We look forward to working with you over the coming months. If you have any questions, feel free to contact the <span style="font-family: Times; font-weight: bold"> ProjectLogic</span> functional lead for your area.</p>
 
 <p>Regards,</p>
 
@@ -78,9 +78,9 @@ Vendors and customers are exposed to elevated risks when your company is transfo
 <p style="margin:0;">From: Plant Manager</p>
 <p>RE: <span style="font-family: Times; font-weight: bold">NewSystem</span> Impact on Customer Billing</p>
 
-<p><span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> is reengineering the way we business to better serve our customers. Part of our transition involves our billing process so we wanted to inform you of some key changes.</p>
+<p><span style="font-family: Times; font-weight: bold">Company</span><span style="font-family: Times; font-weight: bold; color:rgb(0, 112, 192)">ONE</span> is reengineering the way we do business to better serve our customers. Part of our transition involves our customer billing process so we wanted to inform you of some key changes.</p>
 
-<p>Starting July, we are centralizing billing activities under our Shared Services group, with AR Clerk (arclerk@CompanyONE.com) being your point of contact. In addition, the billing process will be automated via <span style="font-family: Times; font-weight: bold">NewSystem</span>, with billing occurring daily.</p>
+<p>Starting July, we are centralizing billing activities under our Shared Services group, with AR Clerk (arclerk@CompanyONE.com) being your new point of contact. In addition, the billing process will be automated via <span style="font-family: Times; font-weight: bold">NewSystem</span>, with billing occurring daily.</p>
 
 <p>We have scheduled some phone conferences over the coming weeks to introduce you to AR and to answer any questions you may have. We will follow up next week with specific details.</p>
 
