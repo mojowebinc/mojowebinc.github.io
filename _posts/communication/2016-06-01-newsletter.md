@@ -48,7 +48,7 @@ If you’re interested in more information, Zurb has some excellent videos, as w
       <p><img src="{{ site.urlimg }}99com_enl01_02_title.jpg" alt=""></p>
       <h4>The Home Stretch</h4>
       <p><i>by Project Manager</i></p>
-      <p style="margin:0;">We are entering the “Home Stretch” for <b>ProjectLogic</b>. When our local transition from <b>Legacy</b> is complete, all <b>CompanyONE</b> plants in the U.S. will be running on <b>NewSystem</b>.</p>
+      <p style="margin:0;">We are entering the “Home Stretch” for <span style="font-family: Times; font-weight: bold">ProjectLogic</span>. When our local transition from <b>Legacy</b> is complete, all <b>CompanyONE</b> plants in the U.S. will be running on <b>NewSystem</b>.</p>
       <p style="margin:0;"><a href="#Lead_Article"><strong>Read More&nbsp;›</strong></a></p>
     </div><!-- /.medium-6.columns -->
 <!--TOC: What's Happening-->
