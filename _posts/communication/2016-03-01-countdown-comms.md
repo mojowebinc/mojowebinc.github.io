@@ -161,9 +161,9 @@ As part of the NewSystem upgrade, we will be consolidating all of your company I
 <b>Action Required</b>
 Prior to your upgrade you will need to:
 - Create your OnePass profile:
-+ Go to Go to OnePass.Companyone.com
-+ Click the Create / Update Profile button
-+ Enter your new Logon and Password (If you need assistance please contact Security Administration at 555.555.5555)
+  + Go to Go to OnePass.Companyone.com
+  + Click the Create / Update Profile button
+  + Enter your new Logon and Password (If you need assistance please contact Security Administration at 555.555.5555)
 - Check your email the day before your scheduled upgrade for additional communications
 
 <b>Reminders</b>
