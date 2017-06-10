@@ -222,7 +222,7 @@ We’re going to get into the end zone. Basic blocking and tackling is how we’
 <p><i>A: We have selected the best go live date to ensure a smooth transition to the new system.</i></p>
 
 <p style="margin:0;"><b>Q: Who will be involved?</b></p>
-<p><i>A: Personnel who are part of the process list above and will use <span style="font-family: Times; font-weight: bold">NewSystem</span> at Go Live. If you currently use Legacy, you will likely use <span style="font-family: Times; font-weight: bold">NewSystem</span>.</i></p>
+<p><i>A: Personnel who are part of the process list above and will use <span style="font-family: Times; font-weight: bold">NewSystem</span> at Go Live. If you currently use <b>Legacy</b>, you will likely use <span style="font-family: Times; font-weight: bold">NewSystem</span>.</i></p>
 
 <p style="margin:0;"><b>Q: What support will be provided?</b></p>
 <p><i>A: In addition to regular communications, our core project team, including local key users, will provide support before and after Go Live.</i></p>
