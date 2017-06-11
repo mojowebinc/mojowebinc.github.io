@@ -56,7 +56,7 @@ Dear team member:
 
 Congratulations! As part of the <b>ProjectLogic</b> initiative, we are upgrading your current computer with the <b>NewSystem</b> operating system and browser. In addition to providing a more secure and stable desktop experience, these upgrades will enable faster boot up and recovery from “sleep mode”, quicker loading of web pages and improved search capabilities.
 
-<p style="margin:0;"<b><i>We will be upgrading all computers in your area in 4 weeks.</i></b> To prepare, we recommend printing the Go Live Guide that will help you navigate the tasks you need to complete for a successful upgrade, including:</p>
+<p style="margin:0;"><b><i>We will be upgrading all computers in your area in 4 weeks.</i></b> To prepare, we recommend printing the Go Live Guide that will help you navigate the tasks you need to complete for a successful upgrade, including:</p>
 - Storing personal files properly
 - Reviewing job aids
 - Creating your logon ID and password
@@ -231,7 +231,7 @@ You are scheduled to have your computer upgraded to <b>NewSystem</b> tonight. Pl
 - In the Password field enter your <b>OnePass</b> password
 - Click OK
 
-<p style="margin:0;"<b>Reminders</b></p>
+<p style="margin:0;"><b>Reminders</b></p>
 - You will have access to the <b>NewSystem</b> tomorrow
 - Move all your individual work files to your “My Documents” folder and your group shared files to your shared network drive (Failure to do so can result in your files being permanently lost)  
 - Review your job aids
@@ -267,7 +267,7 @@ Dear Team Member:
 
 Welcome to <b>NewSystem</b>.
 
-To make your first day a productive one, you will need to complete some Go Live activities (See <b><i>ProjectLogic Go Live Guide</i></b>):
+<p style="margin:0;">To make your first day a productive one, you will need to complete some Go Live activities (See <b><i>ProjectLogic Go Live Guide</i></b>):</p>
 - Verify that you have all your files (“My Document” & shared network drives)
 - Ensure you have all your applications
 - Check that your local printers are connected
