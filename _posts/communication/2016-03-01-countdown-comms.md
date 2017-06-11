@@ -85,7 +85,7 @@ The <b>ProjectLogic</b> Team
 <p></p>
 <p style="margin:0;">To: Companyone NewSystem Upgrade Participants</p>
 <p style="margin:0;">From: The ProjectLogic Team</p>
-<p style="margin:0;">Subject:  ACTION REQUIRED: Store Your Individual and Group Shared Files Properly</p>
+<p style="margin:0;">Subject:  ACTION REQUIRED | Store Your Individual and Group Shared Files Properly</p>
 <p></p>
 
 Dear team member,
@@ -96,7 +96,7 @@ To ensure a smooth transition, it is critical that you store all files in an app
 
 <p style="margin:0;"><b>Action Required</b></p>
 <p style="margin:0;">Move your files to an appropriate location (Failure to do so can results in files being permanently lost):</p>
-- Move all your individual work files, that are acceptable “transfer” file types, to your My Documents folder
+- Move all your individual work files to your My Documents folder
 - Move all your group shared files to your shared network drive.
 
 <p style="margin:0;"><b>Feedback and Questions</b></p>
@@ -122,7 +122,7 @@ The <b>ProjectLogic</b> Team
 <p></p>
 <p style="margin:0;">To: Companyone NewSystem Upgrade Participants</p>
 <p style="margin:0;">From: The ProjectLogic Team</p>
-<p style="margin:0;">Subject:  ACTION REQUIRED: Review Your Job Aids</p>
+<p style="margin:0;">Subject:  ACTION REQUIRED | Review Your Job Aids</p>
 <p></p>
 
 Dear team member:
@@ -132,7 +132,7 @@ Your computer is scheduled to be upgraded in 2 weeks.
 To ensure you are ready to use the new technology, please review the job aids listed below. These job aids will help you navigate the new software and instruct you how to download additional software, should you need it.
 
 <p style="margin:0;"><b>Action Required</b></p>
-<p style="margin:0;">Prior to the upgrade, review the following job aids available at the ProjectLogic Resource Center:</p>
+<p style="margin:0;">Prior to the upgrade, review the following job aids available at the <b>ProjectLogic Resource Center</b>:</p>
 - <b>ProjectLogic Go Live Guide</b>
 - <b>NewSystem Quick Start Guide</b>
 - <b>SoftwareStore Download Guide</b>
@@ -164,18 +164,18 @@ The <b>ProjectLogic</b> Team
 
 <p style="margin:0;">To: Companyone NewSystem Upgrade Participants</p>
 <p style="margin:0;">From: The ProjectLogic Team</p>
-<p style="margin:0;">Subject:  ACTION REQUIRED: Register with OnePass</p>
+<p style="margin:0;">Subject:  ACTION REQUIRED | Register with OnePass</p>
 <p></p>
 
 Dear team member:
 
-As part of the <b>NewSystem</b> upgrade, we will be consolidating all of your company ID / Password combinations into a single set of logon credentials. To prepare for this change, you will need to create a single ID and Password with <b>OnePass</b>, located at OnePass.Companyone.com.
+As part of the <b>NewSystem</b> upgrade, we will be consolidating all of your company ID-Password combinations into a single set of logon credentials. To prepare for this change, you will need to create a single ID and Password with <b>OnePass</b>, located at <i>OnePass.Companyone.com</i>.
 
 <p style="margin:0;"><b>Action Required</b></p>
 <p style="margin:0;">Prior to your upgrade you will need to:</p>
 - Create your <b>OnePass</b> profile:
-  + Go to Go to OnePass.Companyone.com
-  + Click the Create / Update Profile button
+  + Go to <i>OnePass.Companyone.com</i>
+  + Click the "Create / Update Profile" button
   + Enter your new Logon and Password (If you need assistance please contact Security Administration at 555.555.5555)
 - Check your email the day before your scheduled upgrade for additional communications
 
@@ -208,7 +208,7 @@ The <b>ProjectLogic</b> Team
 
 <p style="margin:0;">To: Companyone NewSystem Upgrade Participants</p>
 <p style="margin:0;">From: The ProjectLogic Team</p>
-<p style="margin:0;">Subject:  ACTION REQUIRED: Complete Your Final Prep for the NewSystem Upgrade</p>
+<p style="margin:0;">Subject:  ACTION REQUIRED | Complete Your Final Prep for the NewSystem Upgrade</p>
 <p></p>
 
 Dear Team Member:
@@ -221,15 +221,15 @@ You are scheduled to have your computer upgraded to <b>NewSystem</b> tonight. Pl
 - Ensure your computer power cord is plugged in
 - Ensure your computer is physically cabled to the <span style="font-family: Times; font-weight: bold">Companyone</span> network
 - Save any in-progress tasks and close any applications you have open
-- Log out of OldSystem:
+- Log out of <b>LegacySystem</b>:
 
 <b>NOTE: Failure to follow the instructions above will result in a failed upgrade for your computer.</b>
 
-<b>Logging On Tomorrow</b>
+<p style="margin:0;"><b>Logging On Tomorrow</b></p>
 <p style="margin:0;">Follow the instructions below for logging on to <b>NewSystem</b>:</p>
-- In the User name field, enter your <b>OnePass</b> ID
-- In the Password field enter your <b>OnePass</b> password
-- Click OK
+- In the "User name" field, enter your <b>OnePass</b> ID
+- In the "Password" field enter your <b>OnePass</b> password
+- Click "OK"
 
 <p style="margin:0;"><b>Reminders</b></p>
 - You will have access to the <b>NewSystem</b> tomorrow
