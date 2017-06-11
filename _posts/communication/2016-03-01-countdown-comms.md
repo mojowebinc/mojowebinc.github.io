@@ -59,7 +59,7 @@ Congratulations! As part of the <b>ProjectLogic</b> initiative, we are upgrading
 <p style="margin:0;"<b><i>We will be upgrading all computers in your area in 4 weeks.</i></b> To prepare, we recommend printing the Go Live Guide that will help you navigate the tasks you need to complete for a successful upgrade, including:</p>
 - Storing personal files properly
 - Reviewing job aids
-- Validating your login ID and password
+- Creating your logon ID and password
 - Logging on to <b>NewSystem</b> for the first time
 
 <p style="margin:0;"><b>Feedback and Questions</b></p>
