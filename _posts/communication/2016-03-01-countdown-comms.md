@@ -47,26 +47,26 @@ Go Live countdown communications are the culmination of an effective communicati
 </div>
 
 <p></p>
-<p style="margin:0;">To: <span style="font-family: Times; font-weight: bold">Companyone</span> <b>NewSystem</b> Upgrade Participants</p>
-<p style="margin:0;">From: The <b>ProjectLogic</b> Team</p>
-<p style="margin:0;">Subject: PREPARE: <b>NewSystem</b> Arriving Soon</p>
+<p style="margin:0;">To: Companyone NewSystem Upgrade Participants</p>
+<p style="margin:0;">From: The ProjectLogic Team</p>
+<p style="margin:0;">Subject: PREPARE: NewSystem Arriving Soon</p>
 <p></p>
 
 Dear team member:
 
-Congratulations! As part of the <b>ProjectLogic</b> initiative, we are upgrading your current computer with the NewSystem operating system and browser. In addition to providing a more secure and stable desktop experience, these upgrades will enable faster boot up and recovery from “sleep mode”, quicker loading of web pages and improved search capabilities.
+Congratulations! As part of the <b>ProjectLogic</b> initiative, we are upgrading your current computer with the <b>NewSystem</b> operating system and browser. In addition to providing a more secure and stable desktop experience, these upgrades will enable faster boot up and recovery from “sleep mode”, quicker loading of web pages and improved search capabilities.
 
 <b><i>We will be upgrading all computers in your area in 4 weeks.</i></b> To prepare, we recommend printing the Go Live Guide that will help you navigate the tasks you need to complete for a successful upgrade, including:  
 - Storing personal files properly
 - Reviewing job aids
 - Validating your login ID and password
-- Logging on to NewSystem for the first time
+- Logging on to <b>NewSystem</b> for the first time
 
 <b>Feedback and Questions</b>
 <p>If you have any questions about these changes, please visit the <b>ProjectLogic Resource Center</b> at ProjectLogic.Companyone.com.</p>
 
 Thank you,
-The ProjectLogic Team
+The <b>ProjectLogic</b> Team
 
 <br>
 <hr>
@@ -80,9 +80,10 @@ The ProjectLogic Team
   </div>
 </div>
 
-To:  Companyone NewSystem Upgrade Participants
-From:  The ProjectLogic Team
-Subject:  ACTION REQUIRED: Store Your Individual and Group Shared Files Properly
+<p style="margin:0;">To: Companyone NewSystem Upgrade Participants</p>
+<p style="margin:0;">From: The ProjectLogic Team</p>
+<p style="margin:0;">Subject:  ACTION REQUIRED: Store Your Individual and Group Shared Files Properly</p>
+<p></p>
 
 Dear team member,
 
@@ -99,7 +100,7 @@ Move your files to an appropriate location (Failure to do so can results in file
 If you have any questions about these changes, please visit the ProjectLogic Resource Center at ProjectLogic.Companyone.com.
 
 Thank you.
-The ProjectLogic Team
+The <b>ProjectLogic</b> Team
 
 <br>
 <hr>
@@ -113,9 +114,10 @@ The ProjectLogic Team
   </div>
 </div>
 
-To:  Companyone ProjectLogic Upgrade Participants
-From:  The ProjectLogic Team
-Subject:  ACTION REQUIRED: Review Your Job Aids
+<p style="margin:0;">To: Companyone NewSystem Upgrade Participants</p>
+<p style="margin:0;">From: The ProjectLogic Team</p>
+<p style="margin:0;">Subject:  ACTION REQUIRED: Review Your Job Aids</p>
+<p></p>
 
 Dear team member:
 
@@ -125,19 +127,19 @@ To ensure you are ready to use the new technology, please review the job aids li
 
 <b>Action Required</b>
 Prior to the upgrade, review the following job aids available at the ProjectLogic Resource Center:
-- ProjectLogic Go Live Guide
-- NewSystem Quick Start Guide
-- SoftwareStore Download Guide
+- <b>ProjectLogic Go Live Guide</b>
+- <b>NewSystem Quick Start Guide</b>
+- <b>SoftwareStore Download Guide</b>
 
 <b>Reminders</b>
-- In two weeks you will have access to the NewSystem operating system and browser
+- In two weeks you will have access to the <b>NewSystem</b> operating system and browser
 - Move all your individual work files to your “My Documents” folder and your group shared files to your shared network drive (Failure to do so can result in your files being permanently lost)
 
 <b>Feedback and Questions</b>
 If you have any questions about these changes, please visit the ProjectLogic Resource Center at ProjectLogic.Companyone.com.
 
 Thank you.
-The ProjectLogic Team
+The <b>ProjectLogic</b>  Team
 
 <br>
 <hr>
@@ -151,17 +153,18 @@ The ProjectLogic Team
   </div>
 </div>
 
-To:  Companyone ProjectLogic Upgrade Participants
-From:  The ProjectLogic Team
-Subject:  ACTION REQUIRED: Register with OnePass
+<p style="margin:0;">To: Companyone NewSystem Upgrade Participants</p>
+<p style="margin:0;">From: The ProjectLogic Team</p>
+<p style="margin:0;">Subject:  ACTION REQUIRED: Register with OnePass</p>
+<p></p>
 
 Dear team member:
 
-As part of the NewSystem upgrade, we will be consolidating all of your company ID / Password combinations into a single set of logon credentials. To prepare for this change, you will need to create a single ID and Password with OnePass, located at OnePass.Companyone.com.
+As part of the <b>NewSystem</b> upgrade, we will be consolidating all of your company ID / Password combinations into a single set of logon credentials. To prepare for this change, you will need to create a single ID and Password with <b>OnePass</b>, located at OnePass.Companyone.com.
 
 <b>Action Required</b>
 Prior to your upgrade you will need to:
-- Create your OnePass profile:
+- Create your <b>OnePass</b> profile:
   + Go to Go to OnePass.Companyone.com
   + Click the Create / Update Profile button
   + Enter your new Logon and Password (If you need assistance please contact Security Administration at 555.555.5555)
@@ -169,7 +172,7 @@ Prior to your upgrade you will need to:
 
 <b>Reminders</b>
 - Your computer is scheduled to be upgraded in 1 Week
-- You will have access to the NewSystem on Date and Time
+- You will have access to the <b>NewSystem</b> on Date and Time
 - Move all your individual work files to your “My Documents” folder and your group shared files to your shared network drive (Failure to do so can result in your files being permanently lost)  
 - Review your job aids
 
@@ -177,7 +180,7 @@ Prior to your upgrade you will need to:
 If you have any questions about these changes, please visit the ProjectLogic Resource Center at ProjectLogic.Companyone.com.
 
 Thank you.
-The ProjectLogic Team
+The <b>ProjectLogic</b> Team
 
 <br>
 <hr>
@@ -191,41 +194,42 @@ The ProjectLogic Team
   </div>
 </div>
 
-To:  Companyone ProjectLogic Upgrade Participants
-From:  The ProjectLogic Team
-Subject:  ACTION REQUIRED: Complete Your Final Prep for the NewSystem Upgrade
+<p style="margin:0;">To: Companyone NewSystem Upgrade Participants</p>
+<p style="margin:0;">From: The ProjectLogic Team</p>
+<p style="margin:0;">Subject:  ACTION REQUIRED: Complete Your Final Prep for the NewSystem Upgrade</p>
+<p></p>
 
 Dear Team Member:
 
-You are scheduled to have your computer upgraded to NewSystem tonight. Please be sure you have completed all your preparation activities (See the ProjectLogic Go Live Guide).
+You are scheduled to have your computer upgraded to <b>NewSystem</b> tonight. Please be sure you have completed all your preparation activities (See the ProjectLogic Go Live Guide).
 
 <b>Actions to Complete Before 6 p.m. Tonight</b>
 Complete “Night Before Activities” before you leave for the day:
-- Print the ProjectLogic Go Live Guide
+- Print the <b>ProjectLogic Go Live Guide</b>
 - Ensure your computer power cord is plugged in
-- Ensure your computer is physically cabled to the Companyone network
+- Ensure your computer is physically cabled to the <span style="font-family: Times; font-weight: bold">Companyone</span> network
 - Save any in-progress tasks and close any applications you have open
 - Log out of OldSystem:
 
 <b>NOTE: Failure to follow the instructions above will result in a failed upgrade for your computer.</b>
 
 <b>Logging On Tomorrow</b>
-Follow the instructions below for logging on to NewSystem:
-- In the User name field, enter your OnePass ID
-- In the Password field enter your OnePass password
+Follow the instructions below for logging on to <b>NewSystem</b>:
+- In the User name field, enter your <b>OnePass</b> ID
+- In the Password field enter your <b>OnePass</b> password
 - Click OK
 
 <b>Reminders</b>
-- You will have access to the NewSystem tomorrow
+- You will have access to the <b>NewSystem</b> tomorrow
 - Move all your individual work files to your “My Documents” folder and your group shared files to your shared network drive (Failure to do so can result in your files being permanently lost)  
 - Review your job aids
-- Make sure you have your OnePass ID and Password
+- Make sure you have your <b>OnePass</b> ID and Password
 
 <b>Feedback and Questions</b>
 If you have any questions about these changes, please visit the ProjectLogic Resource Center at ProjectLogic.Companyone.com.
 
 Thank you.
-The ProjectLogic Team
+The <b>ProjectLogic</b> Team
 
 <br>
 <hr>
@@ -240,15 +244,16 @@ The ProjectLogic Team
   </div>
 </div>
 
-To:  Companyone ProjectLogic Upgrade Participants
-From:  The ProjectLogic Team
-Subject:  ACTION REQUIRED: Welcome to NewSystem
+<p style="margin:0;">To: Companyone NewSystem Upgrade Participants</p>
+<p style="margin:0;">From: The ProjectLogic Team</p>
+<p style="margin:0;">Subject:  ACTION REQUIRED: Welcome to NewSystem</p>
+<p></p>
 
 Dear Team Member:
 
-Welcome to NewSystem.
+Welcome to <b>NewSystem</b>.
 
-To make your first day a productive one, you will need to complete some Go Live activities (See ProjectLogic Go Live Guide):
+To make your first day a productive one, you will need to complete some Go Live activities (See <b><i>ProjectLogic Go Live Guide</i></b>):
 - Verify that you have all your files (“My Document” & shared network drives)
 - Ensure you have all your applications
 - Check that your local printers are connected
@@ -257,7 +262,7 @@ To make your first day a productive one, you will need to complete some Go Live 
 If you have any questions about these changes, please visit the ProjectLogic Resource Center at ProjectLogic.Companyone.com.
 
 Thank you.
-The ProjectLogic Team
+The <b>ProjectLogic</b> Team
 
 
 <br>
