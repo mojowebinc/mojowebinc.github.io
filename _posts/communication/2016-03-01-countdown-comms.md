@@ -94,7 +94,7 @@ Your computer is scheduled to be upgraded in 3 weeks.
 
 To ensure a smooth transition, it is critical that you store all files in an appropriate location prior to the upgrade. <b><i>Failure to do so can result in your files being permanently lost.</i></b>
 
-<p style="margin:0;"<b>Action Required</b></p>
+<p style="margin:0;"><b>Action Required</b></p>
 <p style="margin:0;">Move your files to an appropriate location (Failure to do so can results in files being permanently lost):</p>
 - Move all your individual work files, that are acceptable “transfer” file types, to your My Documents folder
 - Move all your group shared files to your shared network drive.
@@ -131,13 +131,13 @@ Your computer is scheduled to be upgraded in 2 weeks.
 
 To ensure you are ready to use the new technology, please review the job aids listed below. These job aids will help you navigate the new software and instruct you how to download additional software, should you need it.
 
-<p style="margin:0;"<b>Action Required</b></p>
+<p style="margin:0;"><b>Action Required</b></p>
 <p style="margin:0;">Prior to the upgrade, review the following job aids available at the ProjectLogic Resource Center:</p>
 - <b>ProjectLogic Go Live Guide</b>
 - <b>NewSystem Quick Start Guide</b>
 - <b>SoftwareStore Download Guide</b>
 
-<p style="margin:0;"<b>Reminders</b></p>
+<p style="margin:0;"><b>Reminders</b></p>
 - In two weeks you will have access to the <b>NewSystem</b> operating system and browser
 - Move all your individual work files to your “My Documents” folder and your group shared files to your shared network drive (Failure to do so can result in your files being permanently lost)
 
@@ -171,7 +171,7 @@ Dear team member:
 
 As part of the <b>NewSystem</b> upgrade, we will be consolidating all of your company ID / Password combinations into a single set of logon credentials. To prepare for this change, you will need to create a single ID and Password with <b>OnePass</b>, located at OnePass.Companyone.com.
 
-<p style="margin:0;"<b>Action Required</b></p>
+<p style="margin:0;"><b>Action Required</b></p>
 <p style="margin:0;">Prior to your upgrade you will need to:</p>
 - Create your <b>OnePass</b> profile:
   + Go to Go to OnePass.Companyone.com
@@ -179,7 +179,7 @@ As part of the <b>NewSystem</b> upgrade, we will be consolidating all of your co
   + Enter your new Logon and Password (If you need assistance please contact Security Administration at 555.555.5555)
 - Check your email the day before your scheduled upgrade for additional communications
 
-<p style="margin:0;"<b>Reminders</b></p>
+<p style="margin:0;"><b>Reminders</b></p>
 - Your computer is scheduled to be upgraded in 1 Week
 - You will have access to the <b>NewSystem</b> on Date and Time
 - Move all your individual work files to your “My Documents” folder and your group shared files to your shared network drive (Failure to do so can result in your files being permanently lost)  
@@ -215,7 +215,7 @@ Dear Team Member:
 
 You are scheduled to have your computer upgraded to <b>NewSystem</b> tonight. Please be sure you have completed all your preparation activities (See the ProjectLogic Go Live Guide).
 
-<p style="margin:0;"<b>Actions to Complete Before 6 p.m. Tonight</b></p>
+<p style="margin:0;"><b>Actions to Complete Before 6 p.m. Tonight</b></p>
 <p style="margin:0;">Complete “Night Before Activities” before you leave for the day:</p>
 - Print the <b>ProjectLogic Go Live Guide</b>
 - Ensure your computer power cord is plugged in
