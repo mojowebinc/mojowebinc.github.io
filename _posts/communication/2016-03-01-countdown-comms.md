@@ -260,7 +260,7 @@ The <b>ProjectLogic</b> Team
 
 <p style="margin:0;">To: Companyone NewSystem Upgrade Participants</p>
 <p style="margin:0;">From: The ProjectLogic Team</p>
-<p style="margin:0;">Subject:  ACTION REQUIRED: Welcome to NewSystem</p>
+<p style="margin:0;">Subject: ACTION REQUIRED | Welcome to NewSystem</p>
 <p></p>
 
 Dear Team Member:
