@@ -47,14 +47,14 @@ Go Live countdown communications are the culmination of an effective communicati
 </div>
 
 <p></p>
-<p style="margin:0;">To: Companyone NewSystem Upgrade Participants</p>
-<p style="margin:0;">From: The ProjectLogic Team</p>
-<p style="margin:0;">Subject: PREPARE: NewSystem Arriving Soon</p>
+<p style="margin:0;">To: <span style="font-family: Times; font-weight: bold">Companyone</span> <b>NewSystem</b> Upgrade Participants</p>
+<p style="margin:0;">From: The <b>ProjectLogic</b> Team</p>
+<p style="margin:0;">Subject: PREPARE: <b>NewSystem</b> Arriving Soon</p>
 <p></p>
 
 Dear team member:
 
-Congratulations! As part of the ProjectLogic initiative, we are upgrading your current computer with the NewSystem operating system and browser. In addition to providing a more secure and stable desktop experience, these upgrades will enable faster boot up and recovery from “sleep mode”, quicker loading of web pages and improved search capabilities.
+Congratulations! As part of the <b>ProjectLogic</b> initiative, we are upgrading your current computer with the NewSystem operating system and browser. In addition to providing a more secure and stable desktop experience, these upgrades will enable faster boot up and recovery from “sleep mode”, quicker loading of web pages and improved search capabilities.
 
 <b><i>We will be upgrading all computers in your area in 4 weeks.</i></b> To prepare, we recommend printing the Go Live Guide that will help you navigate the tasks you need to complete for a successful upgrade, including:  
 - Storing personal files properly
