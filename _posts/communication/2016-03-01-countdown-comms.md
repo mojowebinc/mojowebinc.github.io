@@ -63,7 +63,7 @@ Congratulations! As part of the ProjectLogic initiative, we are upgrading your c
 - Logging on to NewSystem for the first time
 
 <b>Feedback and Questions</b>
-If you have any questions about these changes, please visit the ProjectLogic Resource Center at ProjectLogic.Companyone.com.
+<p>If you have any questions about these changes, please visit the ProjectLogic Resource Center at ProjectLogic.Companyone.com.</p>
 
 Thank you,
 The ProjectLogic Team
