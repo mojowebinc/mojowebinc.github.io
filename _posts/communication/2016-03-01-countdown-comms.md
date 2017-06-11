@@ -63,7 +63,7 @@ Congratulations! As part of the <b>ProjectLogic</b> initiative, we are upgrading
 - Logging on to <b>NewSystem</b> for the first time
 
 <b>Feedback and Questions</b>
-<p>If you have any questions about these changes, please visit the <b>ProjectLogic Resource Center</b> at ProjectLogic.Companyone.com.</p>
+<p>If you have any questions about these changes, please visit the <b>ProjectLogic Resource Center</b> at <i>ProjectLogic.Companyone.com.</i></p>
 
 Thank you,
 The <b>ProjectLogic</b> Team
@@ -92,12 +92,12 @@ Your computer is scheduled to be upgraded in 3 weeks.
 To ensure a smooth transition, it is critical that you store all files in an appropriate location prior to the upgrade. <b><i>Failure to do so can result in your files being permanently lost.</i></b>
 
 <b>Action Required</b>
-Move your files to an appropriate location (Failure to do so can results in files being permanently lost):
+<p>Move your files to an appropriate location (Failure to do so can results in files being permanently lost):</p>
 - Move all your individual work files, that are acceptable “transfer” file types, to your My Documents folder
 - Move all your group shared files to your shared network drive.
 
 <b>Feedback and Questions</b>
-If you have any questions about these changes, please visit the ProjectLogic Resource Center at ProjectLogic.Companyone.com.
+<p>If you have any questions about these changes, please visit the <b>ProjectLogic Resource Center</b> at <i>ProjectLogic.Companyone.com.</i></p>
 
 Thank you.
 The <b>ProjectLogic</b> Team
@@ -126,7 +126,7 @@ Your computer is scheduled to be upgraded in 2 weeks.
 To ensure you are ready to use the new technology, please review the job aids listed below. These job aids will help you navigate the new software and instruct you how to download additional software, should you need it.
 
 <b>Action Required</b>
-Prior to the upgrade, review the following job aids available at the ProjectLogic Resource Center:
+<p>Prior to the upgrade, review the following job aids available at the ProjectLogic Resource Center:</p>
 - <b>ProjectLogic Go Live Guide</b>
 - <b>NewSystem Quick Start Guide</b>
 - <b>SoftwareStore Download Guide</b>
@@ -136,7 +136,7 @@ Prior to the upgrade, review the following job aids available at the ProjectLogi
 - Move all your individual work files to your “My Documents” folder and your group shared files to your shared network drive (Failure to do so can result in your files being permanently lost)
 
 <b>Feedback and Questions</b>
-If you have any questions about these changes, please visit the ProjectLogic Resource Center at ProjectLogic.Companyone.com.
+<p>If you have any questions about these changes, please visit the <b>ProjectLogic Resource Center</b> at <i>ProjectLogic.Companyone.com.</i></p>
 
 Thank you.
 The <b>ProjectLogic</b>  Team
@@ -163,7 +163,7 @@ Dear team member:
 As part of the <b>NewSystem</b> upgrade, we will be consolidating all of your company ID / Password combinations into a single set of logon credentials. To prepare for this change, you will need to create a single ID and Password with <b>OnePass</b>, located at OnePass.Companyone.com.
 
 <b>Action Required</b>
-Prior to your upgrade you will need to:
+<p>Prior to your upgrade you will need to:</p>
 - Create your <b>OnePass</b> profile:
   + Go to Go to OnePass.Companyone.com
   + Click the Create / Update Profile button
@@ -177,7 +177,7 @@ Prior to your upgrade you will need to:
 - Review your job aids
 
 <b>Feedback and Questions</b>
-If you have any questions about these changes, please visit the ProjectLogic Resource Center at ProjectLogic.Companyone.com.
+<p>If you have any questions about these changes, please visit the <b>ProjectLogic Resource Center</b> at <i>ProjectLogic.Companyone.com.</i></p>
 
 Thank you.
 The <b>ProjectLogic</b> Team
@@ -204,7 +204,7 @@ Dear Team Member:
 You are scheduled to have your computer upgraded to <b>NewSystem</b> tonight. Please be sure you have completed all your preparation activities (See the ProjectLogic Go Live Guide).
 
 <b>Actions to Complete Before 6 p.m. Tonight</b>
-Complete “Night Before Activities” before you leave for the day:
+<p>Complete “Night Before Activities” before you leave for the day:</p>
 - Print the <b>ProjectLogic Go Live Guide</b>
 - Ensure your computer power cord is plugged in
 - Ensure your computer is physically cabled to the <span style="font-family: Times; font-weight: bold">Companyone</span> network
@@ -214,7 +214,7 @@ Complete “Night Before Activities” before you leave for the day:
 <b>NOTE: Failure to follow the instructions above will result in a failed upgrade for your computer.</b>
 
 <b>Logging On Tomorrow</b>
-Follow the instructions below for logging on to <b>NewSystem</b>:
+<p>Follow the instructions below for logging on to <b>NewSystem</b>:</p>
 - In the User name field, enter your <b>OnePass</b> ID
 - In the Password field enter your <b>OnePass</b> password
 - Click OK
@@ -226,7 +226,7 @@ Follow the instructions below for logging on to <b>NewSystem</b>:
 - Make sure you have your <b>OnePass</b> ID and Password
 
 <b>Feedback and Questions</b>
-If you have any questions about these changes, please visit the ProjectLogic Resource Center at ProjectLogic.Companyone.com.
+<p>If you have any questions about these changes, please visit the <b>ProjectLogic Resource Center</b> at <i>ProjectLogic.Companyone.com.</i></p>
 
 Thank you.
 The <b>ProjectLogic</b> Team
@@ -259,7 +259,7 @@ To make your first day a productive one, you will need to complete some Go Live 
 - Check that your local printers are connected
 
 <b>Feedback and Questions</b>
-If you have any questions about these changes, please visit the ProjectLogic Resource Center at ProjectLogic.Companyone.com.
+<p>If you have any questions about these changes, please visit the <b>ProjectLogic Resource Center</b> at <i>ProjectLogic.Companyone.com.</i></p>
 
 Thank you.
 The <b>ProjectLogic</b> Team
