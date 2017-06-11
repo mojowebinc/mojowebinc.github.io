@@ -17,17 +17,17 @@ header:
     caption_url: http://startupstockphotos.com/
 
 image:
-    #title: 99com_blt01_title.jpg
-    thumb: 99com_blt01_thumb.jpg
-    homepage: 99com_blt01_home.jpg
+    #title: 99com_cdcomm_title.jpg
+    thumb: 99com_cdcomm_thumb.jpg
+    homepage: 99com_cdcomm_home.jpg
     caption: Photo by Pixabay.
     caption_url: https://pixabay.com/
 ---
 
 <div class="row" >
   <div class="medium-12 columns t30">
-    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_blt01_widget.jpg" alt=""></strong>
-    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_blt01_title.jpg" alt=""></strong>
+    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99com_cdcomm_widget.jpg" alt=""></strong>
+    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99com_cdcomm_title.jpg" alt=""></strong>
   </div>
 </div>
 <p><a href="https://pixabay.com/"><small>Graphic by Jim Farrell | Photo by Pixabay.com.</small></a></p>
