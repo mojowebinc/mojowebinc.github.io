@@ -62,8 +62,9 @@ Congratulations! As part of the <b>ProjectLogic</b> initiative, we are upgrading
 - Validating your login ID and password
 - Logging on to <b>NewSystem</b> for the first time
 
-<b>Feedback and Questions</b>
-<p style="margin:0;">If you have any questions about these changes, please visit the <b>ProjectLogic Resource Center</b> at <i>ProjectLogic.Companyone.com.</i></p>
+<p style="margin:0;"><b>Feedback and Questions</b></p>
+<p>If you have any questions about these changes, please visit the <b>ProjectLogic Resource Center</b> at <i>ProjectLogic.Companyone.com.</i></p>
+
 
 Thank you,
 
