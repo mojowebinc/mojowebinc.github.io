@@ -66,6 +66,7 @@ Congratulations! As part of the <b>ProjectLogic</b> initiative, we are upgrading
 <p style="margin:0;">If you have any questions about these changes, please visit the <b>ProjectLogic Resource Center</b> at <i>ProjectLogic.Companyone.com.</i></p>
 
 Thank you,
+
 The <b>ProjectLogic</b> Team
 
 <br>
