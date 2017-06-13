@@ -17,7 +17,7 @@ header:
 permalink: "/02ocm/"
 ---
 
-Businesses must deal with change daily to capitalize on opportunities and avoid threats. There are times, however, when responding to a shifting business terrain demands more resources than are available. When your organization needs to enhance its change capability, Mojo-Web can help by providing focused and effective Organization Change Management (OCM) services.
+Businesses must deal with change daily to capitalize on opportunities and avoid threats. There are times, however, when responding to a shifting business terrain demands more resources than are available. When your organization needs to enhance its change capability, Mojo-Web can help by providing focused and effective Organization Change Management (OCM) services.xxx
 
 <br>
 <hr>
