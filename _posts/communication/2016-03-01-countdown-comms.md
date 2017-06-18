@@ -4,6 +4,7 @@ title: "Countdown Emails for Go Live"
 subheadline: "Awareness, Guidance and Support"
 teaser: "Effective Go Live countdown communications create awareness of critical dates, provide guidance on what to do and connect employees to support resources."
 breadcrumb: true
+show_meta: false
 categories:
     - Blog
 tags:

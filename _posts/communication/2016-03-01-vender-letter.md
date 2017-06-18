@@ -4,6 +4,7 @@ title: "Vender and Customer Communications"
 subheadline: "Increase Awareness, Reduce Risk"
 teaser: "Good communication and risk management extends to customers and vendors."
 breadcrumb: true
+show_meta: false
 categories:
     - Blog
 tags:

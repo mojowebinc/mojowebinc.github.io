@@ -4,6 +4,7 @@ title: "Communication"
 subheadline: "Communication Overview"
 teaser: "Effective communication involves an understanding of the sender, the message and the receiver."
 breadcrumb: true
+show_meta: false
 categories:
     - Blog
 tags:
@@ -18,15 +19,16 @@ header:
     caption_url: http://startupstockphotos.com/
 
 image:
-    title: b03co_1660_title.jpg
-    thumb: b03co_1660_thumb.jpg
-    homepage: b03co_1660_home.jpg
+    title: 77com_1660_title.jpg
+    thumb: 77com_1660_thumb.jpg
+    homepage: 77com_1660_home.jpg
     caption: Photo by @lumvox - Unsplash.
     caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
+## <Beta - Place Holder File For Initializing Blog Folder - To Be Removed>
 
-#### Adapting at the Speed of Change
+## Adapting at the Speed of Change
 Successful Instructional Design begins with several vital questions. How does the change impact roles? How does the change impact individuals.
 
 The ADDIE model stands for: Analysis, Design, Development, Implementation and Evaluation.

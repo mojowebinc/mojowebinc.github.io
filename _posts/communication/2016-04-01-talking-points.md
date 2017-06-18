@@ -4,6 +4,7 @@ title: "A Responsive Manager Talking Points Email"
 subheadline: "Consistent Messages, Consistent Delivery"
 teaser: "Communicating key messages to managers on a regular basis ensures consistent messaging and drives cascading communications to employees."
 breadcrumb: true
+show_meta: false
 categories:
     - Blog
 tags:

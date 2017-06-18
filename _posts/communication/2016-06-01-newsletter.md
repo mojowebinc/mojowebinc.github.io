@@ -4,6 +4,7 @@ title: "A Responsive eNewsletter"
 subheadline: "One Newsletter, Many Devices"
 teaser: "Employees have access to many devices. A responsive design allows them to view eNewsletter content however they choose."
 breadcrumb: true
+show_meta: false
 categories:
     - Blog
 tags:

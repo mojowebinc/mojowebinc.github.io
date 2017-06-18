@@ -4,6 +4,7 @@ title: "Instructional Design"
 subheadline: "Instructional Design Overview"
 teaser: "Instructional design is about creating a custom learning experience for the learner."
 breadcrumb: true
+show_meta: false
 categories:
     - Blog
 tags:
@@ -18,13 +19,15 @@ header:
     caption_url: https://unsplash.com/@ptrikutam
 
 image:
-    title: b04in_160208_title.jpg
-    thumb: b04in_160208_thumb.jpg
-    homepage: b04in_160208_home.jpg
+    title: 77insd_160208_title.jpg
+    thumb: 77insd_160208_thumb.jpg
+    homepage: 77insd_160208_home.jpg
     caption: Photo by @lumvox - Unsplash.
     caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
+
+## <Beta - Place Holder File For Initializing Blog Folder - To Be Removed>
 
 ## Adapting at the Speed of Change
 Successful Instructional Design begins with several vital questions. How does the change impact roles? How does the change impact individuals.
