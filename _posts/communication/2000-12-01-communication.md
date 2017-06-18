@@ -28,15 +28,31 @@ image:
 <!--more-->
 ## <Beta - Place Holder File For Initializing Blog Folder - To Be Removed>
 
-## Adapting at the Speed of Change
-Successful Instructional Design begins with several vital questions. How does the change impact roles? How does the change impact individuals.
+Organizations require a constant flow of information for decision making, coordinated action and performance management. However, the accelerated demand for information during strategic change increases the risk of communication breakdown. Mojo-Web can provide an effective and efficient communication program that provides direction for employees and vital feedback for executives.
 
-The ADDIE model stands for: Analysis, Design, Development, Implementation and Evaluation.
+#### Analysis and Planning
+* Stakeholder Mapping and Analysis
+* Communication Channel Inventory
+* Communication Approach and Plan
 
-Samples: CBT, ILT – Presentation, exercise, work instructions / procedures, manuals (student and instructor)
+#### Core Messaging
+* Project Vision, Mission and Values
+* Project Brand and Key Messages
+* Communication Standards
 
+#### Strategic Communications
+* Business Meetings and Town Halls
+* Talking Points and Countdown Emails
+* Newsletter, Articles and Posters
 
+#### Employee Feedback
+* Focus Groups and Brown Bag Sessions
+* Online Attitude and Flash Surveys
+* Go Live Issue Escalation
 
+<br>
+<hr>  
+<br>
 
 ##### More Communication Posts
 {: .t60 }
