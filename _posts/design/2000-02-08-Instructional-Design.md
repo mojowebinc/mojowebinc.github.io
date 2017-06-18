@@ -29,12 +29,31 @@ image:
 
 ## <Beta - Place Holder File For Initializing Blog Folder - To Be Removed>
 
-## Adapting at the Speed of Change
-Successful Instructional Design begins with several vital questions. How does the change impact roles? How does the change impact individuals.
+For companies to realize new operational capabilities, their employees must learn new skills. But how can employees find the time to learn new skills when they’re busy performing the current ones? Mojo-Web can help you design a personalized learning experience for employees that avoids information overload and work disruption by leveraging the unique learning ecosystem of employees.
 
-The ADDIE model stands for: Analysis, Design, Development, Implementation and Evaluation.
+#### Analysis and Planning
+* Training Needs Assessment
+* Learner Preferences Analysis
+* Training Approach and Plan
 
-Samples: CBT, ILT – Presentation, exercise, work instructions / procedures, manuals (student and instructor)
+#### Design and Development
+* Standards and Guidelines
+* Prototyping and Training Pilot
+* Role-Based Curriculum Paths
+
+#### Implementation
+* Train the Trainer Program
+* Instructor Support Materials
+* Online Performance Support
+
+#### Evaluation
+* Usability Testing
+* Instructor and Course Evaluation
+* Competency Based Certification
+
+<br>
+<hr>  
+<br>
 
 
 
