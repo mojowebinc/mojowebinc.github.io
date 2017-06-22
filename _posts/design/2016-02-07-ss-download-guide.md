@@ -74,7 +74,7 @@ At the **NewSystem** desktop:
 
 <br>
 
-[Back](#contents)
+[Back&nbsp;^](#contents)
 
 <hr>
 
