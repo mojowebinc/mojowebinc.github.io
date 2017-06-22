@@ -93,7 +93,7 @@ There are three key areas in the SoftwareStore interface:
 
 <br>
 
-[Back](#contents)
+[Back&nbsp;^](#contents)
 
 <hr>
 
@@ -145,7 +145,7 @@ The **Installed** tab lists all applications downloaded to your computer.
 
 <br>
 
-[Back](#contents)
+[Back&nbsp;^](#contents)
 
 <hr>
 
@@ -196,7 +196,7 @@ The **Installed** tab displays your recent download, along with all downloads to
 
 <br>
 
-[Back](#contents)
+[Back&nbsp;^](#contents)
 
 <hr>
 
@@ -214,7 +214,7 @@ At the **NewSystem** desktop:
 
 <br>
 
-[Back](#contents)
+[Back&nbsp;^](#contents)
 
 <hr>
 
