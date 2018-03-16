@@ -2,7 +2,7 @@
 layout: page
 title: "Puzzle Themed PowerPoint Graphics"
 subheadline: "PowerPoint Design"
-teaser: "A collection of PowerPoint graphics with a "puzzle" theme compiled from a number of presentations concepts used with clients."
+teaser: "A collection of PowerPoint graphics with a puzzle theme compiled from a number of presentations concepts used with clients."
 breadcrumb: true
 show_meta: false
 categories:
