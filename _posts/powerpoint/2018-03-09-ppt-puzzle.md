@@ -32,7 +32,7 @@ The slides below contained a number of graphics used in presentations or design 
 
 
 <br>
-<p style="margin:0;"><a href="http://mojo-web.com/blog/pptovrv/"><h4><< Back to PowerPoint Work Sample Overview</h4></a></p>
+<p style="margin:0;"><a href="http://mojo-web.com/blog/ppt-ovrv/"><h4><< Back to PowerPoint Work Sample Overview</h4></a></p>
 
 <br><br>
 
@@ -102,7 +102,7 @@ The slides below contained a number of graphics used in presentations or design 
 <br>
 
 <br>
-<p style="margin:0;"><a href="http://mojo-web.com/blog/pptovrv/"><h4><< Back to PowerPoint Work Sample Overview</h4></a></p>
+<p style="margin:0;"><a href="http://mojo-web.com/blog/ppt-ovrv/"><h4><< Back to PowerPoint Work Sample Overview</h4></a></p>
 <br>
 
 ### More PowerPoint Work Samples
